@@ -1,4 +1,31 @@
-flask-dev-bookmarks
-===================
+Flask Development
+=================
 
-Lists of flask development recourses I collected
+- Tutorial
+    - [How to build a news app that never goes down and costs you practically nothing](http://blog.apps.npr.org/2013/02/14/app-template-redux.html)(by NPR)
+    - [Building websites in Python with Flask](http://maximebf.com/blog/2012/10/building-websites-in-python-with-flask/)
+    - [The Flask Mega-Tutoria](http://blog.miguelgrinberg.com/post/the-flask-mega-tutorial-part-i-hello-world)
+    - [Implementing a RESTful Web API with Python & Flask](http://blog.luisrei.com/articles/flaskrest.html)
+- Books
+    - [Explore Flask](http://exploreflask.com/)
+- Repos
+    - [zmusic-ng](http://git.zx2c4.com/zmusic-ng/) - ZX2C4 Music provides a web interface for playing and downloading music files using metadata.
+    - [GuitarFan](https://github.com/lowrain/GuitarFan) - guitar tab
+    - [June](https://github.com/pythoncn/june) - python-china.org
+    - [motiky](https://github.com/notedit/motiky)
+    - [missing](https://github.com/notedit/missing) - a list service called missing
+    - [thenewsmeme.com](https://github.com/danjac/newsmeme)
+    - [overholt](https://github.com/mattupstate/overholt) - Example Flask application illustrating common practices
+    - [pypress](https://github.com/laoqiu/pypress) - flask team blog
+    - [quokka](https://github.com/pythonhub/quokka) - Flask powered CMS on top of mongoengine/MongoDB
+    - [thepast.me](https://github.com/laiwei/thepast)
+- App template/bootstrap/boilerplate
+    - [fbone](https://github.com/imwilsonxu/fbone)
+    - [flask-base](https://github.com/notedit/flask-base)
+    - [cookiecutter-flask](https://github.com/sloria/cookiecutter-flask)
+- Slides
+    - [Advanced Flask Patterns](https://speakerdeck.com/mitsuhiko/advanced-flask-patterns)
+    - [Flasky Goodness](https://speakerdeck.com/kennethreitz/flasky-goodness)
+    - [Domain Driven Design (... with Flask)](https://speakerdeck.com/mikedebo/domain-driven-design-dot-dot-dot-with-flask)
+- Pycon
+    - [In Flask we Trust](http://ua.pycon.org/talks/10)
