@@ -78,6 +78,7 @@
     - [Flask-Analytics](https://github.com/srounet/Flask-Analytics) - A Flask extention that provide user navigation tracking
     - [Flask-StatHat](https://github.com/marksteve/flask-stathat) - StatHat extension for Flask
     - [scales](https://github.com/Cue/scales) - Metrics for Python
+    - [flask-tracking](https://github.com/elasticsales/flask-tracking) - Tracking app for Flask that logs HTTP request and response information in a capped MongoDB collection
 - Other SDK
     - [Flask-Dropbox](https://github.com/playpauseandstop/Flask-Dropbox) - Dropbox Python SDK support for Flask applications
     - [Flask-Heroku](https://github.com/kennethreitz/flask-heroku) - Heroku environment variable configurations for Flask
