@@ -101,6 +101,7 @@ Plugins
     - [Flask-RQ](https://github.com/mattupstate/flask-rq) - RQ (Redis Queue) integration for Flask applications
     - [celery](https://github.com/celery/celery/) - Distributed Task Queue
 - OAuth client/providor
+    - [Authomatic](https://github.com/peterhudec/authomatic) - Authomatic provides out of the box support for a number of providers using OAuth 1.0a (Twitter, Tumblr and more) and OAuth 2.0 (Facebook, Foursquare, GitHub, Google, LinkedIn, PayPal and more)
     - [Flask-GoogleLogin](https://github.com/insynchq/flask-googlelogin) - Flask-GoogleLogin extends Flask-Login to use Google's OAuth2 authorization
     - [flask-googlefed](https://github.com/kennethreitz/flask-googlefed) - Google Federated Logins for Flask
     - [Flask-OpenID](https://github.com/mitsuhiko/flask-openid) - Flask-OpenID adds openid support to flask applications
