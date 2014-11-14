@@ -101,7 +101,7 @@ Plugins
 - Queue
     - [Flask-RQ](https://github.com/mattupstate/flask-rq) - RQ (Redis Queue) integration for Flask applications
     - [celery](https://github.com/celery/celery/) - Distributed Task Queue
-- OAuth client/providor
+- OAuth client/provider
     - [Authomatic](https://github.com/peterhudec/authomatic) - Authomatic provides out of the box support for a number of providers using OAuth 1.0a (Twitter, Tumblr and more) and OAuth 2.0 (Facebook, Foursquare, GitHub, Google, LinkedIn, PayPal and more)
     - [Flask-GoogleLogin](https://github.com/insynchq/flask-googlelogin) - Flask-GoogleLogin extends Flask-Login to use Google's OAuth2 authorization
     - [flask-googlefed](https://github.com/kennethreitz/flask-googlefed) - Google Federated Logins for Flask
@@ -110,6 +110,7 @@ Plugins
     - [Flask-Social](https://github.com/mattupstate/flask-social) - OAuth Provider Integration for Flask-Security
     - [Flask-OAuthlib](https://github.com/lepture/flask-oauthlib) - OAuthlib implementation for Flask
     - [GitHub-Flask](https://github.com/cenkalti/github-flask) - Flask extension for authenticating users with GitHub and making requests to the API
+    - [Python-Social-Auth](https://github.com/omab/python-social-auth) - Social auth made simple
 - Payment
     - [alipay_python](https://github.com/fengli/alipay_python) - not a flask plugin now but you can integrate easily
     - [flask-paypal](https://github.com/jdiez17/flask-paypal) - PayPal integration example with Flask
