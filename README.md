@@ -168,3 +168,4 @@ Plugins
     - [Flask-UUID](https://github.com/wbolster/flask-uuid) - UUID url converter for Flask routes
     - [Flask-Reggie](https://github.com/rhyselsmore/flask-reggie) - Regex Converter for Flask URL Routes
     - [Flask-SocketIO](https://github.com/miguelgrinberg/Flask-SocketIO)
+    - [Flask-Paginate](https://github.com/lixxu/flask-paginate) - Pagination support for Flask
