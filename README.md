@@ -80,7 +80,6 @@ Plugins
 - Session
     - [Flask-KVSession](https://github.com/mbr/flask-kvsession) -  drop-in replacement for Flask's session handling using server-side sessions
     - [Flask-memcache-session](https://github.com/unk2k/Flask-memcache-session) - Adds the ability to use as a storage memcache
-    - [Flask-SocketIO](https://github.com/miguelgrinberg/Flask-SocketIO)
 - Data Validation - Flask-SocketIO gives Flask applications access to low latency bi-direccional communications between the clients and the server.
     - [Flask-WTF](https://github.com/lepture/flask-wtf) - Simple integration of Flask and WTForms, including CSRF, file upload and Recaptcha integration.
     - [Flask-SeaSurf](https://github.com/maxcountryman/flask-seasurf) - SeaSurf is a Flask extension for preventing cross-site request forgery (CSRF).
@@ -168,3 +167,4 @@ Plugins
     - [Flask-FeatureFlags](https://github.com/trustrachel/Flask-FeatureFlags) - A Flask extension that enables or disables features based on configuration
     - [Flask-UUID](https://github.com/wbolster/flask-uuid) - UUID url converter for Flask routes
     - [Flask-Reggie](https://github.com/rhyselsmore/flask-reggie) - Regex Converter for Flask URL Routes
+    - [Flask-SocketIO](https://github.com/miguelgrinberg/Flask-SocketIO)
