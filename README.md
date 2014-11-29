@@ -168,3 +168,4 @@ Plugins
     - [Flask-UUID](https://github.com/wbolster/flask-uuid) - UUID url converter for Flask routes
     - [Flask-Reggie](https://github.com/rhyselsmore/flask-reggie) - Regex Converter for Flask URL Routes
     - [Flask-SocketIO](https://github.com/miguelgrinberg/Flask-SocketIO)
+    - [Flask-Moment](https://github.com/miguelgrinberg/Flask-Moment) - Formatting of dates and times in Flask templates using moment.js
