@@ -63,6 +63,7 @@ Plugins
     - [flask-gevent-socketio-chat](https://github.com/kcarnold/flask-gevent-socketio-chat) - Minimal example of using Flask with python-gevent
     - [chat](https://github.com/jkbr/chat) - A simple chat app created to experiment with Redis, Gevent, Flask & Server-Sent Events
     - [chat](https://github.com/lzyy/chat) - a live chat built with python(flask + gevent + apscheduler) + redis
+    - [enferno](https://github.com/level09/enferno) - A Flask-based Framework for the Next Decade
 - Admin
     - [Flask-Admin](https://github.com/mrjoes/flask-admin) - Simple and extensible administrative interface framework for Flask
     - [Flask-SuperAdmin](https://github.com/SyrusAkbary/Flask-SuperAdmin) - The best admin interface framework for Flask. With scaffolding for MongoEngine, Django and SQLAlchemy
