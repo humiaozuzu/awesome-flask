@@ -10,6 +10,7 @@ Resources
     - [The Flask Mega-Tutorial](http://blog.miguelgrinberg.com/post/the-flask-mega-tutorial-part-i-hello-world)
     - [Implementing a RESTful Web API with Python & Flask](http://blog.luisrei.com/articles/flaskrest.html)
     - [Building a blog using Flask and AngularJS](http://blog.john.mayonvolcanosoftware.com/building-a-blog-using-flask-and-angularjs-part-1/)
+    - [Discover Flask - Full Stack Web Development with Flask](http://discoverflask.com)
 - Books
     - [Explore Flask](http://exploreflask.com/)
 - Repos
