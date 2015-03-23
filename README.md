@@ -9,6 +9,7 @@ Resources
     - [Building websites in Python with Flask](http://maximebf.com/blog/2012/10/building-websites-in-python-with-flask/)
     - [The Flask Mega-Tutorial](http://blog.miguelgrinberg.com/post/the-flask-mega-tutorial-part-i-hello-world)
     - [Implementing a RESTful Web API with Python & Flask](http://blog.luisrei.com/articles/flaskrest.html)
+    - [Discover Flask - Full Stack Web Development with Flask](http://discoverflask.com)
 - Books
     - [Explore Flask](http://exploreflask.com/)
 - Repos
@@ -170,4 +171,5 @@ Plugins
     - [Flask-UUID](https://github.com/wbolster/flask-uuid) - UUID url converter for Flask routes
     - [Flask-Reggie](https://github.com/rhyselsmore/flask-reggie) - Regex Converter for Flask URL Routes
     - [Flask-SocketIO](https://github.com/miguelgrinberg/Flask-SocketIO)
+    - [Flask-Moment](https://github.com/miguelgrinberg/Flask-Moment) - Formatting of dates and times in Flask templates using moment.js
     - [Flask-Paginate](https://github.com/lixxu/flask-paginate) - Pagination support for Flask
