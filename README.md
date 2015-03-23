@@ -92,6 +92,7 @@ Plugins
     - [flask-babel](https://github.com/mitsuhiko/flask-babel) - i18n and l10n support for Flask based on Babel and pytz
 - Full-text searching
     - [Flask-WhooshAlchemy](https://github.com/gyllstromk/Flask-WhooshAlchemy) - Whoosh indexing capabilities for Flask-SQLAlchemy
+    - [SQLAlchemy-Searchable](https://github.com/kvesteri/sqlalchemy-searchable) - Fulltext searchable models for SQLAlchemy. Only supports PostgreSQL. Provides [Flask-SQLAlchemy integration](http://sqlalchemy-searchable.readthedocs.org/en/latest/integrations.html). 
 - Cache
     - [Flask-Cache](https://github.com/thadeusb/flask-cache) - Cache extension for Flask
     - [flask-webcache](https://github.com/fusic-com/flask-webcache) - A Flask extension that adds HTTP based caching to Flask apps
