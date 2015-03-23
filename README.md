@@ -66,6 +66,7 @@ Plugins
 - Admin
     - [Flask-Admin](https://github.com/mrjoes/flask-admin) - Simple and extensible administrative interface framework for Flask
     - [Flask-SuperAdmin](https://github.com/SyrusAkbary/Flask-SuperAdmin) - The best admin interface framework for Flask. With scaffolding for MongoEngine, Django and SQLAlchemy
+    - [Flask-FlatPages](https://github.com/SimonSapin/Flask-FlatPages) - Provides flat static pages to a Flask application
 - Database/ORM/ODM
     - [Flask-MongoEngine](https://github.com/MongoEngine/flask-mongoengine) - MongoEngine flask extension with WTF model forms support
     - [Flask-PyMongo](https://github.com/dcrosta/flask-pymongo) - PyMongo support for Flask applications
