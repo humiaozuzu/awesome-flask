@@ -23,6 +23,7 @@ Resources
     - [pypress](https://github.com/laoqiu/pypress) - flask team blog
     - [quokka](https://github.com/pythonhub/quokka) - Flask powered CMS on top of mongoengine/MongoDB
     - [thepast.me](https://github.com/laiwei/thepast)
+    - [flaskblog](https://github.com/defshine/flaskblog) - a simple blog system based on flask
 - App template/bootstrap/boilerplate
     - [fbone](https://github.com/imwilsonxu/fbone)
     - [flask-base](https://github.com/notedit/flask-base)
