@@ -10,8 +10,11 @@ Resources
     - [The Flask Mega-Tutorial](http://blog.miguelgrinberg.com/post/the-flask-mega-tutorial-part-i-hello-world)
     - [Implementing a RESTful Web API with Python & Flask](http://blog.luisrei.com/articles/flaskrest.html)
     - [Discover Flask - Full Stack Web Development with Flask](http://discoverflask.com)
+    - [Flaskr - Intro to Flask, Test Driven Development, and jQuery](https://github.com/mjhea0/flaskr-tdd)
+    - Kickstarting Flask on Ubuntu - Setup and Deployment](https://realpython.com/blog/python/kickstarting-flask-on-ubuntu-setup-and-deployment/)
 - Books
     - [Explore Flask](http://exploreflask.com/)
+    - [Real Python](https://realpython.com)
 - Repos
     - [zmusic-ng](http://git.zx2c4.com/zmusic-ng/) - ZX2C4 Music provides a web interface for playing and downloading music files using metadata.
     - [GuitarFan](https://github.com/lowrain/GuitarFan) - guitar tab
