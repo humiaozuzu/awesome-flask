@@ -31,8 +31,7 @@ Resources
     - [Advanced Flask Patterns](https://speakerdeck.com/mitsuhiko/advanced-flask-patterns)
     - [Flasky Goodness](https://speakerdeck.com/kennethreitz/flasky-goodness)
     - [Domain Driven Design (... with Flask)](https://speakerdeck.com/mikedebo/domain-driven-design-dot-dot-dot-with-flask)
-- Pycon
-    - [In Flask we Trust](http://ua.pycon.org/talks/10)
+    - [In Flask we Trust](https://speakerdeck.com/playpauseandstop/in-flask-we-trust)
 
 Plugins
 -------
