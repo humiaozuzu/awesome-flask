@@ -14,6 +14,7 @@ Resources
     - Kickstarting Flask on Ubuntu - Setup and Deployment](https://realpython.com/blog/python/kickstarting-flask-on-ubuntu-setup-and-deployment/)
 - Books
     - [Explore Flask](http://exploreflask.com/)
+    - [Flask Web Development](http://shop.oreilly.com/product/0636920031116.do)
     - [Real Python](https://realpython.com)
 - Repos
     - [zmusic-ng](http://git.zx2c4.com/zmusic-ng/) - ZX2C4 Music provides a web interface for playing and downloading music files using metadata.
