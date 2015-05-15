@@ -25,7 +25,7 @@ Resources
     - [thenewsmeme.com](https://github.com/danjac/newsmeme)
     - [overholt](https://github.com/mattupstate/overholt) - Example Flask application illustrating common practices
     - [pypress](https://github.com/laoqiu/pypress) - flask team blog
-    - [quokka](https://github.com/pythonhub/quokka) - Flask powered CMS on top of mongoengine/MongoDB
+    - [quokka](https://github.com/quokkaproject/quokka) - Flask powered CMS on top of mongoengine/MongoDB
     - [thepast.me](https://github.com/laiwei/thepast)
     - [redispapa](https://github.com/no13bus/redispapa) - another redis monitor by using flask, angular, socket.io
     - [flaskblog](https://github.com/defshine/flaskblog) - a simple blog system based on flask
@@ -126,6 +126,7 @@ Plugins
     - [Python-Social-Auth](https://github.com/omab/python-social-auth) - Social auth made simple
     - [Flask-social-blueprint](https://github.com/wooyek/flask-social-blueprint) - OAuth OOP way
 - Payment
+    - [PagSeguro - Brazil](https://github.com/rochacbruno/python-pagseguro/tree/master/examples) - Example to integrate Flask to PagSeguro Brazilian payment gateway  
     - [alipay_python](https://github.com/fengli/alipay_python) - not a flask plugin now but you can integrate easily
     - [flask-paypal](https://github.com/jdiez17/flask-paypal) - PayPal integration example with Flask
     - [Flask-WePay](https://github.com/maxcountryman/flask-wepay) - A Flask wrapper for WePay's Python API
@@ -139,6 +140,7 @@ Plugins
     - [scales](https://github.com/Cue/scales) - Metrics for Python
     - [flask-tracking](https://github.com/elasticsales/flask-tracking) - Tracking app for Flask that logs HTTP request and response information in a capped MongoDB collection
 - Other SDK
+    - - [Flask-GoogleMaps](https://github.com/rochacbruno/Flask-GoogleMaps) - Build and embed google maps in our Flask templates
     - [Flask-Dropbox](https://github.com/playpauseandstop/Flask-Dropbox) - Dropbox Python SDK support for Flask applications
     - [Flask-Heroku](https://github.com/kennethreitz/flask-heroku) - Heroku environment variable configurations for Flask
     - [Flask-Gravatar](https://github.com/zzzsochi/Flask-Gravatar) - Small and simple gravatar usage in Flask
