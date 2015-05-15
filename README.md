@@ -86,6 +86,7 @@ Plugins
     - [Flask-Redis](https://github.com/underyx/Flask-Redis) - Redis support for Flask. Not much else to say.
     - [Flask-And-Redis](https://github.com/playpauseandstop/Flask-And-Redis) - Simple as dead support of Redis database for Flask apps
     - [Flask-CouchDBKit](https://github.com/sirn/flask-couchdbkit) - Flask extension that provides integration with CouchDBKit
+    - [Flask-OrientDB](https://github.com/calthoff/flask-orientdb) - Flask extension for OrientDB Graph&Document Database
 - Database Migrations
     - [Flask-Migrate](https://github.com/miguelgrinberg/Flask-Migrate) - SQLAlchemy database migrations for Flask applications using Alembic
     - [Flask-Alembic](https://github.com/tobiasandtobias/flask-alembic) - A Flask Extension to provide Alembic integration with Flask
@@ -140,7 +141,7 @@ Plugins
     - [scales](https://github.com/Cue/scales) - Metrics for Python
     - [flask-tracking](https://github.com/elasticsales/flask-tracking) - Tracking app for Flask that logs HTTP request and response information in a capped MongoDB collection
 - Other SDK
-    - - [Flask-GoogleMaps](https://github.com/rochacbruno/Flask-GoogleMaps) - Build and embed google maps in our Flask templates
+    - [Flask-GoogleMaps](https://github.com/rochacbruno/Flask-GoogleMaps) - Build and embed google maps in our Flask templates
     - [Flask-Dropbox](https://github.com/playpauseandstop/Flask-Dropbox) - Dropbox Python SDK support for Flask applications
     - [Flask-Heroku](https://github.com/kennethreitz/flask-heroku) - Heroku environment variable configurations for Flask
     - [Flask-Gravatar](https://github.com/zzzsochi/Flask-Gravatar) - Small and simple gravatar usage in Flask
