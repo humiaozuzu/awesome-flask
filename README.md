@@ -54,6 +54,7 @@ Plugins
     - [Eve](https://github.com/nicolaiarocci/eve) - REST API framework powered by Flask, MongoDB and good intentions
     - [Flask-Restless](https://github.com/jfinkels/flask-restless) - A Flask extension for creating simple ReSTful APIs from SQLAlchemy models
     - [Flask-RESTful](https://github.com/twilio/flask-restful) - Simple framework for creating REST APIs
+    - [Flask-Potion](https://github.com/biosustain/potion) - RESTful API framework for Flask and SQLAlchemy
     - [Reding](https://github.com/BuongiornoMIP/Reding) - Rating on Redis - REST API on Flask
     - [Clay](https://github.com/uber/clay) - Clay is a framework for building RESTful backend services using best practices
     - [flask-backbone-mongo](https://github.com/jamescasbon/flask-backbone-mongo) - experiments with backbone.js, flask and mongo
