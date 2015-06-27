@@ -154,6 +154,7 @@ Plugins
     - [Flask-DebugToolbar](https://github.com/mgood/flask-debugtoolbar) - A port of the django debug toolbar to flask
     - [flask-debug-toolbar-mongo](https://github.com/cenkalti/flask-debug-toolbar-mongo) - MongoDB panel for the Flask Debug Toolbar
     - [flask_debugtoolbar_lineprofilerpanel](https://github.com/phleet/flask_debugtoolbar_lineprofilerpanel) - Line Profiler Panel for Flask Debug Toolbar
+    - [pytest-flask](https://github.com/vitalk/pytest-flask) - A set of pytest fixtures to test Flask applications
 - Utils
     - [Flask-Split](https://github.com/jpvanhal/flask-split) - A/B testing for your Flask application
     - [flask-jsonrpc](https://github.com/cenobites/flask-jsonrpc) - A basic JSON-RPC implementation for your Flask-powered sites
