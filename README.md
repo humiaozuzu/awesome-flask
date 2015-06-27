@@ -27,8 +27,9 @@ Resources
     - [pypress](https://github.com/laoqiu/pypress) - flask team blog
     - [quokka](https://github.com/quokkaproject/quokka) - Flask powered CMS on top of mongoengine/MongoDB
     - [thepast.me](https://github.com/laiwei/thepast)
-    - [flaskblog](https://github.com/defshine/flaskblog) - a simple blog system based on flask  
-    - [cleanblog](https://github.com/defshine/cleanblog) - a clean blog system based on flask and mongoengine  
+    - [redispapa](https://github.com/no13bus/redispapa) - another redis monitor by using flask, angular, socket.io
+    - [flaskblog](https://github.com/defshine/flaskblog) - a simple blog system based on flask
+    - [cleanblog](https://github.com/defshine/cleanblog) - a clean blog system based on flask and mongoengine
 - App template/bootstrap/boilerplate
     - [fbone](https://github.com/imwilsonxu/fbone)
     - [flask-base](https://github.com/notedit/flask-base)
@@ -127,7 +128,7 @@ Plugins
     - [Python-Social-Auth](https://github.com/omab/python-social-auth) - Social auth made simple
     - [Flask-social-blueprint](https://github.com/wooyek/flask-social-blueprint) - OAuth OOP way
 - Payment
-    - [PagSeguro - Brazil](https://github.com/rochacbruno/python-pagseguro/tree/master/examples) - Example to integrate Flask to PagSeguro Brazilian payment gateway  
+    - [PagSeguro - Brazil](https://github.com/rochacbruno/python-pagseguro/tree/master/examples) - Example to integrate Flask to PagSeguro Brazilian payment gateway
     - [alipay_python](https://github.com/fengli/alipay_python) - not a flask plugin now but you can integrate easily
     - [flask-paypal](https://github.com/jdiez17/flask-paypal) - PayPal integration example with Flask
     - [Flask-WePay](https://github.com/maxcountryman/flask-wepay) - A Flask wrapper for WePay's Python API
