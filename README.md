@@ -104,6 +104,7 @@ Plugins
     - [flask-heroku-cacheify](https://github.com/rdegges/flask-heroku-cacheify) - Automatic Flask cache configuration on Heroku
     - [Flask-Volatile](https://github.com/StyleShare/flask-volatile) - a full-featured and integrated caching extension for Flask
     - [Flask-Dogpile-Cache](https://bitbucket.org/ponomar/flask-dogpile-cache) - Flask wrapper for dogpile.cache
+    - [Flask-SQLAlchemy-Cache](https://github.com/iurisilvio/Flask-SQLAlchemy-Cache) - A CachingQuery implementation to Flask using Flask-SQLAlchemy and Flask-Cache
 - Rate Limiting
     - [Flask-Limiter](https://github.com/alisaifee/flask-limiter) - Flask-Limiter provides rate limiting features to flask routes
 - Queue
@@ -182,3 +183,4 @@ Plugins
     - [Flask-SocketIO](https://github.com/miguelgrinberg/Flask-SocketIO)
     - [Flask-Moment](https://github.com/miguelgrinberg/Flask-Moment) - Formatting of dates and times in Flask templates using moment.js
     - [Flask-Paginate](https://github.com/lixxu/flask-paginate) - Pagination support for Flask
+    - [Flask-Pusher](https://github.com/iurisilvio/Flask-Pusher) - Pusher integration for Flask
