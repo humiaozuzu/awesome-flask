@@ -38,6 +38,9 @@ Resources
     - [Flasky Goodness](https://speakerdeck.com/kennethreitz/flasky-goodness)
     - [Domain Driven Design (... with Flask)](https://speakerdeck.com/mikedebo/domain-driven-design-dot-dot-dot-with-flask)
     - [In Flask we Trust](https://speakerdeck.com/playpauseandstop/in-flask-we-trust)
+- Videos
+    - [Flask by Example](http://pyvideo.org/video/2608/flask-by-example)
+    - [Writing RESTful web services with Flask](http://pyvideo.org/video/2668/writing-restful-web-services-with-flask)
 
 Plugins
 -------
