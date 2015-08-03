@@ -50,6 +50,7 @@ Plugins
     - [Flask Kit](https://github.com/semirook/flask-kit) - Flexible microkit for Flask microframework
     - [Kit](https://github.com/mtth/kit) - Flask, Celery, SQLAlchemy integration
     - [flask-peewee](https://github.com/coleifer/flask-peewee) - flask integration for peewee, including admin, authentication, rest api and more
+    - [Flasgger](https://github.com/rochacbruno/flasgger) - Create API documentation for Flask views using Swagger 2.0 specs
     - [Flask-MongoRest](https://github.com/elasticsales/flask-mongorest) - Restful API framework wrapped around MongoEngine
     - [Eve](https://github.com/nicolaiarocci/eve) - REST API framework powered by Flask, MongoDB and good intentions
     - [Flask-Restless](https://github.com/jfinkels/flask-restless) - A Flask extension for creating simple ReSTful APIs from SQLAlchemy models
@@ -64,7 +65,7 @@ Plugins
     - [Flask-Foundation](https://github.com/JackStouffer/Flask-Foundation) - A solid foundation for your flask app
     - [Flask-Foundation](https://github.com/klen/Flask-Foundation) - Quick start with Flask
     - [FaFaFa](https://github.com/fordaaronj/fafafa) - Flask / Angular / Foundation Boilerplate
-    - [Quokka](https://github.com/pythonhub/quokka) - Flask powered CMS on top of mongoengine/MongoDB (WIP)
+    - [Quokka CMS](https://github.com/pythonhub/quokka) - CMS made with Flask and MongoDB
     - [Tyron](https://github.com/tbarbugli/tyron) - Tyron is a web app for events pushing.
     - [Coaster](https://github.com/hasgeek/coaster) - Common patterns for Flask apps
     - [Frozen-Flask](https://github.com/SimonSapin/Frozen-Flask) - Freezes a Flask application into a set of static files
