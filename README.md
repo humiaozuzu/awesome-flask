@@ -193,3 +193,4 @@ Plugins
     - [Flask-Moment](https://github.com/miguelgrinberg/Flask-Moment) - Formatting of dates and times in Flask templates using moment.js
     - [Flask-Paginate](https://github.com/lixxu/flask-paginate) - Pagination support for Flask
     - [Flask-Pusher](https://github.com/iurisilvio/Flask-Pusher) - Pusher integration for Flask
+    - [flask-pusher](https://github.com/Bekt/flask-pusher) - Pusher support for your Flask application
