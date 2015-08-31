@@ -32,6 +32,8 @@ Resources
     - [redispapa](https://github.com/no13bus/redispapa) - another redis monitor by using flask, angular, socket.io
     - [flaskblog](https://github.com/defshine/flaskblog) - a simple blog system based on flask
     - [cleanblog](https://github.com/defshine/cleanblog) - a clean blog system based on flask and mongoengine
+- Utils
+    - [flask2postman](https://github.com/1000mercis/flask2postman) - Generate a Postman collection from your Flask application
 - App template/bootstrap/boilerplate
     - [fbone](https://github.com/imwilsonxu/fbone)
     - [flask-base](https://github.com/notedit/flask-base)
