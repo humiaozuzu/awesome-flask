@@ -194,3 +194,4 @@ Plugins
     - [Flask-Paginate](https://github.com/lixxu/flask-paginate) - Pagination support for Flask
     - [Flask-Pusher](https://github.com/iurisilvio/Flask-Pusher) - Pusher integration for Flask
     - [flask-pusher](https://github.com/Bekt/flask-pusher) - Pusher support for your Flask application
+    - [Flask-HTMLmin](https://github.com/hamidfzm/Flask-HTMLmin) - Flask html minifier
