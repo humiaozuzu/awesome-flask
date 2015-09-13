@@ -36,6 +36,7 @@ Resources
     - [fbone](https://github.com/imwilsonxu/fbone)
     - [flask-base](https://github.com/notedit/flask-base)
     - [cookiecutter-flask](https://github.com/sloria/cookiecutter-flask)
+    - [cookiecutter-flask-pythonic](https://github.com/tony/cookiecutter-flask-pythonic)
 - Slides
     - [Advanced Flask Patterns](https://speakerdeck.com/mitsuhiko/advanced-flask-patterns)
     - [Flasky Goodness](https://speakerdeck.com/kennethreitz/flasky-goodness)
