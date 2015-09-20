@@ -19,7 +19,7 @@ Resources
     - [Flask Web Development](http://shop.oreilly.com/product/0636920031116.do)
     - [Real Python](https://realpython.com)
 - Slides
-	 - [Creating beautiful REST APIs with Flask](http://pycoder.net/bospy/presentation.html)
+    - [Creating beautiful REST APIs with Flask](http://pycoder.net/bospy/presentation.html)
     - [Advanced Flask Patterns](https://speakerdeck.com/mitsuhiko/advanced-flask-patterns)
     - [Flasky Goodness](https://speakerdeck.com/kennethreitz/flasky-goodness)
     - [Domain Driven Design (... with Flask)](https://speakerdeck.com/mikedebo/domain-driven-design-dot-dot-dot-with-flask)
@@ -94,7 +94,7 @@ Plugins
     - [Flask-Migrate](https://github.com/miguelgrinberg/Flask-Migrate) - SQLAlchemy database migrations for Flask applications using Alembic
     - [Flask-Alembic](https://github.com/tobiasandtobias/flask-alembic) - A Flask Extension to provide Alembic integration with Flask
 - Session
-	- [Flask-Session](https://github.com/fengsp/flask-session) - Session extension for Flask
+    - [Flask-Session](https://github.com/fengsp/flask-session) - Session extension for Flask
 - Cache
     - [flask-webcache](https://github.com/fusic-com/flask-webcache) - A Flask extension that adds HTTP based caching to Flask apps
     - [flask-heroku-cacheify](https://github.com/rdegges/flask-heroku-cacheify) - Automatic Flask cache configuration on Heroku
