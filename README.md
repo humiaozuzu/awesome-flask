@@ -18,6 +18,14 @@ Resources
     - [Explore Flask](http://exploreflask.com/)
     - [Flask Web Development](http://shop.oreilly.com/product/0636920031116.do)
     - [Real Python](https://realpython.com)
+- Slides
+    - [Advanced Flask Patterns](https://speakerdeck.com/mitsuhiko/advanced-flask-patterns)
+    - [Flasky Goodness](https://speakerdeck.com/kennethreitz/flasky-goodness)
+    - [Domain Driven Design (... with Flask)](https://speakerdeck.com/mikedebo/domain-driven-design-dot-dot-dot-with-flask)
+    - [In Flask we Trust](https://speakerdeck.com/playpauseandstop/in-flask-we-trust)
+- Videos
+    - [Flask by Example](http://pyvideo.org/video/2608/flask-by-example)
+    - [Writing RESTful web services with Flask](http://pyvideo.org/video/2668/writing-restful-web-services-with-flask)
 - Repos
     - [zmusic-ng](http://git.zx2c4.com/zmusic-ng/) - ZX2C4 Music provides a web interface for playing and downloading music files using metadata.
     - [GuitarFan](https://github.com/lowrain/GuitarFan) - guitar tab
@@ -32,21 +40,13 @@ Resources
     - [redispapa](https://github.com/no13bus/redispapa) - another redis monitor by using flask, angular, socket.io
     - [flaskblog](https://github.com/defshine/flaskblog) - a simple blog system based on flask
     - [cleanblog](https://github.com/defshine/cleanblog) - a clean blog system based on flask and mongoengine
-- Utils
-    - [flask2postman](https://github.com/1000mercis/flask2postman) - Generate a Postman collection from your Flask application
 - App template/bootstrap/boilerplate
     - [fbone](https://github.com/imwilsonxu/fbone)
     - [flask-base](https://github.com/notedit/flask-base)
     - [cookiecutter-flask](https://github.com/sloria/cookiecutter-flask)
     - [cookiecutter-flask-pythonic](https://github.com/tony/cookiecutter-flask-pythonic)
-- Slides
-    - [Advanced Flask Patterns](https://speakerdeck.com/mitsuhiko/advanced-flask-patterns)
-    - [Flasky Goodness](https://speakerdeck.com/kennethreitz/flasky-goodness)
-    - [Domain Driven Design (... with Flask)](https://speakerdeck.com/mikedebo/domain-driven-design-dot-dot-dot-with-flask)
-    - [In Flask we Trust](https://speakerdeck.com/playpauseandstop/in-flask-we-trust)
-- Videos
-    - [Flask by Example](http://pyvideo.org/video/2608/flask-by-example)
-    - [Writing RESTful web services with Flask](http://pyvideo.org/video/2668/writing-restful-web-services-with-flask)
+- Utils
+    - [flask2postman](https://github.com/1000mercis/flask2postman) - Generate a Postman collection from your Flask application
 
 Plugins
 -------
