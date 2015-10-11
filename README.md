@@ -52,6 +52,7 @@ Resources
     - [cookiecutter-flask](https://github.com/sloria/cookiecutter-flask)
     - [cookiecutter-flask-pythonic](https://github.com/tony/cookiecutter-flask-pythonic)
     - [Flask-Foundation](https://github.com/JackStouffer/Flask-Foundation)
+    - [Flask-Empty])(https://github.com/italomaia/flask-empty)
 
 Plugins
 -------
