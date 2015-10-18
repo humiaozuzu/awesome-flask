@@ -7,7 +7,7 @@ Resources
 ---------
 
 - Tutorial
-    - [How to build a news app that never goes down and costs you practically nothing](http://blog.apps.npr.org/2013/02/14/app-template-redux.html)(by NPR)
+    - [How to build a news app that never goes down and costs you practically nothing](http://blog.apps.npr.org/2013/02/14/app-template-redux.html) (by NPR)
     - [Building websites in Python with Flask](http://maximebf.com/blog/2012/10/building-websites-in-python-with-flask/)
     - [The Flask Mega-Tutorial](http://blog.miguelgrinberg.com/post/the-flask-mega-tutorial-part-i-hello-world)
     - [Implementing a RESTful Web API with Python & Flask](http://blog.luisrei.com/articles/flaskrest.html)
@@ -42,7 +42,7 @@ Resources
     - [flaskblog](https://github.com/defshine/flaskblog) - a simple blog system based on flask
     - [cleanblog](https://github.com/defshine/cleanblog) - a clean blog system based on flask and mongoengine
     - [Quokka CMS](https://github.com/pythonhub/quokka) - CMS made with Flask and MongoDB
-    - [chat](https://github.com/lzyy/chat) - a live chat built with python(flask + gevent + apscheduler) + redis
+    - [chat](https://github.com/lzyy/chat) - a live chat built with python (flask + gevent + apscheduler) + redis
     - [chatapp](https://github.com/vinceprignano/chatapp) - Flask and Angular.js Chat Application using Socket.io
     - [Frozen-Flask](https://github.com/SimonSapin/Frozen-Flask) - Freezes a Flask application into a set of static files
     - [mcflyin](https://github.com/wrobstory/mcflyin) - A small timeseries transformation API built on Flask and Pandas
@@ -52,7 +52,7 @@ Resources
     - [cookiecutter-flask](https://github.com/sloria/cookiecutter-flask)
     - [cookiecutter-flask-pythonic](https://github.com/tony/cookiecutter-flask-pythonic)
     - [Flask-Foundation](https://github.com/JackStouffer/Flask-Foundation)
-    - [Flask-Empty])(https://github.com/italomaia/flask-empty)
+    - [Flask-Empty](https://github.com/italomaia/flask-empty)
 
 Plugins
 -------
@@ -141,7 +141,7 @@ Plugins
     - [Flask-WeRoBot](https://github.com/whtsky/Flask-WeRoBot) - Adds WeRoBot support to Flask
     - [Flask-Pusher](https://github.com/iurisilvio/Flask-Pusher) - Pusher integration for Flask
     - [flask-pusher](https://github.com/Bekt/flask-pusher) - Pusher support for your Flask application
-- Frontend(Asset Pipeline/CDN)
+- Frontend (Asset Pipeline/CDN)
     - [Flask-Mustache](https://github.com/bradleywright/flask-mustachejs) - Mustache template integration with Flask
     - [Flask-Genshi](https://github.com/dag/flask-genshi) - Genshi templating for Flask
     - [flask-mako](https://github.com/benselme/flask-mako) - Provides support for Mako Templates in Flask
@@ -155,7 +155,7 @@ Plugins
     - [Flask-SSLify](https://github.com/kennethreitz/flask-sslify) - Force SSL on your Flask app
     - [Flask-gzip](https://github.com/elasticsales/Flask-gzip) - Gzip flask responses
     - [Flask-HTMLmin](https://github.com/hamidfzm/Flask-HTMLmin) - Flask html minifier
-- Development(Debugging/Testing/AB Testing)
+- Development (Debugging/Testing/AB Testing)
     - [Flask-Testing](https://github.com/jarus/flask-testing) - Unittest extensions for Flask
     - [flask_debugtoolbar_lineprofilerpanel](https://github.com/phleet/flask_debugtoolbar_lineprofilerpanel) - Line Profiler Panel for Flask Debug Toolbar
     - [Flask-DebugToolbar](https://github.com/mgood/flask-debugtoolbar) - A port of the django debug toolbar to flask
