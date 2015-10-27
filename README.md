@@ -30,7 +30,8 @@ Resources
 - Build with Flask
     - [zmusic-ng](http://git.zx2c4.com/zmusic-ng/) - ZX2C4 Music provides a web interface for playing and downloading music files using metadata.
     - [GuitarFan](https://github.com/lowrain/GuitarFan) - guitar tab
-    - [June](https://github.com/pythoncn/june) - python-china.org
+    - [June](https://github.com/pythoncn/june) - ~~python-china.org~~
+    - [Zerqu](https://github.com/lepture/zerqu) - ZERQU is a content-focused API-based platform. eg: [Python-China](https://python-china.org)
     - [motiky](https://github.com/notedit/motiky)
     - [missing](https://github.com/notedit/missing) - a list service called missing
     - [thenewsmeme.com](https://github.com/danjac/newsmeme)
