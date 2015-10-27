@@ -54,6 +54,7 @@ Resources
     - [cookiecutter-flask-pythonic](https://github.com/tony/cookiecutter-flask-pythonic)
     - [Flask-Foundation](https://github.com/JackStouffer/Flask-Foundation)
     - [Flask-Empty](https://github.com/italomaia/flask-empty)
+    - [flask-rest-template](https://github.com/alexandre/flask-rest-template)
 
 Plugins
 -------
