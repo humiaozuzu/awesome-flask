@@ -42,7 +42,7 @@ Resources
     - [redispapa](https://github.com/no13bus/redispapa) - another redis monitor by using flask, angular, socket.io
     - [flaskblog](https://github.com/defshine/flaskblog) - a simple blog system based on flask
     - [cleanblog](https://github.com/defshine/cleanblog) - a clean blog system based on flask and mongoengine
-    - [Quokka CMS](https://github.com/pythonhub/quokka) - CMS made with Flask and MongoDB
+    - [Quokka CMS](https://github.com/quokkaproject/quokka) - CMS made with Flask and MongoDB
     - [chat](https://github.com/lzyy/chat) - a live chat built with python (flask + gevent + apscheduler) + redis
     - [chatapp](https://github.com/vinceprignano/chatapp) - Flask and Angular.js Chat Application using Socket.io
     - [Frozen-Flask](https://github.com/SimonSapin/Frozen-Flask) - Freezes a Flask application into a set of static files
@@ -61,10 +61,10 @@ Plugins
 - Framework
     - [Flask Kit](https://github.com/semirook/flask-kit) - Flexible microkit for Flask microframework
     - [flask-peewee](https://github.com/coleifer/flask-peewee) - flask integration for peewee, including admin, authentication, rest api and more
-    - [Flask-MongoRest](https://github.com/elasticsales/flask-mongorest) - Restful API framework wrapped around MongoEngine
+    - [Flask-MongoRest](https://github.com/closeio/flask-mongorest) - Restful API framework wrapped around MongoEngine
     - [Eve](https://github.com/nicolaiarocci/eve) - REST API framework powered by Flask, MongoDB and good intentions
     - [Flask-Restless](https://github.com/jfinkels/flask-restless) - A Flask extension for creating simple ReSTful APIs from SQLAlchemy models
-    - [Flask-RESTful](https://github.com/twilio/flask-restful) - Simple framework for creating REST APIs
+    - [Flask-RESTful](https://github.com/flask-restful/flask-restful) - Simple framework for creating REST APIs
     - [Flask-Potion](https://github.com/biosustain/potion) - RESTful API framework for Flask and SQLAlchemy
     - [enferno](https://github.com/level09/enferno) - A Flask-based Framework for the Next Decade
 - Admin
@@ -110,7 +110,7 @@ Plugins
 - Email
     - [Flask-Mail](https://github.com/mattupstate/flask-mail/) - Flask-Mail adds SMTP mail sending to your Flask applications
 - i18n
-    - [flask-babel](https://github.com/mitsuhiko/flask-babel) - i18n and l10n support for Flask based on Babel and pytz
+    - [flask-babel](https://github.com/python-babel/flask-babel) - i18n and l10n support for Flask based on Babel and pytz
 - Full-text searching
     - [Flask-WhooshAlchemy](https://github.com/gyllstromk/Flask-WhooshAlchemy) - Whoosh indexing capabilities for Flask-SQLAlchemy
 - Rate Limiting
@@ -131,7 +131,7 @@ Plugins
     - [Flask-Analytics](https://github.com/srounet/Flask-Analytics) - A Flask extention that provide user navigation tracking
     - [Flask-StatHat](https://github.com/marksteve/flask-stathat) - StatHat extension for Flask
     - [scales](https://github.com/Cue/scales) - Metrics for Python
-    - [flask-tracking](https://github.com/elasticsales/flask-tracking) - Tracking app for Flask that logs HTTP request and response information in a capped MongoDB collection
+    - [flask-tracking](https://github.com/closeio/flask-tracking) - Tracking app for Flask that logs HTTP request and response information in a capped MongoDB collection
     - [Flask-Analytics](https://github.com/citruspi/Flask-Analytics) - Analytics snippets generator extension for the Flask framework.
 - Other SDK
     - [Flask-GoogleMaps](https://github.com/rochacbruno/Flask-GoogleMaps) - Build and embed google maps in our Flask templates
@@ -143,7 +143,7 @@ Plugins
     - [Flask-Pusher](https://github.com/iurisilvio/Flask-Pusher) - Pusher integration for Flask
     - [flask-pusher](https://github.com/Bekt/flask-pusher) - Pusher support for your Flask application
 - Frontend (Asset Pipeline/CDN)
-    - [Flask-Mustache](https://github.com/bradleywright/flask-mustachejs) - Mustache template integration with Flask
+    - [Flask-Mustache](https://github.com/bradwright/flask-mustachejs) - Mustache template integration with Flask
     - [Flask-Genshi](https://github.com/dag/flask-genshi) - Genshi templating for Flask
     - [flask-mako](https://github.com/benselme/flask-mako) - Provides support for Mako Templates in Flask
     - [Flask-Markdown](https://github.com/dcolish/flask-markdown) - Markdown jinja2 extension for Flask
@@ -154,16 +154,16 @@ Plugins
     - [flask_util_js](https://github.com/dantezhu/flask_util_js) - flask's util in javascript. such as url_for etc
     - [flask-s3](https://github.com/e-dard/flask-s3) - Seamlessly serve your static assets of your Flask app from Amazon S3
     - [Flask-SSLify](https://github.com/kennethreitz/flask-sslify) - Force SSL on your Flask app
-    - [Flask-gzip](https://github.com/elasticsales/Flask-gzip) - Gzip flask responses
+    - [Flask-gzip](https://github.com/closeio/Flask-gzip) - Gzip flask responses
     - [Flask-HTMLmin](https://github.com/hamidfzm/Flask-HTMLmin) - Flask html minifier
 - Development (Debugging/Testing/AB Testing)
     - [flask_profiler](https://github.com/muatik/flask-profiler) - endpoint analyzer/profiler for Flask
     - [Flask-Testing](https://github.com/jarus/flask-testing) - Unittest extensions for Flask
-    - [flask_debugtoolbar_lineprofilerpanel](https://github.com/phleet/flask_debugtoolbar_lineprofilerpanel) - Line Profiler Panel for Flask Debug Toolbar
+    - [flask_debugtoolbar_lineprofilerpanel](https://github.com/jlfwong/flask_debugtoolbar_lineprofilerpanel) - Line Profiler Panel for Flask Debug Toolbar
     - [Flask-DebugToolbar](https://github.com/mgood/flask-debugtoolbar) - A port of the django debug toolbar to flask
     - [flask-debug-toolbar-mongo](https://github.com/cenkalti/flask-debug-toolbar-mongo) - MongoDB panel for the Flask Debug Toolbar
     - [pytest-flask](https://github.com/vitalk/pytest-flask) - A set of pytest fixtures to test Flask applications
-    - [flask2postman](https://github.com/1000mercis/flask2postman) - Generate a Postman collection from your Flask application
+    - [flask2postman](https://github.com/numberly/flask2postman) - Generate a Postman collection from your Flask application
     - [Flasgger](https://github.com/rochacbruno/flasgger) - Create API documentation for Flask views using Swagger 2.0 specs
     - [flask-restful-swagger](https://github.com/rantav/flask-restful-swagger) - A wrapper for flask-restful which enables swagger support
 - Utils
@@ -174,7 +174,7 @@ Plugins
     - [Flask-AppBuilder](https://github.com/dpgaspar/Flask-AppBuilder) - Simple and rapid application builder framework, built on top of Flask. includes detailed security, auto form generation, google charts and much more
     - [Erlenmeyer](https://github.com/MegaBits/Erlenmeyer) - Automatically generate Flask servers from Core Data
     - [Mixer](https://github.com/klen/mixer) - Mixer is application to generate instances of Django or SQLAlchemy models
-    - [FlaskEx](https://github.com/vamf12/FlaskEx) - Predefined help libraries for Flask
+    - [FlaskEx](https://github.com/sungmin-park/FlaskEx) - Predefined help libraries for Flask
     - [mimerender](https://github.com/martinblech/mimerender) - Python module for RESTful HTTP Content Negotiation
     - [Flask-Classy](https://github.com/apiguy/flask-classy) - Class based views for Flask
     - [Flask-Principal](https://github.com/mattupstate/flask-principal) - Identity management for Flask applications
