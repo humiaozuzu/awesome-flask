@@ -69,6 +69,7 @@ Plugins
     - [Flask-RESTful](https://github.com/flask-restful/flask-restful) - Simple framework for creating REST APIs
     - [Flask-Potion](https://github.com/biosustain/potion) - RESTful API framework for Flask and SQLAlchemy
     - [enferno](https://github.com/level09/enferno) - A Flask-based Framework for the Next Decade
+    -  [Samavaar](https://github.com/mnazim/samavaar) - Flask-SQLAlchemy, Flask-Security, SQL + NoSQL. Working login/register. Stubs for common pages like dashboad, profile, settings, etc. and then some. 
 - Admin
     - [Flask-Admin](https://github.com/mrjoes/flask-admin) - Simple and extensible administrative interface framework for Flask
     - [Flask-SuperAdmin](https://github.com/SyrusAkbary/Flask-SuperAdmin) - The best admin interface framework for Flask. With scaffolding for MongoEngine, Django and SQLAlchemy
