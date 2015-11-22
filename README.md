@@ -114,7 +114,7 @@ Plugins
 - i18n
     - [flask-babel](https://github.com/python-babel/flask-babel) - i18n and l10n support for Flask based on Babel and pytz
 - Full-text searching
-    - [Flask-WhooshAlchemy](https://github.com/gyllstromk/Flask-WhooshAlchemy) - Whoosh indexing capabilities for Flask-SQLAlchemy
+    - [Flask-WhooshAlchemy](https://github.com/dhamaniasad/Flask-WhooshAlchemy) - Whoosh indexing capabilities for Flask-SQLAlchemy
 - Rate Limiting
     - [Flask-Limiter](https://github.com/alisaifee/flask-limiter) - Flask-Limiter provides rate limiting features to flask routes
 - Queue
