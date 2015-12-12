@@ -15,7 +15,6 @@ Resources
     - [Flaskr - Intro to Flask, Test Driven Development, and jQuery](https://github.com/mjhea0/flaskr-tdd)
     - [Real Python: Flask Category](https://realpython.com/blog/categories/flask/)
     - [Creating a Database driven CRUD app  with Flask, Flask-SQLAlchemy and MySQL](http://techarena51.com/index.php/flask-sqlalchemy-tutorial/)
-
     - [Bulding Database Driven RESTFUL API with Flask and Flask-SQLAlchemy](http://techarena51.com/index.php/buidling-a-database-driven-restful-json-api-in-python-3-with-flask-flask-restful-and-sqlalchemy/)
     - [Token based Authentication with Flask and Angularjs](http://techarena51.com/index.php/json-web-token-authentication-with-flask-and-angularjs/)
     - [Deploying Flask on Ubuntu with Gunicorn](http://techarena51.com/index.php/deploy-flask-on-ubuntu/)
