@@ -56,6 +56,7 @@ Resources
     - [cookiecutter-flask-pythonic](https://github.com/tony/cookiecutter-flask-pythonic)
     - [Flask-Foundation](https://github.com/JackStouffer/Flask-Foundation)
     - [Flask-Empty](https://github.com/italomaia/flask-empty)
+    - [gae-init](https://gae-init.appspot.com) - Flask boilerplate running on Google App Engine
 
 Plugins
 -------
