@@ -11,7 +11,7 @@ Resources
     - [Building websites in Python with Flask](http://maximebf.com/blog/2012/10/building-websites-in-python-with-flask/)
     - [The Flask Mega-Tutorial](http://blog.miguelgrinberg.com/post/the-flask-mega-tutorial-part-i-hello-world)
     - [Implementing a RESTful Web API with Python & Flask](http://blog.luisrei.com/articles/flaskrest.html)
-    - [Discover Flask - Full Stack Web Development with Flask](http://discoverflask.com)
+    - [Discover Flask - Full Stack Web Development with Flask](https://github.com/realpython/discover-flask)
     - [Flaskr - Intro to Flask, Test Driven Development, and jQuery](https://github.com/mjhea0/flaskr-tdd)
     - [Real Python: Flask Category](https://realpython.com/blog/categories/flask/)
 - Course:
@@ -127,7 +127,7 @@ Plugins
     - [Flask-WePay](https://github.com/maxcountryman/flask-wepay) - A Flask wrapper for WePay's Python API
 - Exception tracking
     - [Flask-Exceptional](https://github.com/jzempel/flask-exceptional) - [Exceptional](http://www.exceptional.io/) extension for Flask
-    - [Raven](https://github.com/getsentry/raven-python) - Raven is a Python client for [Sentry](http://www.getsentry.com/).
+    - [Raven](https://github.com/getsentry/raven-python) - Raven is a Python client for [Sentry](https://www.getsentry.com/).
 - Metrics Tracking
     - [flask-track-usage](https://github.com/ashcrow/flask-track-usage) - Basic metrics tracking for the Flask framework
     - [Flask-Analytics](https://github.com/srounet/Flask-Analytics) - A Flask extention that provide user navigation tracking
@@ -176,7 +176,6 @@ Plugins
     - [flask-jsonrpc](https://github.com/cenobites/flask-jsonrpc) - A basic JSON-RPC implementation for your Flask-powered sites
     - [Flask-Bcrypt](https://github.com/maxcountryman/flask-bcrypt) - Flask-Bcrypt is a Flask extension that provides bcrypt hashing utilities for your application
     - [Flask-AppBuilder](https://github.com/dpgaspar/Flask-AppBuilder) - Simple and rapid application builder framework, built on top of Flask. includes detailed security, auto form generation, google charts and much more
-    - [Erlenmeyer](https://github.com/MegaBits/Erlenmeyer) - Automatically generate Flask servers from Core Data
     - [Mixer](https://github.com/klen/mixer) - Mixer is application to generate instances of Django or SQLAlchemy models
     - [FlaskEx](https://github.com/sungmin-park/FlaskEx) - Predefined help libraries for Flask
     - [mimerender](https://github.com/martinblech/mimerender) - Python module for RESTful HTTP Content Negotiation
