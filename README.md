@@ -16,6 +16,7 @@ Resources
     - [Real Python: Flask Category](https://realpython.com/blog/categories/flask/)
 - Course:
     - [Full Stack Foundations](https://www.udacity.com/course/full-stack-foundations--ud088)
+    - [Designing RESTful APIs](https://www.udacity.com/course/designing-restful-apis--ud388)
 - Books
     - [Explore Flask](https://exploreflask.com/)
     - [Flask Web Development](http://shop.oreilly.com/product/0636920031116.do)
