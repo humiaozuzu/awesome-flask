@@ -14,6 +14,7 @@ Resources
     - [Discover Flask - Full Stack Web Development with Flask](https://github.com/realpython/discover-flask)
     - [Flaskr - Intro to Flask, Test Driven Development, and jQuery](https://github.com/mjhea0/flaskr-tdd)
     - [Real Python: Flask Category](https://realpython.com/blog/categories/flask/)
+    - [Flask-SQLAlchemy Tutorials and Examples](http://techarena51.com/index.php/category/flask-framework-tutorials-and-examples/)
 - Course:
     - [Full Stack Foundations](https://www.udacity.com/course/full-stack-foundations--ud088)
     - [Designing RESTful APIs](https://www.udacity.com/course/designing-restful-apis--ud388)
