@@ -22,6 +22,10 @@ Resources
     - [Explore Flask](https://exploreflask.com/)
     - [Flask Web Development](http://shop.oreilly.com/product/0636920031116.do)
     - [Real Python](https://realpython.com)
+    - [Learning Flask Framework](https://www.packtpub.com/web-development/learning-flask-framework)
+    - [Flask Blueprints](https://www.packtpub.com/web-development/flask-blueprints)
+    - [Flask Framework Cookbook](https://www.packtpub.com/web-development/flask-framework-cookbook)
+    - [Mastering Flask](https://www.packtpub.com/web-development/mastering-flask)
 - Slides
     - [Creating beautiful REST APIs with Flask](http://pycoder.net/bospy/presentation.html)
     - [Advanced Flask Patterns](https://speakerdeck.com/mitsuhiko/advanced-flask-patterns)
