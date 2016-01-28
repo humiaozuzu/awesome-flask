@@ -26,6 +26,7 @@ Resources
     - [Flask Blueprints](https://www.packtpub.com/web-development/flask-blueprints)
     - [Flask Framework Cookbook](https://www.packtpub.com/web-development/flask-framework-cookbook)
     - [Mastering Flask](https://www.packtpub.com/web-development/mastering-flask)
+    - [Building Web Applications with Flask](https://www.packtpub.com/web-development/building-web-applications-flask)
 - Slides
     - [Creating beautiful REST APIs with Flask](http://pycoder.net/bospy/presentation.html)
     - [Advanced Flask Patterns](https://speakerdeck.com/mitsuhiko/advanced-flask-patterns)
