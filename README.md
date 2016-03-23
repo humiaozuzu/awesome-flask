@@ -174,6 +174,7 @@ Plugins
     - [Flask-SSLify](https://github.com/kennethreitz/flask-sslify) - Force SSL on your Flask app
     - [Flask-gzip](https://github.com/closeio/Flask-gzip) - Gzip flask responses
     - [Flask-HTMLmin](https://github.com/hamidfzm/Flask-HTMLmin) - Flask html minifier
+    - [Flask-Azure-Storage](https://github.com/alejoar/Flask-Azure-Storage) - Flask extension that provides integration with Azure Storage 
 - Development (Debugging/Testing/AB Testing)
     - [flask_profiler](https://github.com/muatik/flask-profiler) - endpoint analyzer/profiler for Flask
     - [Flask-Testing](https://github.com/jarus/flask-testing) - Unittest extensions for Flask
