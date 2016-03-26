@@ -19,7 +19,7 @@ Resources
     - [Full Stack Foundations](https://www.udacity.com/course/full-stack-foundations--ud088)
     - [Designing RESTful APIs](https://www.udacity.com/course/designing-restful-apis--ud388)
 - Books
-    - [Explore Flask](https://exploreflask.com/)
+    - [Explore Flask](https://exploreflask.com/en/latest/)
     - [Flask Web Development](http://shop.oreilly.com/product/0636920031116.do)
     - [Real Python](https://realpython.com)
     - [Learning Flask Framework](https://www.packtpub.com/web-development/learning-flask-framework)
@@ -51,7 +51,7 @@ Resources
     - [redispapa](https://github.com/no13bus/redispapa) - another redis monitor by using flask, angular, socket.io
     - [flaskblog](https://github.com/defshine/flaskblog) - a simple blog system based on flask
     - [cleanblog](https://github.com/defshine/cleanblog) - a clean blog system based on flask and mongoengine
-    - [Quokka CMS](https://github.com/quokkaproject/quokka) - CMS made with Flask and MongoDB
+    - [Quokka CMS](https://github.com/rochacbruno/quokka) - CMS made with Flask and MongoDB
     - [chat](https://github.com/lzyy/chat) - a live chat built with python (flask + gevent + apscheduler) + redis
     - [chatapp](https://github.com/vinceprignano/chatapp) - Flask and Angular.js Chat Application using Socket.io
     - [Frozen-Flask](https://github.com/SimonSapin/Frozen-Flask) - Freezes a Flask application into a set of static files
