@@ -56,6 +56,15 @@ Resources
     - [chatapp](https://github.com/vinceprignano/chatapp) - Flask and Angular.js Chat Application using Socket.io
     - [Frozen-Flask](https://github.com/SimonSapin/Frozen-Flask) - Freezes a Flask application into a set of static files
     - [mcflyin](https://github.com/wrobstory/mcflyin) - A small timeseries transformation API built on Flask and Pandas
+    - [Skylines](https://github.com/skylines-project/skylines) - Live tracking, flight database and competition framework
+    - [airflow](https://github.com/airbnb/airflow) - Airflow is a system to programmatically author, schedule and monitor data pipelines.
+    - [timesketch](https://github.com/google/timesketch) - Collaborative forensics timeline analysis
+    - [changes](https://github.com/dropbox/changes) - A dashboard for your code. A build system.
+    - [security_monkey](https://github.com/Netflix/security_monkey.git) - monitors policy changes and alerts on insecure configurations in an AWS account.
+    - [securedrop](https://github.com/freedomofpress/securedrop)- an open-source whistleblower submission system that media organizations can use to securely accept documents from and communicate with anonymous sources.
+    - [sync_engine](https://github.com/nylas/sync-engine) - IMAP/SMTP sync system with modern APIs
+    - [cleansweep](https://github.com/AamAadmiParty/cleansweep) - Volunteer & Campaign Management System
+    - [indico](https://github.com/indico/indico) - a general-purpose event management web-based solution. It includes a full-blown conference organization workflow as well as tools for meeting management and room booking. It provides as well integration with video-conferencing solutions.
 - App template/bootstrap/boilerplate
     - [fbone](https://github.com/imwilsonxu/fbone)
     - [flask-base](https://github.com/notedit/flask-base)
