@@ -90,7 +90,7 @@ Plugins
     - [Flask-OpenID](https://github.com/mitsuhiko/flask-openid) - Flask-OpenID adds openid support to flask applications
     - [Flask-Social](https://github.com/mattupstate/flask-social) - OAuth Provider Integration for Flask-Security
     - [Flask-OAuthlib](https://github.com/lepture/flask-oauthlib) - OAuthlib implementation for Flask
-    - [GitHub-Flask](https://github.com/cenkalti/github-flask) - Flask extension for authenticating users with GitHub and making requests to the API
+    - [GitHub-Flask](https://github.com/cenk/github-flask) - Flask extension for authenticating users with GitHub and making requests to the API
     - [Python-Social-Auth](https://github.com/omab/python-social-auth) - Social auth made simple
     - [Flask-social-blueprint](https://github.com/wooyek/flask-social-blueprint) - OAuth OOP way
     - [Flask-OAuth](https://github.com/mitsuhiko/flask-oauth) - OAuth Support for Flask
@@ -155,7 +155,7 @@ Plugins
     - [Flask-Dropbox](https://github.com/playpauseandstop/Flask-Dropbox) - Dropbox Python SDK support for Flask applications
     - [Flask-Heroku](https://github.com/kennethreitz/flask-heroku) - Heroku environment variable configurations for Flask
     - [Flask-Gravatar](https://github.com/zzzsochi/Flask-Gravatar) - Small and simple gravatar usage in Flask
-    - [Flask-WeasyPrint](https://github.com/SimonSapin/Flask-WeasyPrint) - Make PDF in your Flask app with WeasyPrint
+    - [Flask-WeasyPrint](https://github.com/Kozea/Flask-WeasyPrint) - Make PDF in your Flask app with WeasyPrint
     - [Flask-WeRoBot](https://github.com/whtsky/Flask-WeRoBot) - Adds WeRoBot support to Flask
     - [Flask-Pusher](https://github.com/iurisilvio/Flask-Pusher) - Pusher integration for Flask
     - [flask-pusher](https://github.com/Bekt/flask-pusher) - Pusher support for your Flask application
@@ -181,7 +181,7 @@ Plugins
     - [Flask-Testing](https://github.com/jarus/flask-testing) - Unittest extensions for Flask
     - [flask_debugtoolbar_lineprofilerpanel](https://github.com/jlfwong/flask_debugtoolbar_lineprofilerpanel) - Line Profiler Panel for Flask Debug Toolbar
     - [Flask-DebugToolbar](https://github.com/mgood/flask-debugtoolbar) - A port of the django debug toolbar to flask
-    - [flask-debug-toolbar-mongo](https://github.com/cenkalti/flask-debug-toolbar-mongo) - MongoDB panel for the Flask Debug Toolbar
+    - [flask-debug-toolbar-mongo](https://github.com/cenk/flask-debug-toolbar-mongo) - MongoDB panel for the Flask Debug Toolbar
     - [pytest-flask](https://github.com/vitalk/pytest-flask) - A set of pytest fixtures to test Flask applications
     - [flask2postman](https://github.com/numberly/flask2postman) - Generate a Postman collection from your Flask application
     - [Flasgger](https://github.com/rochacbruno/flasgger) - Create API documentation for Flask views using Swagger 2.0 specs
