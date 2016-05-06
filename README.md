@@ -206,3 +206,4 @@ Plugins
     - [Flask-Paginate](https://github.com/lixxu/flask-paginate) - Pagination support for Flask
     - [Flask-CORS](https://github.com/corydolphin/flask-cors) - Flask extension for handling Cross Origin Resource Sharing (CORS), making cross-origin AJAX possible
     - [Flask-Styleguide](https://github.com/vitalk/flask-styleguide) - A living Styleguide for your Flask application
+    - [Flask-Optimize](https://github.com/sunary/flask-optimize) - Flask optimization using cache, minify html and gzip response
