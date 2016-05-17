@@ -65,6 +65,7 @@ Resources
     - [Flask-Empty](https://github.com/italomaia/flask-empty)
     - [flask-rest-template](https://github.com/alexandre/flask-rest-template)
     - [gae-init](https://gae-init.appspot.com) - Flask boilerplate running on Google App Engine
+    - [GAE Starter Kit](https://github.com/kkinder/GAEStarterKit) - Flask, Flask-Login, WTForms, UIKit, and more, running on Google App Engine
 
 Plugins
 -------
@@ -142,7 +143,7 @@ Plugins
     - [flask-paypal](https://github.com/jdiez17/flask-paypal) - PayPal integration example with Flask
     - [Flask-WePay](https://github.com/maxcountryman/flask-wepay) - A Flask wrapper for WePay's Python API
 - Exception tracking
-    - [Raven](https://github.com/getsentry/raven-python) - Raven is a Python client for [Sentry](https://www.getsentry.com/).
+    - [Raven](https://github.com/getsentry/raven-python) - Raven is a Python client for [Sentry](https://www.getsentry.com/welcome/).
 - Metrics Tracking
     - [flask-track-usage](https://github.com/ashcrow/flask-track-usage) - Basic metrics tracking for the Flask framework
     - [Flask-Analytics](https://github.com/srounet/Flask-Analytics) - A Flask extention that provide user navigation tracking
