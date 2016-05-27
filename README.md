@@ -71,6 +71,7 @@ Plugins
 -------
 
 - Framework
+    - [Flask Ask](https://github.com/johnwheeler/flask-ask) - Rapid Alexa Skills Kit Development for Amazon Echo devices
     - [Flask Kit](https://github.com/semirook/flask-kit) - Flexible microkit for Flask microframework
     - [flask-peewee](https://github.com/coleifer/flask-peewee) - flask integration for peewee, including admin, authentication, rest api and more
     - [Flask-MongoRest](https://github.com/closeio/flask-mongorest) - Restful API framework wrapped around MongoEngine
