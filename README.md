@@ -38,6 +38,7 @@ Resources
     - [Writing RESTful web services with Flask](http://pyvideo.org/video/2668/writing-restful-web-services-with-flask)
     - [Practical Flask Web Development Tutorials](https://www.youtube.com/playlist?list=PLQVvvaa0QuDc_owjTbIY4rbgXOFkUYOUB)
 - Build with Flask
+    - [Facture](https://github.com/Leyka/Facture) - Web app to quickly generate invoices in PDF
     - [zmusic-ng](https://git.zx2c4.com/zmusic-ng/) - ZX2C4 Music provides a web interface for playing and downloading music files using metadata.
     - [GuitarFan](https://github.com/lowrain/GuitarFan) - guitar tab
     - [June](https://github.com/pythoncn/june) - ~~python-china.org~~
