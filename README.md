@@ -80,6 +80,7 @@ Plugins
     - [Flask-RestPlus](https://github.com/noirbizarre/flask-restplus) - syntaxic sugar, helpers and automatically generated Swagger documentation on top of Flask-Restful.
     - [Flask-Potion](https://github.com/biosustain/potion) - RESTful API framework for Flask and SQLAlchemy
     - [enferno](https://github.com/level09/enferno) - A Flask-based Framework for the Next Decade
+    - [Flask-Ask](https://github.com/johnwheeler/flask-ask) - Rapid Alexa Skills Kit development for Amazon Echo devices
 - Admin
     - [Flask-Admin](https://github.com/flask-admin/flask-admin) - Simple and extensible administrative interface framework for Flask
     - [Flask-SuperAdmin](https://github.com/SyrusAkbary/Flask-SuperAdmin) - The best admin interface framework for Flask. With scaffolding for MongoEngine, Django and SQLAlchemy
