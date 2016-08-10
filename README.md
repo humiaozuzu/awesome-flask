@@ -14,7 +14,7 @@ Resources
     - [Discover Flask - Full Stack Web Development with Flask](https://github.com/realpython/discover-flask)
     - [Flaskr - Intro to Flask, Test Driven Development, and jQuery](https://github.com/mjhea0/flaskr-tdd)
     - [Real Python: Flask Category](https://realpython.com/blog/categories/flask/)
-    - [Flask-SQLAlchemy Tutorials and Examples](http://techarena51.com/index.php/category/flask-framework-tutorials-and-examples/)
+    - [Flask-SQLAlchemy Tutorials and Examples](https://techarena51.com/index.php/category/flask-framework-tutorials-and-examples/)
     - [Flask by Example](https://realpython.com/blog/python/flask-by-example-part-1-project-setup/)
 - Course:
     - [Full Stack Foundations](https://www.udacity.com/course/full-stack-foundations--ud088)
@@ -52,7 +52,7 @@ Resources
     - [redispapa](https://github.com/no13bus/redispapa) - another redis monitor by using flask, angular, socket.io
     - [flaskblog](https://github.com/defshine/flaskblog) - a simple blog system based on flask
     - [cleanblog](https://github.com/defshine/cleanblog) - a clean blog system based on flask and mongoengine
-    - [Quokka CMS](https://github.com/rochacbruno/quokka) - CMS made with Flask and MongoDB
+    - [Quokka CMS](https://github.com/quokkaproject/quokka) - CMS made with Flask and MongoDB
     - [chat](https://github.com/lzyy/chat) - a live chat built with python (flask + gevent + apscheduler) + redis
     - [chatapp](https://github.com/vinceprignano/chatapp) - Flask and Angular.js Chat Application using Socket.io
     - [Frozen-Flask](https://github.com/SimonSapin/Frozen-Flask) - Freezes a Flask application into a set of static files
@@ -92,7 +92,7 @@ Plugins
     - [Flask-OpenID](https://github.com/mitsuhiko/flask-openid) - Flask-OpenID adds openid support to flask applications
     - [Flask-Social](https://github.com/mattupstate/flask-social) - OAuth Provider Integration for Flask-Security
     - [Flask-OAuthlib](https://github.com/lepture/flask-oauthlib) - OAuthlib implementation for Flask
-    - [GitHub-Flask](https://github.com/cenkalti/github-flask) - Flask extension for authenticating users with GitHub and making requests to the API
+    - [GitHub-Flask](https://github.com/cenk/github-flask) - Flask extension for authenticating users with GitHub and making requests to the API
     - [Python-Social-Auth](https://github.com/omab/python-social-auth) - Social auth made simple
     - [Flask-social-blueprint](https://github.com/wooyek/flask-social-blueprint) - OAuth OOP way
     - [Flask-OAuth](https://github.com/mitsuhiko/flask-oauth) - OAuth Support for Flask
@@ -157,7 +157,7 @@ Plugins
     - [Flask-Dropbox](https://github.com/playpauseandstop/Flask-Dropbox) - Dropbox Python SDK support for Flask applications
     - [Flask-Heroku](https://github.com/kennethreitz/flask-heroku) - Heroku environment variable configurations for Flask
     - [Flask-Gravatar](https://github.com/zzzsochi/Flask-Gravatar) - Small and simple gravatar usage in Flask
-    - [Flask-WeasyPrint](https://github.com/SimonSapin/Flask-WeasyPrint) - Make PDF in your Flask app with WeasyPrint
+    - [Flask-WeasyPrint](https://github.com/Kozea/Flask-WeasyPrint) - Make PDF in your Flask app with WeasyPrint
     - [Flask-WeRoBot](https://github.com/whtsky/Flask-WeRoBot) - Adds WeRoBot support to Flask
     - [Flask-Pusher](https://github.com/iurisilvio/Flask-Pusher) - Pusher integration for Flask
     - [flask-pusher](https://github.com/Bekt/flask-pusher) - Pusher support for your Flask application
@@ -177,13 +177,13 @@ Plugins
     - [Flask-SSLify](https://github.com/kennethreitz/flask-sslify) - Force SSL on your Flask app
     - [Flask-gzip](https://github.com/closeio/Flask-gzip) - Gzip flask responses
     - [Flask-HTMLmin](https://github.com/hamidfzm/Flask-HTMLmin) - Flask html minifier
-    - [Flask-Azure-Storage](https://github.com/alejoar/Flask-Azure-Storage) - Flask extension that provides integration with Azure Storage 
+    - [Flask-Azure-Storage](https://github.com/alejoar/Flask-Azure-Storage) - Flask extension that provides integration with Azure Storage
 - Development (Debugging/Testing/AB Testing)
     - [flask_profiler](https://github.com/muatik/flask-profiler) - endpoint analyzer/profiler for Flask
     - [Flask-Testing](https://github.com/jarus/flask-testing) - Unittest extensions for Flask
     - [flask_debugtoolbar_lineprofilerpanel](https://github.com/jlfwong/flask_debugtoolbar_lineprofilerpanel) - Line Profiler Panel for Flask Debug Toolbar
     - [Flask-DebugToolbar](https://github.com/mgood/flask-debugtoolbar) - A port of the django debug toolbar to flask
-    - [flask-debug-toolbar-mongo](https://github.com/cenkalti/flask-debug-toolbar-mongo) - MongoDB panel for the Flask Debug Toolbar
+    - [flask-debug-toolbar-mongo](https://github.com/cenk/flask-debug-toolbar-mongo) - MongoDB panel for the Flask Debug Toolbar
     - [pytest-flask](https://github.com/vitalk/pytest-flask) - A set of pytest fixtures to test Flask applications
     - [flask2postman](https://github.com/numberly/flask2postman) - Generate a Postman collection from your Flask application
     - [Flasgger](https://github.com/rochacbruno/flasgger) - Create API documentation for Flask views using Swagger 2.0 specs
