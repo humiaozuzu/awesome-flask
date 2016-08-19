@@ -14,7 +14,8 @@ Resources
     - [Discover Flask - Full Stack Web Development with Flask](https://github.com/realpython/discover-flask)
     - [Flaskr - Intro to Flask, Test Driven Development, and jQuery](https://github.com/mjhea0/flaskr-tdd)
     - [Real Python: Flask Category](https://realpython.com/blog/categories/flask/)
-    - [Flask-SQLAlchemy Tutorials and Examples](http://techarena51.com/index.php/category/flask-framework-tutorials-and-examples/)
+    - [Flask-SQLAlchemy Tutorials and Examples](https://techarena51.com/index.php/category/flask-framework-tutorials-and-examples/)
+    - [Flask by Example](https://realpython.com/blog/python/flask-by-example-part-1-project-setup/)
 - Course:
     - [Full Stack Foundations](https://www.udacity.com/course/full-stack-foundations--ud088)
     - [Designing RESTful APIs](https://www.udacity.com/course/designing-restful-apis--ud388)
@@ -51,7 +52,7 @@ Resources
     - [redispapa](https://github.com/no13bus/redispapa) - another redis monitor by using flask, angular, socket.io
     - [flaskblog](https://github.com/defshine/flaskblog) - a simple blog system based on flask
     - [cleanblog](https://github.com/defshine/cleanblog) - a clean blog system based on flask and mongoengine
-    - [Quokka CMS](https://github.com/rochacbruno/quokka) - CMS made with Flask and MongoDB
+    - [Quokka CMS](https://github.com/quokkaproject/quokka) - CMS made with Flask and MongoDB
     - [chat](https://github.com/lzyy/chat) - a live chat built with python (flask + gevent + apscheduler) + redis
     - [chatapp](https://github.com/vinceprignano/chatapp) - Flask and Angular.js Chat Application using Socket.io
     - [Frozen-Flask](https://github.com/SimonSapin/Frozen-Flask) - Freezes a Flask application into a set of static files
@@ -188,7 +189,7 @@ Plugins
     - [Flask-SSLify](https://github.com/kennethreitz/flask-sslify) - Force SSL on your Flask app
     - [Flask-gzip](https://github.com/closeio/Flask-gzip) - Gzip flask responses
     - [Flask-HTMLmin](https://github.com/hamidfzm/Flask-HTMLmin) - Flask html minifier
-    - [Flask-Azure-Storage](https://github.com/alejoar/Flask-Azure-Storage) - Flask extension that provides integration with Azure Storage 
+    - [Flask-Azure-Storage](https://github.com/alejoar/Flask-Azure-Storage) - Flask extension that provides integration with Azure Storage
 - Development (Debugging/Testing/AB Testing)
     - [flask_profiler](https://github.com/muatik/flask-profiler) - endpoint analyzer/profiler for Flask
     - [Flask-Testing](https://github.com/jarus/flask-testing) - Unittest extensions for Flask
