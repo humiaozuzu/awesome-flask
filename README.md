@@ -89,6 +89,8 @@ Plugins
     - [Flask-RestPlus](https://github.com/noirbizarre/flask-restplus) - syntaxic sugar, helpers and automatically generated Swagger documentation on top of Flask-Restful.
     - [Flask-Potion](https://github.com/biosustain/potion) - RESTful API framework for Flask and SQLAlchemy
     - [enferno](https://github.com/level09/enferno) - A Flask-based Framework for the Next Decade
+    - [Flasgger](https://github.com/rochacbruno/flasgger) - Create API documentation for Flask views using Swagger 2.0 specs
+    - [flask-restful-swagger](https://github.com/rantav/flask-restful-swagger) - A wrapper for flask-restful which enables swagger support
 - Admin
     - [Flask-Admin](https://github.com/flask-admin/flask-admin) - Simple and extensible administrative interface framework for Flask
     - [Flask-SuperAdmin](https://github.com/SyrusAkbary/Flask-SuperAdmin) - The best admin interface framework for Flask. With scaffolding for MongoEngine, Django and SQLAlchemy
@@ -194,8 +196,6 @@ Plugins
     - [flask-debug-toolbar-mongo](https://github.com/cenkalti/flask-debug-toolbar-mongo) - MongoDB panel for the Flask Debug Toolbar
     - [pytest-flask](https://github.com/vitalk/pytest-flask) - A set of pytest fixtures to test Flask applications
     - [flask2postman](https://github.com/numberly/flask2postman) - Generate a Postman collection from your Flask application
-    - [Flasgger](https://github.com/rochacbruno/flasgger) - Create API documentation for Flask views using Swagger 2.0 specs
-    - [flask-restful-swagger](https://github.com/rantav/flask-restful-swagger) - A wrapper for flask-restful which enables swagger support
 - Utils
     - [Flask-Script](https://github.com/smurfix/flask-script) - Flask extension to help writing external scripts for Flask applications
     - [Flask-Split](https://github.com/jpvanhal/flask-split) - A/B testing for your Flask application
