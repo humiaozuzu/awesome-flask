@@ -35,8 +35,8 @@ Resources
     - [Domain Driven Design (... with Flask)](https://speakerdeck.com/mikedebo/domain-driven-design-dot-dot-dot-with-flask)
     - [In Flask we Trust](https://speakerdeck.com/playpauseandstop/in-flask-we-trust)
 - Videos
-    - [Flask by Example](http://pyvideo.org/video/2608/flask-by-example)
-    - [Writing RESTful web services with Flask](http://pyvideo.org/video/2668/writing-restful-web-services-with-flask)
+    - [Flask by Example](http://pyvideo.org/video/2608/flask-by-example/)
+    - [Writing RESTful web services with Flask](http://pyvideo.org/video/2668/writing-restful-web-services-with-flask/)
     - [Practical Flask Web Development Tutorials](https://www.youtube.com/playlist?list=PLQVvvaa0QuDc_owjTbIY4rbgXOFkUYOUB)
 - Build with Flask
     - [zmusic-ng](https://git.zx2c4.com/zmusic-ng/) - ZX2C4 Music provides a web interface for playing and downloading music files using metadata.
@@ -59,10 +59,10 @@ Resources
     - [Frozen-Flask](https://github.com/SimonSapin/Frozen-Flask) - Freezes a Flask application into a set of static files
     - [mcflyin](https://github.com/wrobstory/mcflyin) - A small timeseries transformation API built on Flask and Pandas
     - [Skylines](https://github.com/skylines-project/skylines) - Live tracking, flight database and competition framework
-    - [airflow](https://github.com/airbnb/airflow) - Airflow is a system to programmatically author, schedule and monitor data pipelines.
+    - [airflow](https://github.com/apache/incubator-airflow) - Airflow is a system to programmatically author, schedule and monitor data pipelines.
     - [timesketch](https://github.com/google/timesketch) - Collaborative forensics timeline analysis
     - [changes](https://github.com/dropbox/changes) - A dashboard for your code. A build system.
-    - [security_monkey](https://github.com/Netflix/security_monkey.git) - monitors policy changes and alerts on insecure configurations in an AWS account.
+    - [security_monkey](https://github.com/Netflix/security_monkey) - monitors policy changes and alerts on insecure configurations in an AWS account.
     - [securedrop](https://github.com/freedomofpress/securedrop)- an open-source whistleblower submission system that media organizations can use to securely accept documents from and communicate with anonymous sources.
     - [sync_engine](https://github.com/nylas/sync-engine) - IMAP/SMTP sync system with modern APIs
     - [cleansweep](https://github.com/AamAadmiParty/cleansweep) - Volunteer & Campaign Management System
