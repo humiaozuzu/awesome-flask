@@ -143,6 +143,7 @@ Plugins
 - i18n
     - [flask-babel](https://github.com/python-babel/flask-babel) - i18n and l10n support for Flask based on Babel and pytz
 - Full-text searching
+    - [Flask-PonyWhoosh](https://github.com/compiteing/Flask-PonyWhoosh) - Full-text searching in Flask with Pony ORM.
     - [Flask-WhooshAlchemy](https://github.com/dhamaniasad/Flask-WhooshAlchemy) - Whoosh indexing capabilities for Flask-SQLAlchemy
     - [SQLAlchemy-Searchable](https://github.com/kvesteri/sqlalchemy-searchable) - Full-text searching for Flask-SQLAlchemy (Postgres only)
 - Rate Limiting
