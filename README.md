@@ -35,8 +35,8 @@ Resources
     - [Domain Driven Design (... with Flask)](https://speakerdeck.com/mikedebo/domain-driven-design-dot-dot-dot-with-flask)
     - [In Flask we Trust](https://speakerdeck.com/playpauseandstop/in-flask-we-trust)
 - Videos
-    - [Flask by Example](http://pyvideo.org/video/2608/flask-by-example)
-    - [Writing RESTful web services with Flask](http://pyvideo.org/video/2668/writing-restful-web-services-with-flask)
+    - [Flask by Example](http://pyvideo.org/video/2608/flask-by-example/)
+    - [Writing RESTful web services with Flask](http://pyvideo.org/video/2668/writing-restful-web-services-with-flask/)
     - [Practical Flask Web Development Tutorials](https://www.youtube.com/playlist?list=PLQVvvaa0QuDc_owjTbIY4rbgXOFkUYOUB)
 - Build with Flask
     - [zmusic-ng](https://git.zx2c4.com/zmusic-ng/) - ZX2C4 Music provides a web interface for playing and downloading music files using metadata.
@@ -55,10 +55,10 @@ Resources
     - [Quokka CMS](https://github.com/quokkaproject/quokka) - CMS made with Flask and MongoDB
     - [chat](https://github.com/lzyy/chat) - a live chat built with python (flask + gevent + apscheduler) + redis
     - [chatapp](https://github.com/vinceprignano/chatapp) - Flask and Angular.js Chat Application using Socket.io
-    - [Frozen-Flask](https://github.com/SimonSapin/Frozen-Flask) - Freezes a Flask application into a set of static files
+    - [Frozen-Flask](https://github.com/Frozen-Flask/Frozen-Flask) - Freezes a Flask application into a set of static files
     - [mcflyin](https://github.com/wrobstory/mcflyin) - A small timeseries transformation API built on Flask and Pandas
     - [Skylines](https://github.com/skylines-project/skylines) - Live tracking, flight database and competition framework
-    - [airflow](https://github.com/airbnb/airflow) - Airflow is a system to programmatically author, schedule and monitor data pipelines.
+    - [airflow](https://github.com/apache/incubator-airflow) - Airflow is a system to programmatically author, schedule and monitor data pipelines.
     - [timesketch](https://github.com/google/timesketch) - Collaborative forensics timeline analysis
     - [changes](https://github.com/dropbox/changes) - A dashboard for your code. A build system.
     - [security_monkey](https://github.com/Netflix/security_monkey.git) - monitors policy changes and alerts on insecure configurations in an AWS account.
@@ -156,7 +156,7 @@ Plugins
     - [flask-paypal](https://github.com/jdiez17/flask-paypal) - PayPal integration example with Flask
     - [Flask-WePay](https://github.com/maxcountryman/flask-wepay) - A Flask wrapper for WePay's Python API
 - Exception tracking
-    - [Raven](https://github.com/getsentry/raven-python) - Raven is a Python client for [Sentry](https://www.getsentry.com/welcome/).
+    - [Raven](https://github.com/getsentry/raven-python) - Raven is a Python client for [Sentry](https://sentry.io/welcome/).
 - Metrics Tracking
     - [flask-track-usage](https://github.com/ashcrow/flask-track-usage) - Basic metrics tracking for the Flask framework
     - [Flask-Analytics](https://github.com/srounet/Flask-Analytics) - A Flask extention that provide user navigation tracking
@@ -196,7 +196,7 @@ Plugins
     - [flask_debugtoolbar_lineprofilerpanel](https://github.com/jlfwong/flask_debugtoolbar_lineprofilerpanel) - Line Profiler Panel for Flask Debug Toolbar
     - [Flask-DebugToolbar](https://github.com/mgood/flask-debugtoolbar) - A port of the django debug toolbar to flask
     - [flask-debug-toolbar-mongo](https://github.com/cenk/flask-debug-toolbar-mongo) - MongoDB panel for the Flask Debug Toolbar
-    - [pytest-flask](https://github.com/vitalk/pytest-flask) - A set of pytest fixtures to test Flask applications
+    - [pytest-flask](https://github.com/pytest-dev/pytest-flask) - A set of pytest fixtures to test Flask applications
     - [flask2postman](https://github.com/numberly/flask2postman) - Generate a Postman collection from your Flask application
 - Utils
     - [Flask-Script](https://github.com/smurfix/flask-script) - Flask extension to help writing external scripts for Flask applications
