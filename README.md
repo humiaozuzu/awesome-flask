@@ -110,6 +110,7 @@ Plugins
     - [Flask-OAuth](https://github.com/mitsuhiko/flask-oauth) - OAuth Support for Flask
     - [Flask-HTTPAuth](https://github.com/miguelgrinberg/Flask-HTTPAuth) - Simple extension that provides Basic and Digest HTTP authentication for Flask routes
     - [Flask-User](https://github.com/lingthio/Flask-User) - Customizable user account management for Flask
+    - [Flask-FIDO-U2F](https://github.com/herrjemand/flask-fido-u2f/) - FIDO U2F Support for Flask
 - Authorization
     - [Flask-Pundit](https://github.com/anurag90x/flask-pundit) - Extension based on Rails' [Pundit](https://github.com/elabs/pundit) gem that provides easy way to organize access control for your models
 - Database/ORM/ODM
