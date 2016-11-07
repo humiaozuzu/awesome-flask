@@ -174,6 +174,7 @@ Plugins
     - [Flask-Pusher](https://github.com/iurisilvio/Flask-Pusher) - Pusher integration for Flask
     - [flask-pusher](https://github.com/Bekt/flask-pusher) - Pusher support for your Flask application
 - Frontend (Asset Pipeline/CDN)
+    - [FlaskSR](https://github.com/arpitbbhayani/flasksr) - Make flask pages load faster and better by streaming partial HTTP Responses
     - [Flask-Mustache](https://github.com/bradwright/flask-mustachejs) - Mustache template integration with Flask
     - [Flask-Genshi](https://github.com/dag/flask-genshi) - Genshi templating for Flask
     - [flask-mako](https://github.com/benselme/flask-mako) - Provides support for Mako Templates in Flask
