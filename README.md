@@ -58,6 +58,8 @@ Resources
     - [Flask-Empty](https://github.com/italomaia/flask-empty)
     - [flask-rest-template](https://github.com/alexandre/flask-rest-template)
     - [gae-init](https://gae-init.appspot.com) - Flask boilerplate running on Google App Engine
+    - [redash](https://github.com/getredash/redash) - Make Your Company Data Driven. Connect to any data source, easily visualize and share your data
+    - [pyxley](https://github.com/stitchfix/pyxley) - Python helpers for building dashboards using Flask and React
 
 Plugins
 -------
