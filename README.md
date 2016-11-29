@@ -19,6 +19,11 @@ Resources
 - Course:
     - [Full Stack Foundations](https://www.udacity.com/course/full-stack-foundations--ud088)
     - [Designing RESTful APIs](https://www.udacity.com/course/designing-restful-apis--ud388)
+    - [REST APIs with Flask and Python](https://www.udemy.com/rest-api-flask-and-python/)
+    - [Professional Python Web Development Using Flask](https://www.udemy.com/python-flask-course/)
+    - [Advanced Scalable Python Web Development Using Flask](https://www.udemy.com/advanced-python-flask/)
+    - [The Build a SAAS App with Flask Course](https://www.udemy.com/the-build-a-saas-app-with-flask-course/)
+    - [Rapid Flask](https://www.udemy.com/rapid-flask/)
 - Books
     - [Explore Flask](https://exploreflask.com/en/latest/)
     - [Flask Web Development](http://shop.oreilly.com/product/0636920031116.do)
