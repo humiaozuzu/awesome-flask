@@ -39,6 +39,7 @@ Resources
     - [Writing RESTful web services with Flask](http://pyvideo.org/video/2668/writing-restful-web-services-with-flask/)
     - [Practical Flask Web Development Tutorials](https://www.youtube.com/playlist?list=PLQVvvaa0QuDc_owjTbIY4rbgXOFkUYOUB)
     - [Flask at Scale (PyCon 2016, Miguel Grinberg)](https://www.youtube.com/watch?v=tdIIJuPh3SI)
+    - [Flask Workshop (PyCon 2015, Miguel Grinberg)](https://www.youtube.com/watch?v=DIcpEg77gdE)
 - Build with Flask
     - [zmusic-ng](https://git.zx2c4.com/zmusic-ng/) - ZX2C4 Music provides a web interface for playing and downloading music files using metadata.
     - [GuitarFan](https://github.com/lowrain/GuitarFan) - guitar tab
