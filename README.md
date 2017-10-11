@@ -140,6 +140,7 @@ Plugins
     - [Flask-Validator](https://github.com/xeBuz/Flask-Validator) - Data validator for SQLAlchemy using ORM events
 - Email
     - [Flask-Mail](https://github.com/mattupstate/flask-mail/) - Flask-Mail adds SMTP mail sending to your Flask applications
+    - [flask-notifyAll](https://github.com/MichaelYusko/flask-notifyAll) - A Flask extension to access sending sms/emails/test emails, providers such as: Twilio, Mailtrap.
 - i18n
     - [flask-babel](https://github.com/python-babel/flask-babel) - i18n and l10n support for Flask based on Babel and pytz
 - Full-text searching
