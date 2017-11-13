@@ -72,6 +72,7 @@ Resources
     - [cookiecutter-flask](https://github.com/sloria/cookiecutter-flask)
     - [cookiecutter-flask-pythonic](https://github.com/tony/cookiecutter-flask-pythonic)
     - [Flask-Foundation](https://github.com/JackStouffer/Flask-Foundation)
+    - [Flask-note](https://github.com/tanrax/flask-note) - Example application for managing notes
     - [Flask-Empty](https://github.com/italomaia/flask-empty)
     - [flask-rest-template](https://github.com/alexandre/flask-rest-template)
     - [gae-init](https://gae-init.appspot.com) - Flask boilerplate running on Google App Engine
