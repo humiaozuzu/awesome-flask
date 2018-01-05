@@ -55,6 +55,7 @@ Resources
     - [Quokka CMS](https://github.com/quokkaproject/quokka) - CMS made with Flask and MongoDB
     - [chat](https://github.com/lzyy/chat) - a live chat built with python (flask + gevent + apscheduler) + redis
     - [chatapp](https://github.com/vinceprignano/chatapp) - Flask and Angular.js Chat Application using Socket.io
+    - [flask-chat-socketIO] - Chat example with Flask-socketIO and Vuejs
     - [Frozen-Flask](https://github.com/Frozen-Flask/Frozen-Flask) - Freezes a Flask application into a set of static files
     - [mcflyin](https://github.com/wrobstory/mcflyin) - A small timeseries transformation API built on Flask and Pandas
     - [Skylines](https://github.com/skylines-project/skylines) - Live tracking, flight database and competition framework
@@ -73,6 +74,7 @@ Resources
     - [cookiecutter-flask-pythonic](https://github.com/tony/cookiecutter-flask-pythonic)
     - [Flask-Foundation](https://github.com/JackStouffer/Flask-Foundation)
     - [Flask-note](https://github.com/tanrax/flask-note) - Clone of Evernote with Flask and Markdown. Example application for managing notes
+    - [Flask-contacts](https://github.com/tanrax/flask-note) - Example of CRUD with Flask to manage a contact list
     - [Flask-Empty](https://github.com/italomaia/flask-empty)
     - [flask-rest-template](https://github.com/alexandre/flask-rest-template)
     - [gae-init](https://gae-init.appspot.com) - Flask boilerplate running on Google App Engine
