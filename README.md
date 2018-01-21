@@ -6,6 +6,7 @@ Awesome Flask [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d2
 Resources
 ---------
 
+- [Recommended Resources](https://hackr.io/tutorials/learn-flask)
 - Tutorial
     - [How to build a news app that never goes down and costs you practically nothing](http://blog.apps.npr.org/2013/02/14/app-template-redux.html) (by NPR)
     - [Building websites in Python with Flask](http://maximebf.com/blog/2012/10/building-websites-in-python-with-flask/)
