@@ -97,6 +97,8 @@ Plugins
     - [enferno](https://github.com/level09/enferno) - A Flask-based Framework for the Next Decade
     - [Flasgger](https://github.com/rochacbruno/flasgger) - Create API documentation for Flask views using Swagger 2.0 specs
     - [flask-restful-swagger](https://github.com/rantav/flask-restful-swagger) - A wrapper for flask-restful which enables swagger support
+    - [SQLAlchemy-JSONAPI](https://github.com/coltonprovias/sqlalchemy-jsonapi) - A JSON API implementation for SQLAlchemy which can also be used with Flask
+    - [flask-rispozo](https://github.com/vertical-knowledge/flask-ripozo) A tool for quickly creating REST/HATEOAS/Hypermedia APIs in Flask based on [Rispozo](https://github.com/vertical-knowledge/ripozo/)
 - Admin
     - [Flask-Admin](https://github.com/flask-admin/flask-admin) - Simple and extensible administrative interface framework for Flask
     - [Flask-SuperAdmin](https://github.com/SyrusAkbary/Flask-SuperAdmin) - The best admin interface framework for Flask. With scaffolding for MongoEngine, Django and SQLAlchemy
