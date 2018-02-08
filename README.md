@@ -211,6 +211,7 @@ Plugins
     - [pytest-flask](https://github.com/pytest-dev/pytest-flask) - A set of pytest fixtures to test Flask applications
     - [flask2postman](https://github.com/numberly/flask2postman) - Generate a Postman collection from your Flask application
 - Utils
+    - [Empty](https://github.com/italomaia/empty) - Makes your development much faster by adding some very useful defaults to Flask
     - [Flask-Script](https://github.com/smurfix/flask-script) - Flask extension to help writing external scripts for Flask applications
     - [Flask-Split](https://github.com/jpvanhal/flask-split) - A/B testing for your Flask application
     - [flask-jsonrpc](https://github.com/cenobites/flask-jsonrpc) - A basic JSON-RPC implementation for your Flask-powered sites
