@@ -3,6 +3,8 @@ Awesome Flask [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d2
 
 > A curated list of awesome Flask resources and plugins
 
+TWIMC I merged the open PRs from the base repo. Sorry that I could not do it for every PR individually, would have taken to long. Thanks for the contributions tough.
+
 Resources
 ---------
 
@@ -19,10 +21,16 @@ Resources
     - [Flask-SQLAlchemy Tutorials and Examples](http://techarena51.com/index.php/category/flask-framework-tutorials-and-examples/)
     - [Flask by Example](https://realpython.com/blog/python/flask-by-example-part-1-project-setup/)
     - [How to build a Polling/Voting web application with Flask](https://danidee10.github.io/2016/09/18/flask-by-example-1.html)
+    - [Add Google Oauth2 login in your flask web app](http://bitwiser.in/2015/09/09/add-google-login-in-flask.html)
 - Courses
     - [Test Driven Development Courses - Microservices with Docker, Flask, and React](http://testdriven.io/)
     - [Full Stack Foundations](https://www.udacity.com/course/full-stack-foundations--ud088)
     - [Designing RESTful APIs](https://www.udacity.com/course/designing-restful-apis--ud388)
+    - [REST APIs with Flask and Python](https://www.udemy.com/rest-api-flask-and-python/)
+    - [Professional Python Web Development Using Flask](https://www.udemy.com/python-flask-course/)
+    - [Advanced Scalable Python Web Development Using Flask](https://www.udemy.com/advanced-python-flask/)
+    - [The Build a SAAS App with Flask Course](https://www.udemy.com/the-build-a-saas-app-with-flask-course/)
+    - [Rapid Flask](https://www.udemy.com/rapid-flask/)
 - Books
     - [Explore Flask](https://exploreflask.com/en/latest/)
     - [Flask Web Development](http://shop.oreilly.com/product/0636920031116.do)
@@ -42,6 +50,8 @@ Resources
     - [Flask by Example](http://pyvideo.org/video/2608/flask-by-example/)
     - [Writing RESTful web services with Flask](http://pyvideo.org/video/2668/writing-restful-web-services-with-flask/)
     - [Practical Flask Web Development Tutorials](https://www.youtube.com/playlist?list=PLQVvvaa0QuDc_owjTbIY4rbgXOFkUYOUB)
+    - [Flask at Scale (PyCon 2016, Miguel Grinberg)](https://www.youtube.com/watch?v=tdIIJuPh3SI)
+    - [Flask Workshop (PyCon 2015, Miguel Grinberg)](https://www.youtube.com/watch?v=DIcpEg77gdE)
 - Built with Flask
     - [zmusic-ng](https://git.zx2c4.com/zmusic-ng/) - ZX2C4 Music provides a web interface for playing and downloading music files using metadata.
     - [GuitarFan](https://github.com/lowrain/GuitarFan) - guitar tab
@@ -128,6 +138,7 @@ Plugins
     - [Flask-OAuth](https://github.com/mitsuhiko/flask-oauth) - OAuth Support for Flask
     - [Flask-HTTPAuth](https://github.com/miguelgrinberg/Flask-HTTPAuth) - Simple extension that provides Basic and Digest HTTP authentication for Flask routes
     - [Flask-User](https://github.com/lingthio/Flask-User) - Customizable user account management for Flask
+    - [Flask-FIDO-U2F](https://github.com/herrjemand/flask-fido-u2f/) - FIDO U2F Support for Flask
 - Authorization
     - [Flask-Pundit](https://github.com/anurag90x/flask-pundit) - Extension based on Rails' [Pundit](https://github.com/elabs/pundit) gem that provides easy way to organize access control for your models
 - Database/ORM/ODM
