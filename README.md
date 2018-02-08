@@ -16,8 +16,8 @@ Resources
     - [Flaskr - Intro to Flask, Test Driven Development, and jQuery](https://github.com/mjhea0/flaskr-tdd)
     - [Real Python: Flask Category](https://realpython.com/blog/categories/flask/)
     - [Flask by Example](https://realpython.com/blog/python/flask-by-example-part-1-project-setup/)
-- Course:
     - [How to build a Polling/Voting web application with Flask](https://danidee10.github.io/2016/09/18/flask-by-example-1.html)
+- Course:
     - [Test Driven Development Courses - Microservices with Docker, Flask, and React](http://testdriven.io/)
     - [Full Stack Foundations](https://www.udacity.com/course/full-stack-foundations--ud088)
     - [Designing RESTful APIs](https://www.udacity.com/course/designing-restful-apis--ud388)
