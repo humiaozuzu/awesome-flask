@@ -12,6 +12,7 @@ Resources
     - [Awesome Flask by c-bata](https://github.com/c-bata/awesome-flask)
     - [Hackr Flask Tutorials](https://hackr.io/tutorials/learn-flask)
     - [Real Python: Flask Category](https://realpython.com/blog/categories/flask/)
+    - [Flask-SQLAlchemy Tutorials and Examples](http://techarena51.com/index.php/category/flask-framework-tutorials-and-examples/)
 - Tutorials
     - [Free Flask Tutorial](https://flask-tutorial.com/)
     - [How to build a news app that never goes down and costs you practically nothing](http://blog.apps.npr.org/2013/02/14/app-template-redux.html) (by NPR)
@@ -19,7 +20,6 @@ Resources
     - [The Flask Mega-Tutorial](https://blog.miguelgrinberg.com/post/the-flask-mega-tutorial-part-i-hello-world)
     - [Discover Flask - Full Stack Web Development with Flask](https://github.com/realpython/discover-flask)
     - [Flaskr - Intro to Flask, Test Driven Development, and jQuery](https://github.com/mjhea0/flaskr-tdd)
-    - [Flask-SQLAlchemy Tutorials and Examples](http://techarena51.com/index.php/category/flask-framework-tutorials-and-examples/)
     - [Flask by Example](https://realpython.com/blog/python/flask-by-example-part-1-project-setup/)
     - [How to build a Polling/Voting web application with Flask](https://danidee10.github.io/2016/09/18/flask-by-example-1.html)
     - [Add Google Oauth2 login in your Flask web app](http://bitwiser.in/2015/09/09/add-google-login-in-flask.html)
@@ -134,15 +134,15 @@ Plugins
     - [Flask-Security](https://github.com/mattupstate/flask-security) - Quick and simple security for Flask applications
     - [Flask-Login](https://github.com/maxcountryman/flask-login) - Flask user session management
     - [Authomatic](https://github.com/authomatic/authomatic) - Authomatic provides out of the box support for a number of providers using OAuth 1.0a (Twitter, Tumblr and more) and OAuth 2.0 (Facebook, Foursquare, GitHub, Google, LinkedIn, PayPal and more)
-    - [flask-googlefed](https://github.com/kennethreitz/flask-googlefed) - Google Federated Logins for Flask
     - [Flask-OIDC](https://github.com/puiterwijk/flask-oidc) - OpenID Connect for Flask
     - [Flask-OpenID](https://github.com/mitsuhiko/flask-openid) - Flask-OpenID adds openid support to flask applications
     - [Flask-Social](https://github.com/mattupstate/flask-social) - OAuth Provider Integration for Flask-Security
     - [Flask-OAuthlib](https://github.com/lepture/flask-oauthlib) - OAuthlib implementation for Flask
+    - [Flask-OAuth](https://github.com/mitsuhiko/flask-oauth) - OAuth Support for Flask
+    - [Flask-social-blueprint](https://github.com/wooyek/flask-social-blueprint) - OAuth OOP way
+    - [flask-googlefed](https://github.com/kennethreitz/flask-googlefed) - Google Federated Logins for Flask
     - [GitHub-Flask](https://github.com/cenkalti/github-flask) - Flask extension for authenticating users with GitHub and making requests to the API
     - [Python-Social-Auth](https://github.com/omab/python-social-auth) - Social auth made simple
-    - [Flask-social-blueprint](https://github.com/wooyek/flask-social-blueprint) - OAuth OOP way
-    - [Flask-OAuth](https://github.com/mitsuhiko/flask-oauth) - OAuth Support for Flask
     - [Flask-HTTPAuth](https://github.com/miguelgrinberg/Flask-HTTPAuth) - Simple extension that provides Basic and Digest HTTP authentication for Flask routes
     - [Flask-User](https://github.com/lingthio/Flask-User) - Customizable user account management for Flask
     - [Flask-FIDO-U2F](https://github.com/herrjemand/flask-fido-u2f/) - FIDO U2F Support for Flask
