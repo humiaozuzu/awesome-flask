@@ -45,6 +45,7 @@ Resources
     - [Building Web Applications with Flask](https://www.packtpub.com/web-development/building-web-applications-flask)
 - Slides
     - [Creating beautiful REST APIs with Flask](http://pycoder.net/bospy/presentation.html)
+    - [Flask for Fun and Profit](https://speakerdeck.com/mitsuhiko/flask-for-fun-and-profit) - Armin Ronacher, August 20, 2016, has some info about JSON Apis with Flask
     - [Advanced Flask Patterns](https://speakerdeck.com/mitsuhiko/advanced-flask-patterns)
     - [Flasky Goodness](https://speakerdeck.com/kennethreitz/flasky-goodness)
     - [Domain Driven Design (... with Flask)](https://speakerdeck.com/mikedebo/domain-driven-design-dot-dot-dot-with-flask)
