@@ -6,19 +6,20 @@ Awesome Flask [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d2
 Resources
 ---------
 
-- [Recommended Resources](https://hackr.io/tutorials/learn-flask)
-- Tutorial
+- Tutorials
     - [FREE Flask tutorial](https://flask-tutorial.com/)
+    - [Hackr Flask Tutorials](https://hackr.io/tutorials/learn-flask)
     - [How to build a news app that never goes down and costs you practically nothing](http://blog.apps.npr.org/2013/02/14/app-template-redux.html) (by NPR)
     - [Building websites in Python with Flask](http://maximebf.com/blog/2012/10/building-websites-in-python-with-flask/)
-    - [The Flask Mega-Tutorial](https://blog.miguelgrinberg.com/post/the-flask-mega-tutorial-part-i-hello-world )
+    - [The Flask Mega-Tutorial](https://blog.miguelgrinberg.com/post/the-flask-mega-tutorial-part-i-hello-world)
     - [Implementing a RESTful Web API with Python & Flask](http://blog.luisrei.com/articles/flaskrest.html)
     - [Discover Flask - Full Stack Web Development with Flask](https://github.com/realpython/discover-flask)
     - [Flaskr - Intro to Flask, Test Driven Development, and jQuery](https://github.com/mjhea0/flaskr-tdd)
     - [Real Python: Flask Category](https://realpython.com/blog/categories/flask/)
+    - [Flask-SQLAlchemy Tutorials and Examples](http://techarena51.com/index.php/category/flask-framework-tutorials-and-examples/)
     - [Flask by Example](https://realpython.com/blog/python/flask-by-example-part-1-project-setup/)
     - [How to build a Polling/Voting web application with Flask](https://danidee10.github.io/2016/09/18/flask-by-example-1.html)
-- Course:
+- Courses
     - [Test Driven Development Courses - Microservices with Docker, Flask, and React](http://testdriven.io/)
     - [Full Stack Foundations](https://www.udacity.com/course/full-stack-foundations--ud088)
     - [Designing RESTful APIs](https://www.udacity.com/course/designing-restful-apis--ud388)
