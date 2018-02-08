@@ -110,6 +110,7 @@ Plugins
     - [flask-rispozo](https://github.com/vertical-knowledge/flask-ripozo) A tool for quickly creating REST/HATEOAS/Hypermedia APIs in Flask based on [Rispozo](https://github.com/vertical-knowledge/ripozo/)
     - [gREST](https://github.com/mostafa/grest) - Build REST APIs with Neo4j and Flask, as quickly as possible!
     - [Flask Orator Blueprints](https://github.com/ent1c3d/Flask_Orator_Blueprints) - Rest Api framework wrapped around Orator-ORM
+    - [Zappa](https://github.com/Miserlou/Zappa) - Build and deploy server-less Flask applications on AWS Lambda and API Gateway
 - Admin
     - [Flask-Admin](https://github.com/flask-admin/flask-admin) - Simple and extensible administrative interface framework for Flask
     - [Flask-SuperAdmin](https://github.com/SyrusAkbary/Flask-SuperAdmin) - The best admin interface framework for Flask. With scaffolding for MongoEngine, Django and SQLAlchemy
