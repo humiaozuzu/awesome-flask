@@ -17,7 +17,6 @@ Resources
     - [How to build a news app that never goes down and costs you practically nothing](http://blog.apps.npr.org/2013/02/14/app-template-redux.html) (by NPR)
     - [Building websites in Python with Flask](http://maximebf.com/blog/2012/10/building-websites-in-python-with-flask/)
     - [The Flask Mega-Tutorial](https://blog.miguelgrinberg.com/post/the-flask-mega-tutorial-part-i-hello-world)
-    - [Implementing a RESTful Web API with Python & Flask](http://blog.luisrei.com/articles/flaskrest.html)
     - [Discover Flask - Full Stack Web Development with Flask](https://github.com/realpython/discover-flask)
     - [Flaskr - Intro to Flask, Test Driven Development, and jQuery](https://github.com/mjhea0/flaskr-tdd)
     - [Flask-SQLAlchemy Tutorials and Examples](http://techarena51.com/index.php/category/flask-framework-tutorials-and-examples/)
@@ -25,6 +24,9 @@ Resources
     - [How to build a Polling/Voting web application with Flask](https://danidee10.github.io/2016/09/18/flask-by-example-1.html)
     - [Add Google Oauth2 login in your Flask web app](http://bitwiser.in/2015/09/09/add-google-login-in-flask.html)
     - [Token based Authentication with Flask](https://realpython.com/blog/python/token-based-authentication-with-flask/)
+- Tutorials API
+    - [Implementing a RESTful Web API with Python & Flask](http://blog.luisrei.com/articles/flaskrest.html)
+    - [Working with JSON in Python Flask](https://codehandbook.org/working-with-json-in-python-flask/)
 - Courses
     - [Test Driven Development Courses - Microservices with Docker, Flask, and React](http://testdriven.io/)
     - [Full Stack Foundations](https://www.udacity.com/course/full-stack-foundations--ud088)
