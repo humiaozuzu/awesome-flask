@@ -39,8 +39,7 @@ Resources
     - [Flask by Example](http://pyvideo.org/video/2608/flask-by-example/)
     - [Writing RESTful web services with Flask](http://pyvideo.org/video/2668/writing-restful-web-services-with-flask/)
     - [Practical Flask Web Development Tutorials](https://www.youtube.com/playlist?list=PLQVvvaa0QuDc_owjTbIY4rbgXOFkUYOUB)
-- Build with Flask
-    - [Facture](https://github.com/Leyka/Facture) - Web app to quickly generate invoices in PDF
+- Built with Flask
     - [zmusic-ng](https://git.zx2c4.com/zmusic-ng/) - ZX2C4 Music provides a web interface for playing and downloading music files using metadata.
     - [GuitarFan](https://github.com/lowrain/GuitarFan) - guitar tab
     - [June](https://github.com/pythoncn/june) - ~~python-china.org~~
@@ -70,6 +69,7 @@ Resources
     - [cleansweep](https://github.com/AamAadmiParty/cleansweep) - Volunteer & Campaign Management System
     - [indico](https://github.com/indico/indico) - a general-purpose event management web-based solution. It includes a full-blown conference organization workflow as well as tools for meeting management and room booking. It provides as well integration with video-conferencing solutions.
     - [flaskbb](https://github.com/sh4nks/flaskbb) - A classic Forum Software in Python using Flask. https://flaskbb.org
+    - [Facture](https://github.com/Leyka/Facture) - Web app to quickly generate invoices in PDF
 - App template/bootstrap/boilerplate
     - [fbone](https://github.com/imwilsonxu/fbone)
     - [flask-base](https://github.com/notedit/flask-base)
@@ -230,5 +230,3 @@ Plugins
     - [Flask-Paginate](https://github.com/lixxu/flask-paginate) - Pagination support for Flask
     - [Flask-CORS](https://github.com/corydolphin/flask-cors) - Flask extension for handling Cross Origin Resource Sharing (CORS), making cross-origin AJAX possible
     - [Flask-Styleguide](https://github.com/vitalk/flask-styleguide) - A living Styleguide for your Flask application
-
-
