@@ -110,23 +110,23 @@ Plugins
 -------
 
 - Framework
-    - [Connexion](https://github.com/zalando/connexion) - Swagger/OpenAPI First framework for Python on top of Flask with automatic endpoint validation and OAuth2 support [![GitHub stars](https://img.shields.io/github/stars/Naereen/StrapDown.js.svg?style=social&label=Star&maxAge=2592000)](https://github.com/zalando/connexion)
-    - [Flask Kit](https://github.com/semirook/flask-kit) - Flexible microkit for Flask microframework [![GitHub stars](https://img.shields.io/github/stars/Naereen/StrapDown.js.svg?style=social&label=Star&maxAge=2592000)](https://github.com/semirook/flask-kit)
-    - [flask-peewee](https://github.com/coleifer/flask-peewee) - flask integration for peewee, including admin, authentication, rest api and more [![GitHub stars](https://img.shields.io/github/stars/Naereen/StrapDown.js.svg?style=social&label=Star&maxAge=2592000)](https://github.com/coleifer/flask-peewee)
-    - [Flask-MongoRest](https://github.com/closeio/flask-mongorest) - Restful API framework wrapped around MongoEngine [![GitHub stars](https://img.shields.io/github/stars/Naereen/StrapDown.js.svg?style=social&label=Star&maxAge=2592000)](https://github.com/closeio/flask-mongorest)
-    - [Eve](https://github.com/pyeve/eve) - REST API framework powered by Flask, MongoDB and good intentions [![GitHub stars](https://img.shields.io/github/stars/Naereen/StrapDown.js.svg?style=social&label=Star&maxAge=2592000)](https://github.com/pyeve/eve)
-    - [Flask-Restless](https://github.com/jfinkels/flask-restless) - A Flask extension for creating simple ReSTful APIs from SQLAlchemy models [![GitHub stars](https://img.shields.io/github/stars/Naereen/StrapDown.js.svg?style=social&label=Star&maxAge=2592000)](https://github.com/jfinkels/flask-restless)
-    - [Flask-RESTful](https://github.com/flask-restful/flask-restful) - Simple framework for creating REST APIs [![GitHub stars](https://img.shields.io/github/stars/Naereen/StrapDown.js.svg?style=social&label=Star&maxAge=2592000)](https://github.com/flask-restful/flask-restful)
-    - [Flask-RestPlus](https://github.com/noirbizarre/flask-restplus) - syntaxic sugar, helpers and automatically generated Swagger documentation. [![GitHub stars](https://img.shields.io/github/stars/Naereen/StrapDown.js.svg?style=social&label=Star&maxAge=2592000)](https://github.com/noirbizarre/flask-restplus)
-    - [Flask-Potion](https://github.com/biosustain/potion) - RESTful API framework for Flask and SQLAlchemy [![GitHub stars](https://img.shields.io/github/stars/Naereen/StrapDown.js.svg?style=social&label=Star&maxAge=2592000)](https://github.com/biosustain/potion)
-    - [enferno](https://github.com/level09/enferno) - A Flask-based Framework for the Next Decade [![GitHub stars](https://img.shields.io/github/stars/Naereen/StrapDown.js.svg?style=social&label=Star&maxAge=2592000)](https://github.com/level09/enferno)
-    - [Flasgger](https://github.com/rochacbruno/flasgger) - Create API documentation for Flask views using Swagger 2.0 specs [![GitHub stars](https://img.shields.io/github/stars/Naereen/StrapDown.js.svg?style=social&label=Star&maxAge=2592000)](https://github.com/rochacbruno/flasgger)
-    - [flask-restful-swagger](https://github.com/rantav/flask-restful-swagger) - A wrapper for flask-restful which enables swagger support [![GitHub stars](https://img.shields.io/github/stars/Naereen/StrapDown.js.svg?style=social&label=Star&maxAge=2592000)](https://github.com/rantav/flask-restful-swagger)
-    - [SQLAlchemy-JSONAPI](https://github.com/coltonprovias/sqlalchemy-jsonapi) - A JSON API implementation for SQLAlchemy which can also be used with Flask [![GitHub stars](https://img.shields.io/github/stars/Naereen/StrapDown.js.svg?style=social&label=Star&maxAge=2592000)](https://github.com/coltonprovias/sqlalchemy-jsonapi)
-    - [flask-rispozo](https://github.com/vertical-knowledge/flask-ripozo) A tool for quickly creating REST/HATEOAS/Hypermedia APIs in Flask based on [Rispozo](https://github.com/vertical-knowledge/ripozo/) [![GitHub stars](https://img.shields.io/github/stars/Naereen/StrapDown.js.svg?style=social&label=Star&maxAge=2592000)](https://github.com/vertical-knowledge/flask-ripozo)
-    - [gREST](https://github.com/mostafa/grest) - Build REST APIs with Neo4j and Flask, as quickly as possible! [![GitHub stars](https://img.shields.io/github/stars/Naereen/StrapDown.js.svg?style=social&label=Star&maxAge=2592000)](https://github.com/mostafa/grest)
-    - [Flask Orator Blueprints](https://github.com/ent1c3d/Flask_Orator_Blueprints) - Rest Api framework wrapped around Orator-ORM [![GitHub stars](https://img.shields.io/github/stars/Naereen/StrapDown.js.svg?style=social&label=Star&maxAge=2592000)](https://github.com/ent1c3d/Flask_Orator_Blueprints)
-    - [Zappa](https://github.com/Miserlou/Zappa) - Build and deploy server-less Flask applications on AWS Lambda and API Gateway [![GitHub stars](https://img.shields.io/github/stars/Naereen/StrapDown.js.svg?style=social&label=Star&maxAge=2592000)](https://github.com/Miserlou/Zappa)
+    - [Connexion](https://github.com/zalando/connexion)[![GitHub stars](https://img.shields.io/github/stars/Naereen/StrapDown.js.svg?style=social&label=Star&maxAge=2592000)](https://github.com/zalando/connexion) - Swagger/OpenAPI First framework for Python on top of Flask with automatic endpoint validation and OAuth2 support
+    - [Flask Kit](https://github.com/semirook/flask-kit) - Flexible microkit for Flask microframework
+    - [flask-peewee](https://github.com/coleifer/flask-peewee) - flask integration for peewee, including admin, authentication, rest api and more
+    - [Flask-MongoRest](https://github.com/closeio/flask-mongorest) - Restful API framework wrapped around MongoEngine
+    - [Eve](https://github.com/pyeve/eve) - REST API framework powered by Flask, MongoDB and good intentions
+    - [Flask-Restless](https://github.com/jfinkels/flask-restless) - A Flask extension for creating simple ReSTful APIs from SQLAlchemy models
+    - [Flask-RESTful](https://github.com/flask-restful/flask-restful) - Simple framework for creating REST APIs
+    - [Flask-RestPlus](https://github.com/noirbizarre/flask-restplus) - syntaxic sugar, helpers and automatically generated Swagger documentation.
+    - [Flask-Potion](https://github.com/biosustain/potion) - RESTful API framework for Flask and SQLAlchemy
+    - [enferno](https://github.com/level09/enferno) - A Flask-based Framework for the Next Decade
+    - [Flasgger](https://github.com/rochacbruno/flasgger) - Create API documentation for Flask views using Swagger 2.0 specs
+    - [flask-restful-swagger](https://github.com/rantav/flask-restful-swagger) - A wrapper for flask-restful which enables swagger support
+    - [SQLAlchemy-JSONAPI](https://github.com/coltonprovias/sqlalchemy-jsonapi) - A JSON API implementation for SQLAlchemy which can also be used with Flask
+    - [flask-rispozo](https://github.com/vertical-knowledge/flask-ripozo) A tool for quickly creating REST/HATEOAS/Hypermedia APIs in Flask based on [Rispozo](https://github.com/vertical-knowledge/ripozo/)
+    - [gREST](https://github.com/mostafa/grest) - Build REST APIs with Neo4j and Flask, as quickly as possible!
+    - [Flask Orator Blueprints](https://github.com/ent1c3d/Flask_Orator_Blueprints) - Rest Api framework wrapped around Orator-ORM
+    - [Zappa](https://github.com/Miserlou/Zappa) - Build and deploy server-less Flask applications on AWS Lambda and API Gateway
 - Admin
     - [Flask-Admin](https://github.com/flask-admin/flask-admin) - Simple and extensible administrative interface framework for Flask
     - [Flask-SuperAdmin](https://github.com/SyrusAkbary/Flask-SuperAdmin) - The best admin interface framework for Flask. With scaffolding for MongoEngine, Django and SQLAlchemy
