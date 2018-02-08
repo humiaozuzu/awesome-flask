@@ -8,6 +8,7 @@ Resources
 
 - [Recommended Resources](https://hackr.io/tutorials/learn-flask)
 - Tutorial
+    - [FREE Flask tutorial](https://flask-tutorial.com/)
     - [How to build a news app that never goes down and costs you practically nothing](http://blog.apps.npr.org/2013/02/14/app-template-redux.html) (by NPR)
     - [Building websites in Python with Flask](http://maximebf.com/blog/2012/10/building-websites-in-python-with-flask/)
     - [The Flask Mega-Tutorial](https://blog.miguelgrinberg.com/post/the-flask-mega-tutorial-part-i-hello-world )
@@ -54,6 +55,8 @@ Resources
     - [redispapa](https://github.com/no13bus/redispapa) - another redis monitor by using flask, angular, socket.io
     - [flaskblog](https://github.com/defshine/flaskblog) - a simple blog system based on flask
     - [cleanblog](https://github.com/defshine/cleanblog) - a clean blog system based on flask and mongoengine
+    - [OctBlog](https://github.com/flyhigher139/OctBlog) - Yet another blog system powered by Flask and MongoDB
+    - [gitmark](https://github.com/GitMarkTeam/gitmark) - An app to manage github repositories
     - [Quokka CMS](https://github.com/quokkaproject/quokka) - CMS made with Flask and MongoDB
     - [chat](https://github.com/lzyy/chat) - a live chat built with python (flask + gevent + apscheduler) + redis
     - [chatapp](https://github.com/vinceprignano/chatapp) - Flask and Angular.js Chat Application using Socket.io
@@ -212,6 +215,7 @@ Plugins
     - [pytest-flask](https://github.com/pytest-dev/pytest-flask) - A set of pytest fixtures to test Flask applications
     - [flask2postman](https://github.com/numberly/flask2postman) - Generate a Postman collection from your Flask application
 - Utils
+    - [Empty](https://github.com/italomaia/empty) - Makes your development much faster by adding some very useful defaults to Flask
     - [Flask-Script](https://github.com/smurfix/flask-script) - Flask extension to help writing external scripts for Flask applications
     - [Flask-Split](https://github.com/jpvanhal/flask-split) - A/B testing for your Flask application
     - [flask-jsonrpc](https://github.com/cenobites/flask-jsonrpc) - A basic JSON-RPC implementation for your Flask-powered sites
