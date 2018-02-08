@@ -136,6 +136,8 @@ Plugins
     - [flask-webcache](https://github.com/fusic-com/flask-webcache) - A Flask extension that adds HTTP based caching to Flask apps
     - [flask-heroku-cacheify](https://github.com/rdegges/flask-heroku-cacheify) - Automatic Flask cache configuration on Heroku
     - [Flask-Dogpile-Cache](https://bitbucket.org/ponomar/flask-dogpile-cache) - Flask wrapper for dogpile.cache
+- Static Files
+    - [Flask-Rev](https://github.com/italomaia/flask-rev) - Make Flask play nice with Http Server static file caching
 - Data Validation
     - [Flask-WTF](https://github.com/lepture/flask-wtf) - Simple integration of Flask and WTForms, including CSRF, file upload and Recaptcha integration.
     - [Flask-SeaSurf](https://github.com/maxcountryman/flask-seasurf) - SeaSurf is a Flask extension for preventing cross-site request forgery (CSRF).
