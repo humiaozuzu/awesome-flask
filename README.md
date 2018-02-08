@@ -9,7 +9,7 @@ Resources
 ---------
 
 - Tutorials
-    - [FREE Flask tutorial](https://flask-tutorial.com/)
+    - [Free Flask Tutorial](https://flask-tutorial.com/)
     - [Hackr Flask Tutorials](https://hackr.io/tutorials/learn-flask)
     - [How to build a news app that never goes down and costs you practically nothing](http://blog.apps.npr.org/2013/02/14/app-template-redux.html) (by NPR)
     - [Building websites in Python with Flask](http://maximebf.com/blog/2012/10/building-websites-in-python-with-flask/)
@@ -52,6 +52,8 @@ Resources
     - [Practical Flask Web Development Tutorials](https://www.youtube.com/playlist?list=PLQVvvaa0QuDc_owjTbIY4rbgXOFkUYOUB)
     - [Flask at Scale (PyCon 2016, Miguel Grinberg)](https://www.youtube.com/watch?v=tdIIJuPh3SI)
     - [Flask Workshop (PyCon 2015, Miguel Grinberg)](https://www.youtube.com/watch?v=DIcpEg77gdE)
+- Collections
+    - [Awesome Flask by c-bata](https://github.com/c-bata/awesome-flask)
 - Built with Flask
     - [zmusic-ng](https://git.zx2c4.com/zmusic-ng/) - ZX2C4 Music provides a web interface for playing and downloading music files using metadata.
     - [GuitarFan](https://github.com/lowrain/GuitarFan) - guitar tab
