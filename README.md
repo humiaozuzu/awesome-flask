@@ -166,6 +166,7 @@ Plugins
     - [Flask-Analytics](https://github.com/citruspi/Flask-Analytics) - Analytics snippets generator extension for the Flask framework.
 - Tracing
     - [flask-zipkin](https://github.com/qiajigou/flask-zipkin) - Distributed tracing with [Zipkin](https://zipkin.io/).
+    - [Flask-OpenTracing](https://pypi.python.org/pypi/Flask-OpenTracing) - Distributed tracing with [OpenTracing](http://opentracing.io/).
 - Other SDK
     - [Flask-GoogleMaps](https://github.com/rochacbruno/Flask-GoogleMaps) - Build and embed google maps in our Flask templates
     - [Flask-Dropbox](https://github.com/playpauseandstop/Flask-Dropbox) - Dropbox Python SDK support for Flask applications
