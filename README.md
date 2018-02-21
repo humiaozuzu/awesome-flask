@@ -12,6 +12,7 @@ Resources
     - [Awesome Flask by c-bata](https://github.com/c-bata/awesome-flask)
     - [Hackr Flask Tutorials](https://hackr.io/tutorials/learn-flask)
     - [Real Python: Flask Category](https://realpython.com/blog/categories/flask/)
+    - [Scotch.io Tutorials](https://scotch.io/tutorials?q=flask)
     - [Flask-SQLAlchemy Tutorials and Examples](http://techarena51.com/index.php/category/flask-framework-tutorials-and-examples/)
 - Tutorials
     - [Free Flask Tutorial](https://flask-tutorial.com/)
@@ -27,6 +28,10 @@ Resources
 - Tutorials API
     - [Implementing a RESTful Web API with Python & Flask](http://blog.luisrei.com/articles/flaskrest.html)
     - [Working with JSON in Python Flask](https://codehandbook.org/working-with-json-in-python-flask/)
+- Tutorials Zappa
+    - [Building a Simple API with Amazon Lambda and Zappa](https://www.viget.com/articles/building-a-simple-api-with-amazon-lambda-and-zappa/)
+    - [Deploying A Flask based REST API to AWS Lambda (Serverless) using Zappa](http://polyglot.ninja/deploying-flask-based-rest-api-aws-lambda-serverless-using-zappa/)
+
 - Courses
     - [Test Driven Development Courses - Microservices with Docker, Flask, and React](http://testdriven.io/)
     - [Full Stack Foundations](https://www.udacity.com/course/full-stack-foundations--ud088)
