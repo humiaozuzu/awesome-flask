@@ -14,7 +14,7 @@ Resources
     - [Discover Flask - Full Stack Web Development with Flask](https://github.com/realpython/discover-flask)
     - [Flaskr - Intro to Flask, Test Driven Development, and jQuery](https://github.com/mjhea0/flaskr-tdd)
     - [Real Python: Flask Category](https://realpython.com/blog/categories/flask/)
-    - [Flask-SQLAlchemy Tutorials and Examples](https://techarena51.com/index.php/category/flask-framework-tutorials-and-examples/)
+    - [Flask-SQLAlchemy Tutorials and Examples](http://www.rmunn.com/sqlalchemy-tutorial/tutorial.html)
     - [Flask by Example](https://realpython.com/blog/python/flask-by-example-part-1-project-setup/)
 - Course:
     - [Full Stack Foundations](https://www.udacity.com/course/full-stack-foundations--ud088)
@@ -79,7 +79,7 @@ Resources
 
 Plugins
 -------
-
+https://techarena51.com/index.php/category/flask-framework-tutorials-and-examples/
 - Framework
     - [Connexion](https://github.com/zalando/connexion) - Swagger/OpenAPI First framework for Python on top of Flask with automatic endpoint validation and OAuth2 support
     - [Flask Kit](https://github.com/semirook/flask-kit) - Flexible microkit for Flask microframework
@@ -122,7 +122,7 @@ Plugins
     - [Flask-And-Redis](https://github.com/playpauseandstop/Flask-And-Redis) - Simple as dead support of Redis database for Flask apps
     - [Flask-CouchDBKit](https://github.com/sirn/flask-couchdbkit) - Flask extension that provides integration with CouchDBKit
     - [Flask-OrientDB](https://github.com/calthoff/flask-orientdb) - Flask extension for OrientDB Graph&Document Database
-    - [Flask-Z3950](https://github.com/alexandermendes/Flask-Z3950) - Z39.50 integration for Flask applications.
+    - [Flask-Z3950](https://github.com/alexandermendes/Flask-Z3950) - Z39.50 integration for Flask applicatiohttps://techarena51.com/index.php/category/flask-framework-tutorials-and-examples/ns.
     - [Flask-Orator](https://github.com/sdispater/flask-orator) - Adds [Orator ORM](https://github.com/sdispater/orator) support to Flask applications.
 - Database Migrations
     - [Flask-Migrate](https://github.com/miguelgrinberg/Flask-Migrate) - SQLAlchemy database migrations for Flask applications using Alembic
