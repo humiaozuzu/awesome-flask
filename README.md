@@ -19,6 +19,7 @@ Resources
 - Course:
     - [Full Stack Foundations](https://www.udacity.com/course/full-stack-foundations--ud088)
     - [Designing RESTful APIs](https://www.udacity.com/course/designing-restful-apis--ud388)
+    - [Create a modern API Rest with Flask in 18 chapters (Spanish)](https://programadorwebvalencia.com/flask-api-rest-con-vuejs/)
 - Books
     - [Explore Flask](https://exploreflask.com/en/latest/)
     - [Flask Web Development](http://shop.oreilly.com/product/0636920031116.do)
