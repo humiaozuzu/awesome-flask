@@ -31,6 +31,7 @@ Resources
 - Tutorials Zappa
     - [Building a Simple API with Amazon Lambda and Zappa](https://www.viget.com/articles/building-a-simple-api-with-amazon-lambda-and-zappa/)
     - [Deploying A Flask based REST API to AWS Lambda (Serverless) using Zappa](http://polyglot.ninja/deploying-flask-based-rest-api-aws-lambda-serverless-using-zappa/)
+    - [Bringing Tokusatsu to AWS using Python flask, Zappa and Contentful](https://www.contentful.com/blog/2018/03/07/bringing-tokusatsu-to-aws-using-python-flask-zappa-and-contentful/) [Mar 7, 2018]
 
 - Courses
     - [Test Driven Development Courses - Microservices with Docker, Flask, and React](http://testdriven.io/)
@@ -99,7 +100,7 @@ Resources
 - App template/bootstrap/boilerplate
     - [fbone](https://github.com/imwilsonxu/fbone)
     - [flask-base](https://github.com/notedit/flask-base)
-    - [cookiecutter-flask](https://github.com/sloria/cookiecutter-flask)
+    - [cookiecutter-flask](https://github.com/sloria/cookiecutter-flask) - good!
     - [cookiecutter-flask-pythonic](https://github.com/tony/cookiecutter-flask-pythonic)
     - [Flask-Foundation](https://github.com/JackStouffer/Flask-Foundation)
     - [Flask-note](https://github.com/tanrax/flask-note) - Clone of Evernote with Flask and Markdown. Example application for managing notes
