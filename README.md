@@ -19,6 +19,7 @@ Resources
 - Course:
     - [Full Stack Foundations](https://www.udacity.com/course/full-stack-foundations--ud088)
     - [Designing RESTful APIs](https://www.udacity.com/course/designing-restful-apis--ud388)
+    - [Community Curated Resources for learning Flask](https://hackr.io/tutorials/learn-flask)
 - Books
     - [Explore Flask](https://exploreflask.com/en/latest/)
     - [Flask Web Development](http://shop.oreilly.com/product/0636920031116.do)
