@@ -104,40 +104,28 @@
 - [Flask-SSLify](https://github.com/heroku-python/flask-sslify) - Force SSL on your Flask app
 - [Flask-HTMLmin](https://github.com/hamidfzm/Flask-HTMLmin) - Flask html minifier
 
-## Development (Debugging/Testing/AB Testing)
+## Development (Debugging/Testing/Documentation)
 
 - [Flasgger](https://github.com/rochacbruno/flasgger) - Create API documentation for Flask views using Swagger 2.0 specs
 - [flask-apispec](https://github.com/jmcarp/flask-apispec) - simple self-documenting APIs with flask
+- [flask2postman](https://github.com/numberly/flask2postman) - Generate a Postman collection from your Flask application
 - [flask_profiler](https://github.com/muatik/flask-profiler) - endpoint analyzer/profiler for Flask
-- [Flask-Testing](https://github.com/jarus/flask-testing) - Unittest extensions for Flask
-- [flask_debugtoolbar_lineprofilerpanel](https://github.com/jlfwong/flask_debugtoolbar_lineprofilerpanel) - Line Profiler Panel for Flask Debug Toolbar
 - [Flask-DebugToolbar](https://github.com/mgood/flask-debugtoolbar) - A port of the django debug toolbar to flask
 - [flask-debug-toolbar-mongo](https://github.com/cenkalti/flask-debug-toolbar-mongo) - MongoDB panel for the Flask Debug Toolbar
+- [Flask-Testing](https://github.com/jarus/flask-testing) - Unittest extensions for Flask
 - [pytest-flask](https://github.com/pytest-dev/pytest-flask) - A set of pytest fixtures to test Flask applications
-- [flask2postman](https://github.com/numberly/flask2postman) - Generate a Postman collection from your Flask application
 
 ## Utils
 
 - [flask-marshmallow](https://github.com/marshmallow-code/flask-marshmallow) Flask + marshmallow for beautiful APIs
-- [Flask-Script](https://github.com/smurfix/flask-script) - Flask extension to help writing external scripts for Flask applications
-- [Flask-Split](https://github.com/jpvanhal/flask-split) - A/B testing for your Flask application
 - [flask-jsonrpc](https://github.com/cenobites/flask-jsonrpc) - A basic JSON-RPC implementation for your Flask-powered sites
 - [Flask-Bcrypt](https://github.com/maxcountryman/flask-bcrypt) - Flask-Bcrypt is a Flask extension that provides bcrypt hashing utilities for your application
-- [Flask-AppBuilder](https://github.com/dpgaspar/Flask-AppBuilder) - Simple and rapid application builder framework, built on top of Flask. includes detailed security, auto form generation, google charts and much more
 - [Mixer](https://github.com/klen/mixer) - Mixer is application to generate instances of Django or SQLAlchemy models
-- [FlaskEx](https://github.com/sungmin-park/FlaskEx) - Predefined help libraries for Flask
-- [mimerender](https://github.com/martinblech/mimerender) - Python module for RESTful HTTP Content Negotiation
-- [Flask-Classy](https://github.com/apiguy/flask-classy) - Class based views for Flask
-- [Flask-Principal](https://github.com/mattupstate/flask-principal) - Identity management for Flask applications
-- [Flask-ShortUrl](https://github.com/lepture/flask-shorturl) - Short URL generator for Flask
 - [Flask-FeatureFlags](https://github.com/trustrachel/Flask-FeatureFlags) - A Flask extension that enables or disables features based on configuration
-- [Flask-UUID](https://github.com/wbolster/flask-uuid) - UUID url converter for Flask routes
 - [Flask-Reggie](https://github.com/rhyselsmore/flask-reggie) - Regex Converter for Flask URL Routes
 - [Flask-SocketIO](https://github.com/miguelgrinberg/Flask-SocketIO) - Socket.IO integration for Flask applications
 - [Flask-Moment](https://github.com/miguelgrinberg/Flask-Moment) - Formatting of dates and times in Flask templates using moment.js
 - [Flask-Paginate](https://github.com/lixxu/flask-paginate) - Pagination support for Flask
-- [Flask-CORS](https://github.com/corydolphin/flask-cors) - Flask extension for handling Cross Origin Resource Sharing (CORS), making cross-origin AJAX possible
-- [Flask-Styleguide](https://github.com/vitalk/flask-styleguide) - A living Styleguide for your Flask application
 
 # Resources
 ## Tutorials
@@ -222,3 +210,4 @@
 - [gae-init](https://gae-init.appspot.com) - Flask boilerplate running on Google App Engine
 - [GAE Starter Kit](https://github.com/kkinder/GAEStarterKit) - Flask, Flask-Login, WTForms, UIKit, and more, running on Google App Engine
 - [Flask Kit](https://github.com/semirook/flask-kit) - Flexible microkit for Flask microframework
+- [Flask-AppBuilder](https://github.com/dpgaspar/Flask-AppBuilder) - Simple and rapid application builder framework, built on top of Flask. includes detailed security, auto form generation, google charts and much more
