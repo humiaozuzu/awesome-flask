@@ -11,9 +11,6 @@
 - [Flask-RESTful](https://github.com/flask-restful/flask-restful) - Simple framework for creating REST APIs
 - [Flask-RestPlus](https://github.com/noirbizarre/flask-restplus) - syntaxic sugar, helpers and automatically generated Swagger documentation.
 - [Flask-Potion](https://github.com/biosustain/potion) - RESTful API framework for Flask and SQLAlchemy
-- [enferno](https://github.com/level09/enferno) - A Flask-based Framework for the Next Decade
-- [Flasgger](https://github.com/rochacbruno/flasgger) - Create API documentation for Flask views using Swagger 2.0 specs
-- [flask-restful-swagger](https://github.com/rantav/flask-restful-swagger) - A wrapper for flask-restful which enables swagger support
 - [Zappa](https://github.com/Miserlou/Zappa) - Build and deploy server-less Flask applications on AWS Lambda and API Gateway
 
 ## Admin interface
@@ -160,6 +157,7 @@
 
 ## Development (Debugging/Testing/AB Testing)
 
+- [Flasgger](https://github.com/rochacbruno/flasgger) - Create API documentation for Flask views using Swagger 2.0 specs
 - [flask_profiler](https://github.com/muatik/flask-profiler) - endpoint analyzer/profiler for Flask
 - [Flask-Testing](https://github.com/jarus/flask-testing) - Unittest extensions for Flask
 - [flask_debugtoolbar_lineprofilerpanel](https://github.com/jlfwong/flask_debugtoolbar_lineprofilerpanel) - Line Profiler Panel for Flask Debug Toolbar
