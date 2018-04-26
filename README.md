@@ -93,30 +93,21 @@
 
 - [Flask-GoogleMaps](https://github.com/rochacbruno/Flask-GoogleMaps) - Build and embed google maps in our Flask templates
 - [Flask-Gravatar](https://github.com/zzzsochi/Flask-Gravatar) - Small and simple gravatar usage in Flask
+- [Flask-Pusher](https://github.com/iurisilvio/Flask-Pusher) - Pusher integration for Flask
 - [Flask-Azure-Storage](https://github.com/alejoar/Flask-Azure-Storage) - Flask extension that provides integration with Azure Storage
 
 ## Frontend
 
 - [Flask-CORS](https://github.com/corydolphin/flask-cors) - A Flask extension for handling Cross Origin Resource Sharing (CORS), making cross-origin AJAX possible
-- [Flask-Mustache](https://github.com/bradwright/flask-mustachejs) - Mustache template integration with Flask
-- [Flask-Genshi](https://github.com/dag/flask-genshi) - Genshi templating for Flask
-- [flask-mako](https://github.com/benselme/flask-mako) - Provides support for Mako Templates in Flask
-- [Flask-Markdown](https://github.com/dcolish/flask-markdown) - Markdown jinja2 extension for Flask
-- [Flask-Sijax](https://github.com/spantaleev/flask-sijax) - An extension for the Flask microframework that adds Sijax support
-- [flask-apispec](https://github.com/jmcarp/flask-apispec) - simple self-documenting APIs with flask
 - [flask-assets](https://github.com/miracle2k/flask-assets) - Flask webassets integration
-- [flask-funnel](https://github.com/rehandalal/flask-funnel) - Better asset management for Flask
-- [flask-marshmallow](https://github.com/marshmallow-code/flask-marshmallow) Flask + marshmallow for beautiful APIs
-- [jinja-assets-compressor](https://github.com/jaysonsantos/jinja-assets-compressor) - A Jinja extension (compatible with Flask and other frameworks) to compile and/or compress your assets
-- [flask_util_js](https://github.com/dantezhu/flask_util_js) - flask's util in javascript. such as url_for etc
 - [flask-s3](https://github.com/e-dard/flask-s3) - Seamlessly serve your static assets of your Flask app from Amazon S3
 - [Flask-SSLify](https://github.com/heroku-python/flask-sslify) - Force SSL on your Flask app
-- [Flask-gzip](https://github.com/closeio/Flask-gzip) - Gzip flask responses
 - [Flask-HTMLmin](https://github.com/hamidfzm/Flask-HTMLmin) - Flask html minifier
 
 ## Development (Debugging/Testing/AB Testing)
 
 - [Flasgger](https://github.com/rochacbruno/flasgger) - Create API documentation for Flask views using Swagger 2.0 specs
+- [flask-apispec](https://github.com/jmcarp/flask-apispec) - simple self-documenting APIs with flask
 - [flask_profiler](https://github.com/muatik/flask-profiler) - endpoint analyzer/profiler for Flask
 - [Flask-Testing](https://github.com/jarus/flask-testing) - Unittest extensions for Flask
 - [flask_debugtoolbar_lineprofilerpanel](https://github.com/jlfwong/flask_debugtoolbar_lineprofilerpanel) - Line Profiler Panel for Flask Debug Toolbar
@@ -127,6 +118,7 @@
 
 ## Utils
 
+- [flask-marshmallow](https://github.com/marshmallow-code/flask-marshmallow) Flask + marshmallow for beautiful APIs
 - [Flask-Script](https://github.com/smurfix/flask-script) - Flask extension to help writing external scripts for Flask applications
 - [Flask-Split](https://github.com/jpvanhal/flask-split) - A/B testing for your Flask application
 - [flask-jsonrpc](https://github.com/cenobites/flask-jsonrpc) - A basic JSON-RPC implementation for your Flask-powered sites
