@@ -195,6 +195,15 @@
 
 - [Raven](https://github.com/getsentry/raven-python) - Raven is a Python client for [Sentry](https://sentry.io/welcome/).
 
+## Tracing
+
+- [flask-zipkin](https://github.com/qiajigou/flask-zipkin) - Distributed tracing with [Zipkin](https://zipkin.io/).
+- [Flask-OpenTracing](https://pypi.python.org/pypi/Flask-OpenTracing) - Distributed tracing with [OpenTracing](http://opentracing.io/).
+
+## APM
+
+- [elastic-apm](https://github.com/elastic/apm-agent-python) - Elastic APM agent for Python
+
 ## Metrics Tracking
 
 - [flask-track-usage](https://github.com/ashcrow/flask-track-usage) - Basic metrics tracking for the Flask framework
