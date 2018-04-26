@@ -166,6 +166,7 @@
 - [Flask-Mail](https://github.com/mattupstate/flask-mail/) - Flask-Mail adds SMTP mail sending to your Flask applications
 
 ## i18n
+
 - [flask-babel](https://github.com/python-babel/flask-babel) - i18n and l10n support for Flask based on Babel and pytz
 
 ## Full-text searching
@@ -174,11 +175,15 @@
 - [SQLAlchemy-Searchable](https://github.com/kvesteri/sqlalchemy-searchable) - Full-text searching for Flask-SQLAlchemy (Postgres only)
 
 ## Rate Limiting
-    - [Flask-Limiter](https://github.com/alisaifee/flask-limiter) - Flask-Limiter provides rate limiting features to flask routes
 
-## Queue
-    - [Flask-RQ](https://github.com/mattupstate/flask-rq) - RQ (Redis Queue) integration for Flask applications
-    - [celery](https://github.com/celery/celery/) - Distributed Task Queue
+- [Flask-Limiter](https://github.com/alisaifee/flask-limiter) - Flask-Limiter provides rate limiting features to flask routes
+
+## Task Queue
+
+- [dramatiq](https://github.com/Bogdanp/dramatiq) - A fast and reliable distributed task processing library for Python 3
+- [huey](https://github.com/coleifer/huey) - a little task queue for python
+- [Flask-RQ](https://github.com/mattupstate/flask-rq) - RQ (Redis Queue) integration for Flask applications
+- [celery](https://github.com/celery/celery/) - Distributed Task Queue
 
 ## Payment
 
