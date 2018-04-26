@@ -117,8 +117,9 @@
 - [flask-pusher](https://github.com/Bekt/flask-pusher) - Pusher support for your Flask application
 - [Flask-Azure-Storage](https://github.com/alejoar/Flask-Azure-Storage) - Flask extension that provides integration with Azure Storage
 
-## Frontend (Asset Pipeline/CDN)
+## Frontend
 
+- [Flask-CORS](https://github.com/corydolphin/flask-cors) - A Flask extension for handling Cross Origin Resource Sharing (CORS), making cross-origin AJAX possible
 - [Flask-Mustache](https://github.com/bradwright/flask-mustachejs) - Mustache template integration with Flask
 - [Flask-Genshi](https://github.com/dag/flask-genshi) - Genshi templating for Flask
 - [flask-mako](https://github.com/benselme/flask-mako) - Provides support for Mako Templates in Flask
