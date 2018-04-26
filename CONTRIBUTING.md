@@ -12,7 +12,7 @@ Please ensure your pull request adheres to the following guidelines:
 
 To be on the list, project repositories should adhere to these quality standards:
 
-- Python 2 supported
+- Python 3 supported
 - Code functions as documented and expected
 - Actively maintained
     - Regular, recent commits
