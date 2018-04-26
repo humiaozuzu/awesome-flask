@@ -139,6 +139,7 @@
 - [Flask-WeRoBot](https://github.com/whtsky/Flask-WeRoBot) - Adds WeRoBot support to Flask
 - [Flask-Pusher](https://github.com/iurisilvio/Flask-Pusher) - Pusher integration for Flask
 - [flask-pusher](https://github.com/Bekt/flask-pusher) - Pusher support for your Flask application
+- [Flask-Azure-Storage](https://github.com/alejoar/Flask-Azure-Storage) - Flask extension that provides integration with Azure Storage
 
 ## Frontend (Asset Pipeline/CDN)
 
@@ -157,7 +158,6 @@
 - [Flask-SSLify](https://github.com/heroku-python/flask-sslify) - Force SSL on your Flask app
 - [Flask-gzip](https://github.com/closeio/Flask-gzip) - Gzip flask responses
 - [Flask-HTMLmin](https://github.com/hamidfzm/Flask-HTMLmin) - Flask html minifier
-- [Flask-Azure-Storage](https://github.com/alejoar/Flask-Azure-Storage) - Flask extension that provides integration with Azure Storage
 
 ## Development (Debugging/Testing/AB Testing)
 
