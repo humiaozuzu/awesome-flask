@@ -16,6 +16,7 @@
 - [enferno](https://github.com/level09/enferno) - A Flask-based Framework for the Next Decade
 - [Flasgger](https://github.com/rochacbruno/flasgger) - Create API documentation for Flask views using Swagger 2.0 specs
 - [flask-restful-swagger](https://github.com/rantav/flask-restful-swagger) - A wrapper for flask-restful which enables swagger support
+- [Zappa](https://github.com/Miserlou/Zappa) - Build and deploy server-less Flask applications on AWS Lambda and API Gateway
 
 ## Admin interface
 
