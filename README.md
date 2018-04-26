@@ -5,7 +5,6 @@
 ## Framework
 
 - [Connexion](https://github.com/zalando/connexion) - Swagger/OpenAPI First framework for Python on top of Flask with automatic endpoint validation and OAuth2 support
-- [Flask Kit](https://github.com/semirook/flask-kit) - Flexible microkit for Flask microframework
 - [flask-peewee](https://github.com/coleifer/flask-peewee) - flask integration for peewee, including admin, authentication, rest api and more
 - [Flask-MongoRest](https://github.com/closeio/flask-mongorest) - Restful API framework wrapped around MongoEngine
 - [Eve](https://github.com/pyeve/eve) - REST API framework powered by Flask, MongoDB and good intentions
@@ -274,3 +273,4 @@
 - [flask-rest-template](https://github.com/alexandre/flask-rest-template)
 - [gae-init](https://gae-init.appspot.com) - Flask boilerplate running on Google App Engine
 - [GAE Starter Kit](https://github.com/kkinder/GAEStarterKit) - Flask, Flask-Login, WTForms, UIKit, and more, running on Google App Engine
+- [Flask Kit](https://github.com/semirook/flask-kit) - Flexible microkit for Flask microframework
