@@ -83,7 +83,7 @@
 ## Tracing
 
 - [flask-zipkin](https://github.com/qiajigou/flask-zipkin) - Distributed tracing with [Zipkin](https://zipkin.io/).
-- [Flask-OpenTracing](https://pypi.python.org/pypi/Flask-OpenTracing) - Distributed tracing with [OpenTracing](http://opentracing.io/).
+- [Flask-OpenTracing](https://github.com/opentracing-contrib/python-flask) - Distributed tracing with [OpenTracing](http://opentracing.io/).
 
 ## APM
 
