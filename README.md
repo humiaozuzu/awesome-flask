@@ -62,7 +62,6 @@
 
 ## Full-text searching
 
-- [Flask-WhooshAlchemy](https://github.com/dhamaniasad/Flask-WhooshAlchemy) - Whoosh indexing capabilities for Flask-SQLAlchemy
 - [SQLAlchemy-Searchable](https://github.com/kvesteri/sqlalchemy-searchable) - Full-text searching for Flask-SQLAlchemy (Postgres only)
 
 ## Rate Limiting
@@ -76,16 +75,10 @@
 - [Flask-RQ](https://github.com/mattupstate/flask-rq) - RQ (Redis Queue) integration for Flask applications
 - [celery](https://github.com/celery/celery/) - Distributed Task Queue
 
-## Payment
-
-- [PagSeguro - Brazil](https://github.com/rochacbruno/python-pagseguro/tree/master/examples) - Example to integrate Flask to PagSeguro Brazilian payment gateway
-- [alipay_python](https://github.com/fengli/alipay_python) - not a flask plugin now but you can integrate easily
-- [flask-paypal](https://github.com/jdiez17/flask-paypal) - PayPal integration example with Flask
-- [Flask-WePay](https://github.com/maxcountryman/flask-wepay) - A Flask wrapper for WePay's Python API
-
 ## Exception tracking
 
 - [Raven](https://github.com/getsentry/raven-python) - Raven is a Python client for [Sentry](https://sentry.io/welcome/).
+- [airbrake-python](https://github.com/airbrake/airbrake-python) - Python client for [Airbrake](https://airbrake.io/)
 
 ## Tracing
 
@@ -96,25 +89,10 @@
 
 - [elastic-apm](https://github.com/elastic/apm-agent-python) - Elastic APM agent for Python
 
-## Metrics Tracking
-
-- [flask-track-usage](https://github.com/ashcrow/flask-track-usage) - Basic metrics tracking for the Flask framework
-- [Flask-Analytics](https://github.com/srounet/Flask-Analytics) - A Flask extention that provide user navigation tracking
-- [Flask-StatHat](https://github.com/marksteve/flask-stathat) - StatHat extension for Flask
-- [scales](https://github.com/Cue/scales) - Metrics for Python
-- [flask-tracking](https://github.com/closeio/flask-tracking) - Tracking app for Flask that logs HTTP request and response information in a capped MongoDB collection
-- [Flask-Analytics](https://github.com/citruspi/Flask-Analytics) - Analytics snippets generator extension for the Flask framework.
-
 ## Other SDK
 
 - [Flask-GoogleMaps](https://github.com/rochacbruno/Flask-GoogleMaps) - Build and embed google maps in our Flask templates
-- [Flask-Dropbox](https://github.com/playpauseandstop/Flask-Dropbox) - Dropbox Python SDK support for Flask applications
-- [Flask-Heroku](https://github.com/heroku-python/flask-heroku) - Heroku environment variable configurations for Flask
 - [Flask-Gravatar](https://github.com/zzzsochi/Flask-Gravatar) - Small and simple gravatar usage in Flask
-- [Flask-WeasyPrint](https://github.com/Kozea/Flask-WeasyPrint) - Make PDF in your Flask app with WeasyPrint
-- [Flask-WeRoBot](https://github.com/whtsky/Flask-WeRoBot) - Adds WeRoBot support to Flask
-- [Flask-Pusher](https://github.com/iurisilvio/Flask-Pusher) - Pusher integration for Flask
-- [flask-pusher](https://github.com/Bekt/flask-pusher) - Pusher support for your Flask application
 - [Flask-Azure-Storage](https://github.com/alejoar/Flask-Azure-Storage) - Flask extension that provides integration with Azure Storage
 
 ## Frontend
