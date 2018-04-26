@@ -201,13 +201,8 @@
 ## Boilerplate
 
 - [fbone](https://github.com/imwilsonxu/fbone)
-- [flask-base](https://github.com/notedit/flask-base)
 - [cookiecutter-flask](https://github.com/sloria/cookiecutter-flask)
-- [cookiecutter-flask-pythonic](https://github.com/tony/cookiecutter-flask-pythonic)
 - [Flask-Foundation](https://github.com/JackStouffer/Flask-Foundation)
-- [Flask-Empty](https://github.com/italomaia/flask-empty)
 - [flask-rest-template](https://github.com/alexandre/flask-rest-template)
 - [gae-init](https://gae-init.appspot.com) - Flask boilerplate running on Google App Engine
-- [GAE Starter Kit](https://github.com/kkinder/GAEStarterKit) - Flask, Flask-Login, WTForms, UIKit, and more, running on Google App Engine
-- [Flask Kit](https://github.com/semirook/flask-kit) - Flexible microkit for Flask microframework
 - [Flask-AppBuilder](https://github.com/dpgaspar/Flask-AppBuilder) - Simple and rapid application builder framework, built on top of Flask. includes detailed security, auto form generation, google charts and much more
