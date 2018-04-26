@@ -107,12 +107,12 @@
 
 ## Authentication
 
+- [Authlib](https://github.com/lepture/authlib) - Authlib is an ambitious authentication library for OAuth 1, OAuth 2, OpenID clients, servers and more.
 - [Flask-Security](https://github.com/mattupstate/flask-security) - Quick and simple security for Flask applications
 - [Flask-Login](https://github.com/maxcountryman/flask-login) - Flask user session management
 - [Authomatic](https://github.com/authomatic/authomatic) - Authomatic provides out of the box support for a number of providers using OAuth 1.0a (Twitter, Tumblr and more) and OAuth 2.0 (Facebook, Foursquare, GitHub, Google, LinkedIn, PayPal and more)
 - [Flask-OpenID](https://github.com/mitsuhiko/flask-openid) - Flask-OpenID adds openid support to flask applications
 - [Flask-Social](https://github.com/mattupstate/flask-social) - OAuth Provider Integration for Flask-Security
-- [Flask-OAuthlib](https://github.com/lepture/flask-oauthlib) - OAuthlib implementation for Flask
 - [GitHub-Flask](https://github.com/cenkalti/github-flask) - Flask extension for authenticating users with GitHub and making requests to the API
 - [Python-Social-Auth](https://github.com/omab/python-social-auth) - Social auth made simple
 - [Flask-social-blueprint](https://github.com/wooyek/flask-social-blueprint) - OAuth OOP way
