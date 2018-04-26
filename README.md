@@ -19,8 +19,6 @@
 
 ## Authentication
 
-- [Authlib](https://github.com/lepture/authlib) - Authlib is an ambitious authentication library for OAuth 1, OAuth 2, OpenID clients, servers and more.
-- [Authomatic](https://github.com/authomatic/authomatic) - Authomatic provides out of the box support for a number of providers using OAuth 1.0a (Twitter, Tumblr and more) and OAuth 2.0 (Facebook, Foursquare, GitHub, Google, LinkedIn, PayPal and more)
 - [Flask-Security](https://github.com/mattupstate/flask-security) - Quick and simple security for Flask applications
 - [Flask-Login](https://github.com/maxcountryman/flask-login) - Flask user session management
 - [Flask-User](https://github.com/lingthio/Flask-User) - Customizable user account management for Flask
@@ -28,43 +26,31 @@
 
 ## Authorization
 
+- [Authlib](https://github.com/lepture/authlib) - Authlib is an ambitious authentication library for OAuth 1, OAuth 2, OpenID clients, servers and more.
+- [Authomatic](https://github.com/authomatic/authomatic) - Authomatic provides out of the box support for a number of providers using OAuth 1.0a (Twitter, Tumblr and more) and OAuth 2.0 (Facebook, Foursquare, GitHub, Google, LinkedIn, PayPal and more)
 - [Flask-Pundit](https://github.com/anurag90x/flask-pundit) - Extension based on Rails' [Pundit](https://github.com/varvet/pundit) gem that provides easy way to organize access control for your models
 
-## Database/ORM/ODM
+## Database
 
 - [Flask-MongoEngine](https://github.com/MongoEngine/flask-mongoengine) - MongoEngine flask extension with WTF model forms support
-- [Flask-PyMongo](https://github.com/dcrosta/flask-pymongo) - PyMongo support for Flask applications
-- [Flask-MongoAlchemy](https://github.com/cobrateam/flask-mongoalchemy) - Flask support for MongoDB using MongoAlchemy
-- [Flask-MongoKit](https://github.com/jarus/flask-mongokit) - Flask-MongoKit simplifies the use of MongoKit (a powerful MongoDB ORM for Python) within Flask applications
 - [Flask-SQLAlchemy](https://github.com/mitsuhiko/flask-sqlalchemy) - Adds SQLAlchemy support to Flask
-- [Flask-Redis](https://github.com/underyx/Flask-Redis) - Redis support for Flask. Not much else to say.
-- [Flask-And-Redis](https://github.com/playpauseandstop/Flask-And-Redis) - Simple as dead support of Redis database for Flask apps
-- [Flask-CouchDBKit](https://github.com/sirn/flask-couchdbkit) - Flask extension that provides integration with CouchDBKit
-- [Flask-OrientDB](https://github.com/calthoff/flask-orientdb) - Flask extension for OrientDB Graph&Document Database
-- [Flask-Z3950](https://github.com/alexandermendes/Flask-Z3950) - Z39.50 integration for Flask applications.
-- [Flask-Orator](https://github.com/sdispater/flask-orator) - Adds [Orator ORM](https://github.com/sdispater/orator) support to Flask applications.
 
 ## Database Migrations
 
 - [Flask-Migrate](https://github.com/miguelgrinberg/Flask-Migrate) - SQLAlchemy database migrations for Flask applications using Alembic
-- [Flask-Alembic](https://github.com/tobiasandtobias/flask-alembic) - A Flask Extension to provide Alembic integration with Flask
 
 ## Session
 
-- [Flask-Session](https://github.com/fengsp/flask-session) - Session extension for Flask
+- [Flask-Session](https://github.com/fengsp/flask-session) - Server side session extension for Flask
 
 ## Cache
 
-- [flask-webcache](https://github.com/fusic-com/flask-webcache) - A Flask extension that adds HTTP based caching to Flask apps
+- [Flask-Caching](https://github.com/sh4nks/flask-caching) - Adds easy cache support to Flask
 - [flask-heroku-cacheify](https://github.com/rdegges/flask-heroku-cacheify) - Automatic Flask cache configuration on Heroku
-- [Flask-Dogpile-Cache](https://bitbucket.org/ponomar/flask-dogpile-cache) - Flask wrapper for dogpile.cache
 
 ## Data Validation
 
 - [Flask-WTF](https://github.com/lepture/flask-wtf) - Simple integration of Flask and WTForms, including CSRF, file upload and Recaptcha integration.
-- [Flask-SeaSurf](https://github.com/maxcountryman/flask-seasurf) - SeaSurf is a Flask extension for preventing cross-site request forgery (CSRF).
-- [Colander](https://github.com/Pylons/colander) - A serialization/deserialization/validation library for strings, mappings and lists
-- [Flask-Validator](https://github.com/xeBuz/Flask-Validator) - Data validator for SQLAlchemy using ORM events
 
 ## Email
 
