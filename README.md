@@ -2,90 +2,6 @@
 
 > A curated list of awesome Flask resources and plugins
 
-# Resources
-## Tutorials
-
-- [How to build a news app that never goes down and costs you practically nothing](http://blog.apps.npr.org/2013/02/14/app-template-redux.html) (by NPR)
-- [Building websites in Python with Flask](http://maximebf.com/blog/2012/10/building-websites-in-python-with-flask/)
-- [The Flask Mega-Tutorial](https://blog.miguelgrinberg.com/post/the-flask-mega-tutorial-part-i-hello-world)
-- [Implementing a RESTful Web API with Python & Flask](http://blog.luisrei.com/articles/flaskrest.html)
-- [Discover Flask - Full Stack Web Development with Flask](https://github.com/realpython/discover-flask)
-- [Flaskr - Intro to Flask, Test Driven Development, and jQuery](https://github.com/mjhea0/flaskr-tdd)
-- [Real Python: Flask Category](https://realpython.com/tutorials/flask/)
-- [Flask by Example](https://realpython.com/blog/python/flask-by-example-part-1-project-setup/)
-
-## Courses
-
-- [Full Stack Foundations](https://www.udacity.com/course/full-stack-foundations--ud088)
-- [Designing RESTful APIs](https://www.udacity.com/course/designing-restful-apis--ud388)
-
-## Books
-
-- [Explore Flask](https://exploreflask.com/en/latest/)
-- [Flask Web Development](http://shop.oreilly.com/product/0636920031116.do)
-- [Real Python](https://realpython.com)
-- [Learning Flask Framework](https://www.packtpub.com/web-development/learning-flask-framework)
-- [Flask Blueprints](https://www.packtpub.com/web-development/flask-blueprints)
-- [Flask Framework Cookbook](https://www.packtpub.com/web-development/flask-framework-cookbook)
-- [Mastering Flask](https://www.packtpub.com/web-development/mastering-flask)
-- [Building Web Applications with Flask](https://www.packtpub.com/web-development/building-web-applications-flask)
-
-## Slides
-
-- [Creating beautiful REST APIs with Flask](http://pycoder.net/bospy/presentation.html)
-- [Advanced Flask Patterns](https://speakerdeck.com/mitsuhiko/advanced-flask-patterns)
-- [Flasky Goodness](https://speakerdeck.com/kennethreitz/flasky-goodness)
-- [Domain Driven Design (... with Flask)](https://speakerdeck.com/mikedebo/domain-driven-design-dot-dot-dot-with-flask)
-- [In Flask we Trust](https://speakerdeck.com/playpauseandstop/in-flask-we-trust)
-
-## Videos
-- [Flask by Example](http://pyvideo.org/video/2608/flask-by-example/)
-- [Writing RESTful web services with Flask](http://pyvideo.org/video/2668/writing-restful-web-services-with-flask/)
-- [Practical Flask Web Development Tutorials](https://www.youtube.com/playlist?list=PLQVvvaa0QuDc_owjTbIY4rbgXOFkUYOUB)
-
-## Built with Flask
-
-- [zmusic-ng](https://git.zx2c4.com/zmusic-ng/) - ZX2C4 Music provides a web interface for playing and downloading music files using metadata.
-- [GuitarFan](https://github.com/lowrain/GuitarFan) - guitar tab
-- [June](https://github.com/pythoncn/june) - ~~python-china.org~~
-- [Zerqu](https://github.com/lepture/zerqu) - ZERQU is a content-focused API-based platform. eg: [Python-China](https://python-china.org)
-- [motiky](https://github.com/notedit/motiky)
-- [missing](https://github.com/notedit/missing) - a list service called missing
-- [thenewsmeme.com](https://github.com/danjac/newsmeme)
-- [overholt](https://github.com/mattupstate/overholt) - Example Flask application illustrating common practices
-- [pypress](https://github.com/laoqiu/pypress) - flask team blog
-- [thepast.me](https://github.com/laiwei/thepast)
-- [redispapa](https://github.com/no13bus/redispapa) - another redis monitor by using flask, angular, socket.io
-- [flaskblog](https://github.com/defshine/flaskblog) - a simple blog system based on flask
-- [cleanblog](https://github.com/defshine/cleanblog) - a clean blog system based on flask and mongoengine
-- [Quokka CMS](https://github.com/rochacbruno/quokka) - CMS made with Flask and MongoDB
-- [chat](https://github.com/lzyy/chat) - a live chat built with python (flask + gevent + apscheduler) + redis
-- [chatapp](https://github.com/vinceprignano/chatapp) - Flask and Angular.js Chat Application using Socket.io
-- [Frozen-Flask](https://github.com/Frozen-Flask/Frozen-Flask) - Freezes a Flask application into a set of static files
-- [mcflyin](https://github.com/wrobstory/mcflyin) - A small timeseries transformation API built on Flask and Pandas
-- [Skylines](https://github.com/skylines-project/skylines) - Live tracking, flight database and competition framework
-- [airflow](https://github.com/apache/incubator-airflow) - Airflow is a system to programmatically author, schedule and monitor data pipelines.
-- [timesketch](https://github.com/google/timesketch) - Collaborative forensics timeline analysis
-- [changes](https://github.com/dropbox/changes) - A dashboard for your code. A build system.
-- [security_monkey](https://github.com/Netflix/security_monkey) - monitors policy changes and alerts on insecure configurations in an AWS account.
-- [securedrop](https://github.com/freedomofpress/securedrop)- an open-source whistleblower submission system that media organizations can use to securely accept documents from and communicate with anonymous sources.
-- [sync_engine](https://github.com/nylas/sync-engine) - IMAP/SMTP sync system with modern APIs
-- [cleansweep](https://github.com/AamAadmiParty/cleansweep) - Volunteer & Campaign Management System
-- [indico](https://github.com/indico/indico) - a general-purpose event management web-based solution. It includes a full-blown conference organization workflow as well as tools for meeting management and room booking. It provides as well integration with video-conferencing solutions.
-
-## App template/bootstrap/boilerplate
-
-- [fbone](https://github.com/imwilsonxu/fbone)
-- [flask-base](https://github.com/notedit/flask-base)
-- [cookiecutter-flask](https://github.com/sloria/cookiecutter-flask)
-- [cookiecutter-flask-pythonic](https://github.com/tony/cookiecutter-flask-pythonic)
-- [Flask-Foundation](https://github.com/JackStouffer/Flask-Foundation)
-- [Flask-Empty](https://github.com/italomaia/flask-empty)
-- [flask-rest-template](https://github.com/alexandre/flask-rest-template)
-- [gae-init](https://gae-init.appspot.com) - Flask boilerplate running on Google App Engine
-- [GAE Starter Kit](https://github.com/kkinder/GAEStarterKit) - Flask, Flask-Login, WTForms, UIKit, and more, running on Google App Engine
-
-# Plugins
 ## Framework
 
 - [Connexion](https://github.com/zalando/connexion) - Swagger/OpenAPI First framework for Python on top of Flask with automatic endpoint validation and OAuth2 support
@@ -274,3 +190,86 @@
 - [Flask-Paginate](https://github.com/lixxu/flask-paginate) - Pagination support for Flask
 - [Flask-CORS](https://github.com/corydolphin/flask-cors) - Flask extension for handling Cross Origin Resource Sharing (CORS), making cross-origin AJAX possible
 - [Flask-Styleguide](https://github.com/vitalk/flask-styleguide) - A living Styleguide for your Flask application
+
+# Resources
+## Tutorials
+
+- [How to build a news app that never goes down and costs you practically nothing](http://blog.apps.npr.org/2013/02/14/app-template-redux.html) (by NPR)
+- [Building websites in Python with Flask](http://maximebf.com/blog/2012/10/building-websites-in-python-with-flask/)
+- [The Flask Mega-Tutorial](https://blog.miguelgrinberg.com/post/the-flask-mega-tutorial-part-i-hello-world)
+- [Implementing a RESTful Web API with Python & Flask](http://blog.luisrei.com/articles/flaskrest.html)
+- [Discover Flask - Full Stack Web Development with Flask](https://github.com/realpython/discover-flask)
+- [Flaskr - Intro to Flask, Test Driven Development, and jQuery](https://github.com/mjhea0/flaskr-tdd)
+- [Real Python: Flask Category](https://realpython.com/tutorials/flask/)
+- [Flask by Example](https://realpython.com/blog/python/flask-by-example-part-1-project-setup/)
+
+## Courses
+
+- [Full Stack Foundations](https://www.udacity.com/course/full-stack-foundations--ud088)
+- [Designing RESTful APIs](https://www.udacity.com/course/designing-restful-apis--ud388)
+
+## Books
+
+- [Explore Flask](https://exploreflask.com/en/latest/)
+- [Flask Web Development](http://shop.oreilly.com/product/0636920031116.do)
+- [Real Python](https://realpython.com)
+- [Learning Flask Framework](https://www.packtpub.com/web-development/learning-flask-framework)
+- [Flask Blueprints](https://www.packtpub.com/web-development/flask-blueprints)
+- [Flask Framework Cookbook](https://www.packtpub.com/web-development/flask-framework-cookbook)
+- [Mastering Flask](https://www.packtpub.com/web-development/mastering-flask)
+- [Building Web Applications with Flask](https://www.packtpub.com/web-development/building-web-applications-flask)
+
+## Slides
+
+- [Creating beautiful REST APIs with Flask](http://pycoder.net/bospy/presentation.html)
+- [Advanced Flask Patterns](https://speakerdeck.com/mitsuhiko/advanced-flask-patterns)
+- [Flasky Goodness](https://speakerdeck.com/kennethreitz/flasky-goodness)
+- [Domain Driven Design (... with Flask)](https://speakerdeck.com/mikedebo/domain-driven-design-dot-dot-dot-with-flask)
+- [In Flask we Trust](https://speakerdeck.com/playpauseandstop/in-flask-we-trust)
+
+## Videos
+- [Flask by Example](http://pyvideo.org/video/2608/flask-by-example/)
+- [Writing RESTful web services with Flask](http://pyvideo.org/video/2668/writing-restful-web-services-with-flask/)
+- [Practical Flask Web Development Tutorials](https://www.youtube.com/playlist?list=PLQVvvaa0QuDc_owjTbIY4rbgXOFkUYOUB)
+
+## Built with Flask
+
+- [zmusic-ng](https://git.zx2c4.com/zmusic-ng/) - ZX2C4 Music provides a web interface for playing and downloading music files using metadata.
+- [GuitarFan](https://github.com/lowrain/GuitarFan) - guitar tab
+- [June](https://github.com/pythoncn/june) - ~~python-china.org~~
+- [Zerqu](https://github.com/lepture/zerqu) - ZERQU is a content-focused API-based platform. eg: [Python-China](https://python-china.org)
+- [motiky](https://github.com/notedit/motiky)
+- [missing](https://github.com/notedit/missing) - a list service called missing
+- [thenewsmeme.com](https://github.com/danjac/newsmeme)
+- [overholt](https://github.com/mattupstate/overholt) - Example Flask application illustrating common practices
+- [pypress](https://github.com/laoqiu/pypress) - flask team blog
+- [thepast.me](https://github.com/laiwei/thepast)
+- [redispapa](https://github.com/no13bus/redispapa) - another redis monitor by using flask, angular, socket.io
+- [flaskblog](https://github.com/defshine/flaskblog) - a simple blog system based on flask
+- [cleanblog](https://github.com/defshine/cleanblog) - a clean blog system based on flask and mongoengine
+- [Quokka CMS](https://github.com/rochacbruno/quokka) - CMS made with Flask and MongoDB
+- [chat](https://github.com/lzyy/chat) - a live chat built with python (flask + gevent + apscheduler) + redis
+- [chatapp](https://github.com/vinceprignano/chatapp) - Flask and Angular.js Chat Application using Socket.io
+- [Frozen-Flask](https://github.com/Frozen-Flask/Frozen-Flask) - Freezes a Flask application into a set of static files
+- [mcflyin](https://github.com/wrobstory/mcflyin) - A small timeseries transformation API built on Flask and Pandas
+- [Skylines](https://github.com/skylines-project/skylines) - Live tracking, flight database and competition framework
+- [airflow](https://github.com/apache/incubator-airflow) - Airflow is a system to programmatically author, schedule and monitor data pipelines.
+- [timesketch](https://github.com/google/timesketch) - Collaborative forensics timeline analysis
+- [changes](https://github.com/dropbox/changes) - A dashboard for your code. A build system.
+- [security_monkey](https://github.com/Netflix/security_monkey) - monitors policy changes and alerts on insecure configurations in an AWS account.
+- [securedrop](https://github.com/freedomofpress/securedrop)- an open-source whistleblower submission system that media organizations can use to securely accept documents from and communicate with anonymous sources.
+- [sync_engine](https://github.com/nylas/sync-engine) - IMAP/SMTP sync system with modern APIs
+- [cleansweep](https://github.com/AamAadmiParty/cleansweep) - Volunteer & Campaign Management System
+- [indico](https://github.com/indico/indico) - a general-purpose event management web-based solution. It includes a full-blown conference organization workflow as well as tools for meeting management and room booking. It provides as well integration with video-conferencing solutions.
+
+## App template/bootstrap/boilerplate
+
+- [fbone](https://github.com/imwilsonxu/fbone)
+- [flask-base](https://github.com/notedit/flask-base)
+- [cookiecutter-flask](https://github.com/sloria/cookiecutter-flask)
+- [cookiecutter-flask-pythonic](https://github.com/tony/cookiecutter-flask-pythonic)
+- [Flask-Foundation](https://github.com/JackStouffer/Flask-Foundation)
+- [Flask-Empty](https://github.com/italomaia/flask-empty)
+- [flask-rest-template](https://github.com/alexandre/flask-rest-template)
+- [gae-init](https://gae-init.appspot.com) - Flask boilerplate running on Google App Engine
+- [GAE Starter Kit](https://github.com/kkinder/GAEStarterKit) - Flask, Flask-Login, WTForms, UIKit, and more, running on Google App Engine
