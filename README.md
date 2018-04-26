@@ -200,8 +200,6 @@
 - [Implementing a RESTful Web API with Python & Flask](http://blog.luisrei.com/articles/flaskrest.html)
 - [Discover Flask - Full Stack Web Development with Flask](https://github.com/realpython/discover-flask)
 - [Flaskr - Intro to Flask, Test Driven Development, and jQuery](https://github.com/mjhea0/flaskr-tdd)
-- [Real Python: Flask Category](https://realpython.com/tutorials/flask/)
-- [Flask by Example](https://realpython.com/blog/python/flask-by-example-part-1-project-setup/)
 
 ## Courses
 
@@ -228,6 +226,7 @@
 - [In Flask we Trust](https://speakerdeck.com/playpauseandstop/in-flask-we-trust)
 
 ## Videos
+
 - [Flask by Example](http://pyvideo.org/video/2608/flask-by-example/)
 - [Writing RESTful web services with Flask](http://pyvideo.org/video/2668/writing-restful-web-services-with-flask/)
 - [Practical Flask Web Development Tutorials](https://www.youtube.com/playlist?list=PLQVvvaa0QuDc_owjTbIY4rbgXOFkUYOUB)
