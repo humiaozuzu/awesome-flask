@@ -2,6 +2,37 @@
 
 > A curated list of awesome Flask resources and plugins
 
+- [Awesome Flask](#awesome-flask)
+  - [Framework](#framework)
+  - [Admin interface](#admin-interface)
+  - [Authentication](#authentication)
+  - [Authorization](#authorization)
+  - [Database](#database)
+  - [Database Migrations](#database-migrations)
+  - [Session](#session)
+  - [Cache](#cache)
+  - [Data Validation](#data-validation)
+  - [Email](#email)
+  - [i18n](#i18n)
+  - [Full-text searching](#full-text-searching)
+  - [Rate Limiting](#rate-limiting)
+  - [Task Queue](#task-queue)
+  - [Exception tracking](#exception-tracking)
+  - [Tracing](#tracing)
+  - [APM](#apm)
+  - [Other SDK](#other-sdk)
+  - [Frontend](#frontend)
+  - [Development (Debugging/Testing/Documentation)](#development-debuggingtestingdocumentation)
+  - [Utils](#utils)
+- [Resources](#resources)
+  - [Tutorials](#tutorials)
+  - [Courses](#courses)
+  - [Books](#books)
+  - [Slides](#slides)
+  - [Videos](#videos)
+  - [Built with Flask](#built-with-flask)
+  - [Boilerplate](#boilerplate)
+
 ## Framework
 
 - [Connexion](https://github.com/zalando/connexion) - Swagger/OpenAPI First framework for Python on top of Flask with automatic endpoint validation and OAuth2 support
