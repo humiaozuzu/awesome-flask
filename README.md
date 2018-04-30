@@ -132,7 +132,7 @@
 - [Flask-CORS](https://github.com/corydolphin/flask-cors) - A Flask extension for handling Cross Origin Resource Sharing (CORS), making cross-origin AJAX possible
 - [flask-assets](https://github.com/miracle2k/flask-assets) - Flask webassets integration
 - [flask-s3](https://github.com/e-dard/flask-s3) - Seamlessly serve your static assets of your Flask app from Amazon S3
-- [Flask-SSLify](https://github.com/heroku-python/flask-sslify) - Force SSL on your Flask app
+- [Flask-SSLify](https://github.com/kennethreitz/flask-sslify) - Force SSL on your Flask app
 - [Flask-HTMLmin](https://github.com/hamidfzm/Flask-HTMLmin) - Flask html minifier
 
 ## Development (Debugging/Testing/Documentation)
@@ -145,7 +145,7 @@
 - [flask-debug-toolbar-mongo](https://github.com/cenkalti/flask-debug-toolbar-mongo) - MongoDB panel for the Flask Debug Toolbar
 - [Flask-Testing](https://github.com/jarus/flask-testing) - Unittest extensions for Flask
 - [pytest-flask](https://github.com/pytest-dev/pytest-flask) - A set of pytest fixtures to test Flask applications
-- [Flask-MonitoringDashboard](https://github.com/FlyingBird95/awesome-flask.git) - Automatically monitor the evolving performance of Flask/Python web services.
+- [Flask-MonitoringDashboard](https://github.com/flask-dashboard/Flask-MonitoringDashboard) - Automatically monitor the evolving performance of Flask/Python web services.
 
 ## Utils
 
