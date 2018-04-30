@@ -145,6 +145,7 @@
 - [flask-debug-toolbar-mongo](https://github.com/cenkalti/flask-debug-toolbar-mongo) - MongoDB panel for the Flask Debug Toolbar
 - [Flask-Testing](https://github.com/jarus/flask-testing) - Unittest extensions for Flask
 - [pytest-flask](https://github.com/pytest-dev/pytest-flask) - A set of pytest fixtures to test Flask applications
+- [Flask-MonitoringDashboard](https://github.com/FlyingBird95/awesome-flask.git) - Automatically monitor the evolving performance of Flask/Python web services.
 
 ## Utils
 
