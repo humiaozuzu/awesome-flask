@@ -54,6 +54,7 @@
 - [Flask-Login](https://github.com/maxcountryman/flask-login) - Flask user session management
 - [Flask-User](https://github.com/lingthio/Flask-User) - Customizable user account management for Flask
 - [Flask-HTTPAuth](https://github.com/miguelgrinberg/Flask-HTTPAuth) - Simple extension that provides Basic and Digest HTTP authentication for Flask routes
+- [Flask-Praetorian](https://github.com/dusktreader/flask-praetorian) - Strong, Simple, and Precise security for Flask APIs (using jwt)
 
 ## Authorization
 
