@@ -94,6 +94,7 @@
 ## Full-text searching
 
 - [SQLAlchemy-Searchable](https://github.com/kvesteri/sqlalchemy-searchable) - Full-text searching for Flask-SQLAlchemy (Postgres only)
+- [flask_msearch](https://github.com/honmaple/flask-msearch) - Full text search for flask with whoosh
 
 ## Rate Limiting
 
