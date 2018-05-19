@@ -43,6 +43,7 @@
 - [Flask-RestPlus](https://github.com/noirbizarre/flask-restplus) - syntaxic sugar, helpers and automatically generated Swagger documentation.
 - [Flask-Potion](https://github.com/biosustain/potion) - RESTful API framework for Flask and SQLAlchemy
 - [Zappa](https://github.com/Miserlou/Zappa) - Build and deploy server-less Flask applications on AWS Lambda and API Gateway
+- [JUJU](https://github.com/laith43d/juju) - Juju is a REST application framework with expressive, elegant structure.
 
 ## Admin interface
 
@@ -239,3 +240,4 @@
 - [flask-rest-template](https://github.com/alexandre/flask-rest-template)
 - [gae-init](https://gae-init.appspot.com) - Flask boilerplate running on Google App Engine
 - [Flask-AppBuilder](https://github.com/dpgaspar/Flask-AppBuilder) - Simple and rapid application builder framework, built on top of Flask. includes detailed security, auto form generation, google charts and much more
+
