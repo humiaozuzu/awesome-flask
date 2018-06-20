@@ -230,6 +230,7 @@
 - [cleansweep](https://github.com/AamAadmiParty/cleansweep) - Volunteer & Campaign Management System
 - [indico](https://github.com/indico/indico) - a general-purpose event management web-based solution. It includes a full-blown conference organization workflow as well as tools for meeting management and room booking. It provides as well integration with video-conferencing solutions.
 - [flaskbb](https://github.com/flaskbb/flaskbb) - A classic Forum Software in Python using Flask.
+- [nyaa](https://nyaa.si/) - A famous bittorrent site.
 
 ## Boilerplate
 
@@ -239,3 +240,4 @@
 - [flask-rest-template](https://github.com/alexandre/flask-rest-template)
 - [gae-init](https://gae-init.appspot.com) - Flask boilerplate running on Google App Engine
 - [Flask-AppBuilder](https://github.com/dpgaspar/Flask-AppBuilder) - Simple and rapid application builder framework, built on top of Flask. includes detailed security, auto form generation, google charts and much more
+- [flask-sample](https://github.com/alphardex/flask-sample)
