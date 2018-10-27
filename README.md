@@ -5,6 +5,7 @@
 - [Awesome Flask](#awesome-flask)
   - [Framework](#framework)
   - [Admin interface](#admin-interface)
+  - [Analytics](#analytics)
   - [Authentication](#authentication)
   - [Authorization](#authorization)
   - [Database](#database)
@@ -47,6 +48,11 @@
 ## Admin interface
 
 - [Flask-Admin](https://github.com/flask-admin/flask-admin) - Simple and extensible administrative interface framework for Flask
+
+## Analytics
+
+- [Flask-Analytics](https://github.com/citruspi/Flask-Analytics) - Analytics snippets generator extension for the Flask framework
+- [Flask-Matomo](https://github.com/Lanseuo/flask-matomo) - Track requests to your Flask website with Matomo
 
 ## Authentication
 
