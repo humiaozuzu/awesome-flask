@@ -196,8 +196,7 @@
 
 ## Videos
 
-- [Flask by Example](http://pyvideo.org/video/2608/flask-by-example/)
-- [Writing RESTful web services with Flask](http://pyvideo.org/video/2668/writing-restful-web-services-with-flask/)
+- [PyVideo](https://pyvideo.org/search.html?q=flask)
 - [Practical Flask Web Development Tutorials](https://www.youtube.com/playlist?list=PLQVvvaa0QuDc_owjTbIY4rbgXOFkUYOUB)
 
 ## Built with Flask
