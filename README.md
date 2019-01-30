@@ -165,6 +165,7 @@
 - [Flask-SocketIO](https://github.com/miguelgrinberg/Flask-SocketIO) - Socket.IO integration for Flask applications
 - [Flask-Moment](https://github.com/miguelgrinberg/Flask-Moment) - Formatting of dates and times in Flask templates using moment.js
 - [Flask-Paginate](https://github.com/lixxu/flask-paginate) - Pagination support for Flask
+- [Flask-graphql](https://github.com/graphql-python/flask-graphql) - Adds GraphQL support to your Flask application
 
 # Resources
 ## Tutorials
