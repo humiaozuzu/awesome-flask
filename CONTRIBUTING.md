@@ -12,7 +12,7 @@ Please ensure your pull request adheres to the following guidelines:
 
 To be on the list, project repositories should adhere to these quality standards:
 
-- Python 2 supported
+- Python 3 supported
 - Code functions as documented and expected
 - Actively maintained
     - Regular, recent commits
@@ -20,8 +20,7 @@ To be on the list, project repositories should adhere to these quality standards
 - Thoroughly documented
 - Tests, where practical
 
-For blog posts
+For resources
 
-- Posts should be in series
-- Well structured
-- Right and beautiful code snippets
+- Please do not add paid cources/resources (there are so many we should not include theme all here)
+- Posts should be in series and well structured. Please do not add single post.
