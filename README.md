@@ -184,6 +184,7 @@
 
 - [Full Stack Foundations](https://www.udacity.com/course/full-stack-foundations--ud088)
 - [Designing RESTful APIs](https://www.udacity.com/course/designing-restful-apis--ud388)
+- [Microservices with Docker, Flask, and React](https://testdriven.io/courses/microservices-with-docker-flask-and-react/)
 
 ## Books
 
