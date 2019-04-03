@@ -36,6 +36,7 @@
 
 ## Framework
 
+- [Flask-Rebar](https://github.com/plangrid/flask-rebar) - combines Flask, Marshmallow, and Swagger for robust REST services. See [Swagger as a side-effect](https://flask-rebar.readthedocs.io/en/latest/why.html#swagger-as-a-side-effect) for what makes Rebar special.
 - [Connexion](https://github.com/zalando/connexion) - Swagger/OpenAPI First framework for Python on top of Flask with automatic endpoint validation and OAuth2 support
 - [Flask-MongoRest](https://github.com/closeio/flask-mongorest) - Restful API framework wrapped around MongoEngine
 - [Eve](https://github.com/pyeve/eve) - REST API framework powered by Flask, MongoDB and good intentions
