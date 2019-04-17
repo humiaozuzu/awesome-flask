@@ -157,6 +157,7 @@
 - [Flask-MonitoringDashboard](https://github.com/flask-dashboard/Flask-MonitoringDashboard) - Automatically monitor the evolving performance of Flask/Python web services.
 - [nplusone](https://github.com/jmcarp/nplusone#flask-sqlalchemy) - Auto-detect n+1 queries with Flask and SQLAlchemy
 - [connexion](https://github.com/zalando/connexion) - Swagger/OpenAPI First framework for Python on top of Flask with automatic endpoint validation & OAuth2 support.
+- [optic-document-flask](https://github.com/opticdev/api-ingestion/tree/master/integrations/python-flask) - Document Flask APIs from your tests. No annotations or code changes required. 
 
 ## Utils
 
