@@ -190,6 +190,12 @@
 
 - [Explore Flask](https://exploreflask.com/en/latest/)
 - [Flask Web Development](http://shop.oreilly.com/product/0636920031116.do)
+- [Flask Web Development 2nd Edition](http://shop.oreilly.com/product/0636920089056.do)
+- [Developing Web Applications with Flask Framework](https://www.amazon.com/Developing-Applications-Flask-Framework-step-ebook/dp/B078QM6SLM/ref=sr_1_8?keywords=python+flask&qid=1558005006&s=gateway&sr=8-8)
+- [Mastering Flask Web Development: Build enterprise-grade, scalable Python web applications, 2nd Edition](https://www.amazon.com/Mastering-Flask-Web-Development-enterprise-grade-ebook/dp/B07JG97M25/ref=pd_cp_351_3?pd_rd_w=lWs7J&pf_rd_p=ef4dc990-a9ca-4945-ae0b-f8d549198ed6&pf_rd_r=F1EVNJYAQ2GTS8S8KYN2&pd_rd_r=3c927b64-77cb-11e9-ab53-6922a0711ce1&pd_rd_wg=0kXQy&pd_rd_i=B07JG97M25&psc=1&refRID=F1EVNJYAQ2GTS8S8KYN2)
+- [RESTful Python Web Services: Develop RESTful web services or APIs with modern Python 3.7, 2nd Edition](https://www.amazon.com/Hands-RESTful-Python-Web-Services-ebook/dp/B07KYQR1NQ/ref=sr_1_15?keywords=python+flask&qid=1558005147&s=gateway&sr=8-15)
+- [Flask: Building Python Web Services](https://www.amazon.com/Flask-Building-Python-Web-Services-ebook/dp/B0722JYY9D/ref=sr_1_13?keywords=python+flask&qid=1558005147&s=gateway&sr=8-13)
+- [Building Serverless Applications with Python: Develop fast, scalable, and cost-effective web applications that are always available](https://www.amazon.com/Building-Serverless-Applications-Python-cost-effective/dp/1787288676/ref=sr_1_14?keywords=python+flask&qid=1558005147&s=gateway&sr=8-14)
 - [Real Python](https://realpython.com)
 - [Learning Flask Framework](https://www.packtpub.com/web-development/learning-flask-framework)
 - [Flask Blueprints](https://www.packtpub.com/web-development/flask-blueprints)
