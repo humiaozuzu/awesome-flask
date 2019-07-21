@@ -180,6 +180,7 @@
 - [Implementing a RESTful Web API with Python & Flask](http://blog.luisrei.com/articles/flaskrest.html)
 - [Discover Flask - Full Stack Web Development with Flask](https://github.com/realpython/discover-flask)
 - [Flaskr - Intro to Flask, Test Driven Development, and jQuery](https://github.com/mjhea0/flaskr-tdd)
+- [Developing a Single Page App with Flask and Vue.js](https://testdriven.io/blog/developing-a-single-page-app-with-flask-and-vuejs/)
 
 ## Courses
 
