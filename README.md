@@ -2,7 +2,7 @@
 
 > A curated list of awesome Flask resources and plugins
 
-- [Awesome Flask](#awesome-flask)
+- [Awesome Flask](#awesome-flask-)
   - [Framework](#framework)
   - [Admin interface](#admin-interface)
   - [Analytics](#analytics)
