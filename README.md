@@ -94,6 +94,7 @@
 ## Email
 
 - [Flask-Mail](https://github.com/mattupstate/flask-mail/) - Flask-Mail adds SMTP mail sending to your Flask applications
+- [TemplateMail](https://github.com/kkinder/templatemail) - Jinja2-based email composition and delivery with Mailgun and SMTP
 
 ## i18n
 
