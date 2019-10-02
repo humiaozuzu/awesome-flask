@@ -68,6 +68,7 @@
 - [Authomatic](https://github.com/authomatic/authomatic) - Authomatic provides out of the box support for a number of providers using OAuth 1.0a (Twitter, Tumblr and more) and OAuth 2.0 (Facebook, Foursquare, GitHub, Google, LinkedIn, PayPal and more)
 - [Flask-Pundit](https://github.com/anurag90x/flask-pundit) - Extension based on Rails' [Pundit](https://github.com/varvet/pundit) gem that provides easy way to organize access control for your models
 - [Flask-Dance](https://github.com/singingwolfboy/flask-dance) - OAuth consumer extension for Flask, shipped with pre-set support for Facebook, GitHub, Google, etc.
+- [Flask-JWT-Extended](https://github.com/vimalloc/flask-jwt-extended) - Flask-JWT-Extended not only adds support for using JSON Web Tokens (JWT) to Flask for protecting views, but also many helpful (and optional) features built in to make working with JSON Web Tokens easier.
 
 ## Database
 
