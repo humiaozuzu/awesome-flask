@@ -181,6 +181,10 @@
 - [Discover Flask - Full Stack Web Development with Flask](https://github.com/realpython/discover-flask)
 - [Flaskr - Intro to Flask, Test Driven Development, and jQuery](https://github.com/mjhea0/flaskr-tdd)
 
+## Documentation
+
+- [Flask Documentation](http://flask.palletsprojects.com/en/1.1.x/)
+
 ## Courses
 
 - [Full Stack Foundations](https://www.udacity.com/course/full-stack-foundations--ud088)
