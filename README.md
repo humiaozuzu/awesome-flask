@@ -44,6 +44,7 @@
 - [Flask-RestPlus](https://github.com/noirbizarre/flask-restplus) - syntaxic sugar, helpers and automatically generated Swagger documentation.
 - [Flask-Potion](https://github.com/biosustain/potion) - RESTful API framework for Flask and SQLAlchemy
 - [Zappa](https://github.com/Miserlou/Zappa) - Build and deploy server-less Flask applications on AWS Lambda and API Gateway
+- [Quart](https://gitlab.com/pgjones/quart) - A Python ASGI web microframework with the same API as Flask. Dealing with asyncio has never been that easy!
 
 ## Admin interface
 
