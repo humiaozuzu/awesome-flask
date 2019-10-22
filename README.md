@@ -142,6 +142,7 @@
 - [flask-assets](https://github.com/miracle2k/flask-assets) - Flask webassets integration
 - [flask-s3](https://github.com/e-dard/flask-s3) - Seamlessly serve your static assets of your Flask app from Amazon S3
 - [Flask-SSLify](https://github.com/kennethreitz/flask-sslify) - Force SSL on your Flask app
+- [Flask-Talisman](https://github.com/GoogleCloudPlatform/flask-talisman) - a small Flask extension that handles setting HTTP headers that can help protect against a few common web application security issues.
 - [Flask-HTMLmin](https://github.com/hamidfzm/Flask-HTMLmin) - Flask html minifier
 
 ## Development (Debugging/Testing/Documentation)
