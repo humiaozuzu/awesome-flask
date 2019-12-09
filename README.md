@@ -114,6 +114,7 @@
 - [huey](https://github.com/coleifer/huey) - a little task queue for python
 - [Flask-RQ](https://github.com/mattupstate/flask-rq) - RQ (Redis Queue) integration for Flask applications
 - [celery](https://github.com/celery/celery/) - Distributed Task Queue
+- [Flask-Crontab](https://github.com/frostming/flask-crontab) - Simple Flask scheduled tasks without extra daemons
 
 ## Exception tracking
 
