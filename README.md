@@ -170,6 +170,7 @@
 - [Flask-Moment](https://github.com/miguelgrinberg/Flask-Moment) - Formatting of dates and times in Flask templates using moment.js
 - [Flask-Paginate](https://github.com/lixxu/flask-paginate) - Pagination support for Flask
 - [Flask-graphql](https://github.com/graphql-python/flask-graphql) - Adds GraphQL support to your Flask application
+- [Create-Flask-App](https://github.com/MarcusMann/create-flask-app) - Create Flask apps is a cli-applcation for build flask apps.
 
 # Resources
 ## Tutorials
