@@ -180,6 +180,7 @@
 - [Implementing a RESTful Web API with Python & Flask](http://blog.luisrei.com/articles/flaskrest.html)
 - [Discover Flask - Full Stack Web Development with Flask](https://github.com/realpython/discover-flask)
 - [Flaskr - Intro to Flask, Test Driven Development, and jQuery](https://github.com/mjhea0/flaskr-tdd)
+- [Building Microservices in Python and Flask with Complete GitHub Code](https://codeahoy.com/2016/07/10/writing-microservices-in-python-using-flask/)
 
 ## Courses
 
