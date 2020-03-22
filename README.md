@@ -90,6 +90,7 @@
 ## Data Validation
 
 - [Flask-WTF](https://github.com/lepture/flask-wtf) - Simple integration of Flask and WTForms, including CSRF, file upload and Recaptcha integration.
+- [Flask-File-Upload](https://github.com/joegasewicz/flask-file-upload) - Easy file uploads for Flask.
 
 ## Email
 
