@@ -73,6 +73,7 @@
 
 - [Flask-MongoEngine](https://github.com/MongoEngine/flask-mongoengine) - MongoEngine flask extension with WTF model forms support
 - [Flask-SQLAlchemy](https://github.com/mitsuhiko/flask-sqlalchemy) - Adds SQLAlchemy support to Flask
+- [Flask-Redis](https://github.com/underyx/flask-redis/) - A Flask extension for using Redis
 
 ## Database Migrations
 
