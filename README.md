@@ -73,6 +73,7 @@
 
 - [Flask-MongoEngine](https://github.com/MongoEngine/flask-mongoengine) - MongoEngine flask extension with WTF model forms support
 - [Flask-SQLAlchemy](https://github.com/mitsuhiko/flask-sqlalchemy) - Adds SQLAlchemy support to Flask
+- [Flask-Excel](https://github.com/pyexcel-webwares/Flask-Excel) - A flask extension using pyexcel to read, manipulate and write data in different excel formats: csv, ods, xls, xlsx and xlsm.
 
 ## Database Migrations
 
