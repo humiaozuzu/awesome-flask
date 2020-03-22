@@ -135,6 +135,7 @@
 - [Flask-Gravatar](https://github.com/zzzsochi/Flask-Gravatar) - Small and simple gravatar usage in Flask
 - [Flask-Pusher](https://github.com/iurisilvio/Flask-Pusher) - Pusher integration for Flask
 - [Flask-Azure-Storage](https://github.com/alejoar/Flask-Azure-Storage) - Flask extension that provides integration with Azure Storage
+- [Flask-Ask](https://github.com/johnwheeler/flask-ask) - Flask-Ask is a Flask extension that makes building Alexa skills for the Amazon Echo easier and much more fun.
 
 ## Frontend
 
