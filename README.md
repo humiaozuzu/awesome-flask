@@ -43,6 +43,7 @@
 - [Flask-RESTful](https://github.com/flask-restful/flask-restful) - Simple framework for creating REST APIs
 - [Flask-RestPlus](https://github.com/noirbizarre/flask-restplus) - syntaxic sugar, helpers and automatically generated Swagger documentation.
 - [Flask-Potion](https://github.com/biosustain/potion) - RESTful API framework for Flask and SQLAlchemy
+- [SAFRS](https://github.com/thomaxxl/safrs) - JSON:API and OpenAPI framework built on top of SQLAlchemy and Flask-RESTful
 - [Zappa](https://github.com/Miserlou/Zappa) - Build and deploy server-less Flask applications on AWS Lambda and API Gateway
 
 ## Admin interface
