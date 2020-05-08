@@ -241,6 +241,8 @@
 - [indico](https://github.com/indico/indico) - a general-purpose event management web-based solution. It includes a full-blown conference organization workflow as well as tools for meeting management and room booking. It provides as well integration with video-conferencing solutions.
 - [flaskbb](https://github.com/flaskbb/flaskbb) - A classic Forum Software in Python using Flask.
 - [PythonBuddy] (https://github.com/ethanchewy/PythonBuddy) - Online Python Editor With Live Syntax Checking and Execution
+- [FORGE](https://github.com/astrosonic/forge) - A secure directive transfer network using strong RSA4096 asymmetric cryptography built on Flask
+- [Sanctuary](https://github.com/astrosonic/sanctuary) - A secure synchronous lightweight chatroom with zero logging and total transience
 
 ## Boilerplate
 
