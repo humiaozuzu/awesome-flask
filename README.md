@@ -56,7 +56,7 @@
 
 ## Authentication
 
-- [Flask-Security](https://github.com/mattupstate/flask-security) - Quick and simple security for Flask applications
+- [Flask-Security-Too](https://github.com/Flask-Middleware/flask-security) - Quick and simple security for Flask applications
 - [Flask-Login](https://github.com/maxcountryman/flask-login) - Flask user session management
 - [Flask-User](https://github.com/lingthio/Flask-User) - Customizable user account management for Flask
 - [Flask-HTTPAuth](https://github.com/miguelgrinberg/Flask-HTTPAuth) - Simple extension that provides Basic and Digest HTTP authentication for Flask routes
