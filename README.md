@@ -209,6 +209,7 @@
 
 - [PyVideo](https://pyvideo.org/search.html?q=flask)
 - [Practical Flask Web Development Tutorials](https://www.youtube.com/playlist?list=PLQVvvaa0QuDc_owjTbIY4rbgXOFkUYOUB)
+- [Flask Tutorials](https://www.youtube.com/playlist?list=PL-osiE80TeTs4UjLw5MM6OjgkjFeUxCYH)
 
 ## Built with Flask
 
