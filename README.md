@@ -107,6 +107,7 @@
 ## Rate Limiting
 
 - [Flask-Limiter](https://github.com/alisaifee/flask-limiter) - Flask-Limiter provides rate limiting features to flask routes
+- [Flask-Kaccel](https://github.com/lovapos/Flask-Kaccel) - Add Flask support for Nginx X-Accel features 
 
 ## Task Queue
 
