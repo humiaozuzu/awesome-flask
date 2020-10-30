@@ -36,6 +36,7 @@
 
 ## Framework
 
+- [Flask-State](https://github.com/yoobool/flask-state) - A visual plug-in for displaying native state through echarts for browser.
 - [Connexion](https://github.com/zalando/connexion) - Swagger/OpenAPI First framework for Python on top of Flask with automatic endpoint validation and OAuth2 support
 - [Flask-MongoRest](https://github.com/closeio/flask-mongorest) - Restful API framework wrapped around MongoEngine
 - [Eve](https://github.com/pyeve/eve) - REST API framework powered by Flask, MongoDB and good intentions
