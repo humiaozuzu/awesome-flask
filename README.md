@@ -48,6 +48,7 @@
 ## Admin interface
 
 - [Flask-Admin](https://github.com/flask-admin/flask-admin) - Simple and extensible administrative interface framework for Flask
+- [Pyctuator](https://github.com/SolarEdgeTech/pyctuator) - Monitor and admin FastAPI applications using Spring Boot Admin's web UI.
 
 ## Analytics
 
