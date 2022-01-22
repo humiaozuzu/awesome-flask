@@ -41,7 +41,7 @@
 - [Eve](https://github.com/pyeve/eve) - REST API framework powered by Flask, MongoDB and good intentions
 - [Flask-Restless](https://github.com/jfinkels/flask-restless) - A Flask extension for creating simple ReSTful APIs from SQLAlchemy models
 - [Flask-RESTful](https://github.com/flask-restful/flask-restful) - Simple framework for creating REST APIs
-- [Flask-RestPlus](https://github.com/noirbizarre/flask-restplus) - syntaxic sugar, helpers and automatically generated Swagger documentation.
+- [Flask-RESTX](https://github.com/python-restx/flask-restx) - syntaxic sugar, helpers and automatically generated Swagger documentation.
 - [Flask-Potion](https://github.com/biosustain/potion) - RESTful API framework for Flask and SQLAlchemy
 - [Zappa](https://github.com/Miserlou/Zappa) - Build and deploy server-less Flask applications on AWS Lambda and API Gateway
 
