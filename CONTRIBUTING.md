@@ -22,5 +22,5 @@ To be on the list, project repositories should adhere to these quality standards
 
 For resources
 
-- Please do not add paid cources/resources (there are so many we should not include theme all here)
+- Please do not add paid courses/resources (there are so many we should not include theme all here)
 - Posts should be in series and well structured. Please do not add single post.
