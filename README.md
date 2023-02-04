@@ -143,6 +143,7 @@
 - [flask-s3](https://github.com/e-dard/flask-s3) - Seamlessly serve your static assets of your Flask app from Amazon S3
 - [Flask-SSLify](https://github.com/kennethreitz/flask-sslify) - Force SSL on your Flask app
 - [Flask-HTMLmin](https://github.com/hamidfzm/Flask-HTMLmin) - Flask html minifier
+- [Flask-script](https://github.com/smurfix/flask-script) - The Flask-Script extension provides support for writing external scripts in Flask.
 
 ## Development (Debugging/Testing/Documentation)
 
