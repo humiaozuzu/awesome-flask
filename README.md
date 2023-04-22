@@ -241,7 +241,7 @@
 - [indico](https://github.com/indico/indico) - a general-purpose event management web-based solution. It includes a full-blown conference organization workflow as well as tools for meeting management and room booking. It provides as well integration with video-conferencing solutions.
 - [flaskbb](https://github.com/flaskbb/flaskbb) - A classic Forum Software in Python using Flask.
 - [PythonBuddy](https://github.com/ethanchewy/PythonBuddy) - Online Python Editor With Live Syntax Checking and Execution
-
+- [flaskWeather](https://github.com/DogukanUrker/flaskWeather) - [Simple weather app](https://dogukanurker.com/flaskweather).🌤️ [Deployment](https://flaskweather.pythonanywhere.com/)
 
 ## Boilerplate
 
