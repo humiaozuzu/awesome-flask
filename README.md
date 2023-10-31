@@ -51,6 +51,7 @@
 
 ## Analytics
 
+- [Apitally](https://docs.apitally.io/frameworks/flask) - Simple traffic, error and response time monitoring plus API key and permission management for Flask applications.
 - [Flask-Analytics](https://github.com/citruspi/Flask-Analytics) - Analytics snippets generator extension for the Flask framework
 - [Flask-Matomo](https://github.com/Lanseuo/flask-matomo) - Track requests to your Flask website with Matomo
 
