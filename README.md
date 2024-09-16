@@ -94,6 +94,7 @@
 ## Email
 
 - [Flask-Mail](https://github.com/mattupstate/flask-mail/) - Flask-Mail adds SMTP mail sending to your Flask applications
+- [Flask-Mailman](https://github.com/waynerv/flask-mailman/tree/master) - Flask-Mailman is a Flask extension providing simple email sending capabilities meant to replace Flask-Mail with a better warranty and more features.
 
 ## i18n
 
