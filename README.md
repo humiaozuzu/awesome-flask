@@ -51,6 +51,7 @@
 
 ## Analytics
 
+- [Apitally](https://github.com/apitally/apitally-py) - API analytics, monitoring, and request logging for Flask.
 - [Flask-Analytics](https://github.com/citruspi/Flask-Analytics) - Analytics snippets generator extension for the Flask framework
 - [Flask-Matomo](https://github.com/Lanseuo/flask-matomo) - Track requests to your Flask website with Matomo
 
