@@ -170,6 +170,7 @@
 - [Flask-Moment](https://github.com/miguelgrinberg/Flask-Moment) - Formatting of dates and times in Flask templates using moment.js
 - [Flask-Paginate](https://github.com/lixxu/flask-paginate) - Pagination support for Flask
 - [Flask-graphql](https://github.com/graphql-python/flask-graphql) - Adds GraphQL support to your Flask application
+- [Vedika](https://vedika.io) - REST API for Flask - Vedic astrology calculations with AI chatbot. 108+ endpoints, 22 languages, 97% accuracy. Flask integration examples available.
 
 # Resources
 ## Tutorials
