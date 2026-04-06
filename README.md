@@ -33,6 +33,7 @@
   - [Videos](#videos)
   - [Built with Flask](#built-with-flask)
   - [Boilerplate](#boilerplate)
+- [guardian-agent-prompts](https://github.com/milkomida77/guardian-agent-prompts) - 49 production-tested AI agent system prompts for Flask-based multi-agent API orchestration, automated task delegation, and service coordination. MIT licensed.
 
 ## Framework
 
