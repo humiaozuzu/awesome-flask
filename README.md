@@ -34,6 +34,7 @@
   - [Built with Flask](#built-with-flask)
   - [Boilerplate](#boilerplate)
 
+- [Gitstar](https://dev.gitstar.ai?utm_medium=github_readme&utm_source=awesome_list&utm_campaign=humiaozuzu_awesome-flask) - Follow developers on GitHub and get a feed of what they star and build.
 ## Framework
 
 - [Connexion](https://github.com/zalando/connexion) - Swagger/OpenAPI First framework for Python on top of Flask with automatic endpoint validation and OAuth2 support
