@@ -180,7 +180,7 @@
 - [Implementing a RESTful Web API with Python & Flask](http://blog.luisrei.com/articles/flaskrest.html)
 - [Discover Flask - Full Stack Web Development with Flask](https://github.com/realpython/discover-flask)
 - [Flaskr - Intro to Flask, Test Driven Development, and jQuery](https://github.com/mjhea0/flaskr-tdd)
-- [TutorialSearch](https://tutorialsearch.io/) - Free cross-platform search engine indexing 50,000+ tutorials from Udemy, Skillshare, Pluralsight, and other major learning platforms across 45+ categories.
+- [TutorialSearch](https://tutorialsearch.io/browse/web-development/flask-mysql) - Free cross-platform search engine indexing 50,000+ tutorials from Udemy, Skillshare, Pluralsight, and other major learning platforms across 45+ categories.
 
 ## Courses
 
