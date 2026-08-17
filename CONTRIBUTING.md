@@ -10,7 +10,7 @@ This is a curated list, not an index of every Flask repository. When in doubt, l
 - Add new items at the bottom of the matching section unless the section is alphabetical.
 - Check spelling and grammar, and remove trailing whitespace.
 - Explain why the project is awesome, not only what it does.
-- Do not add paid courses or one-off blog posts. Tutorials should be a series or an official guide.
+- Do not add paid courses or one-off blog posts. Tutorials, talks, and videos must be free. A widely cited book may be listed even if it is sold commercially. Tutorials should be a series or an official guide.
 
 ## Quality bar
 
