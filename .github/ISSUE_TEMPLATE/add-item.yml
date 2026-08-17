@@ -1,0 +1,53 @@
+name: Suggest an item
+description: Propose an extension, project, or resource for the list
+title: "Add: "
+labels: ["addition"]
+body:
+  - type: input
+    id: url
+    attributes:
+      label: URL
+      placeholder: https://github.com/org/project
+    validations:
+      required: true
+  - type: dropdown
+    id: category
+    attributes:
+      label: Category
+      options:
+        - Admin
+        - APIs
+        - Auth
+        - Cache
+        - Databases
+        - Developer Tools
+        - Email
+        - Forms and Validation
+        - Full-text Search
+        - Security
+        - Task Queues
+        - Utils
+        - Tutorials
+        - Books
+        - Talks
+        - Videos
+        - Boilerplates
+        - Open Source Projects
+        - Hosting
+        - Other
+    validations:
+      required: true
+  - type: textarea
+    id: why
+    attributes:
+      label: Why is this awesome?
+      description: What problem does it solve, and how is it better than items already listed?
+    validations:
+      required: true
+  - type: input
+    id: activity
+    attributes:
+      label: Last commit or release
+      placeholder: "2026-06"
+    validations:
+      required: true

@@ -1,0 +1,43 @@
+name: Link check
+
+on:
+  pull_request:
+    paths:
+      - "README.md"
+      - "archived.md"
+      - "lychee.toml"
+      - ".github/workflows/link-check.yml"
+  push:
+    branches: [main, master]
+    paths:
+      - "README.md"
+      - "archived.md"
+      - "lychee.toml"
+      - ".github/workflows/link-check.yml"
+  schedule:
+    - cron: "0 6 * * 1"
+  workflow_dispatch:
+
+permissions:
+  contents: read
+  issues: write
+
+jobs:
+  lychee:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - name: Check links
+        id: lychee
+        uses: lycheeverse/lychee-action@v2
+        with:
+          args: --config lychee.toml README.md archived.md
+          fail: ${{ github.event_name != 'schedule' }}
+          token: ${{ secrets.GITHUB_TOKEN }}
+      - name: Open issue on scheduled failures
+        if: github.event_name == 'schedule' && steps.lychee.outputs.exit_code != '0'
+        uses: peter-evans/create-issue-from-file@v5
+        with:
+          title: "Dead links found by weekly check"
+          content-filepath: ./lychee/out.md
+          labels: dead-link

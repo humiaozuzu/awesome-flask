@@ -1,0 +1,4 @@
+max_retries = 3
+retry_wait_time = 5
+accept = [200, 201, 204, 206, 301, 302, 303, 307, 308, 403, 429]
+user_agent = "Mozilla/5.0 (compatible; awesome-flask-linkcheck/1.0; +https://github.com/humiaozuzu/awesome-flask)"

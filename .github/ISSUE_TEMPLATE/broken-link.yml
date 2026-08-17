@@ -1,0 +1,27 @@
+name: Broken or stale link
+description: Report a 404, redirect, or unmaintained project still on the list
+title: "Broken link: "
+labels: ["dead-link"]
+body:
+  - type: input
+    id: url
+    attributes:
+      label: Current URL on the list
+    validations:
+      required: true
+  - type: dropdown
+    id: problem
+    attributes:
+      label: Problem
+      options:
+        - 404 / page gone
+        - Redirect to a new canonical URL
+        - Repository archived or deprecated
+        - Unmaintained (no response, no commits)
+    validations:
+      required: true
+  - type: input
+    id: replacement
+    attributes:
+      label: Suggested replacement (optional)
+      placeholder: New URL, successor project, or "remove"
