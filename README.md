@@ -124,6 +124,7 @@ Tutorials, talks, and videos on this list are free. Paid courses are not accepte
 - [Flask-Limiter](https://github.com/alisaifee/flask-limiter) - Rate limiting for Flask routes.
 - [Flask-SeaSurf](https://github.com/maxcountryman/flask-seasurf) - CSRF protection for Flask.
 - [Flask-Talisman](https://github.com/wntrblm/flask-talisman) - HTTPS enforcement and security headers.
+- [flaskapi-guard](https://github.com/Guard-Core/flaskapi-guard) - IP and country filtering, rate limiting, automatic IP banning and attack pattern detection.
 
 ### Task Queues
 
