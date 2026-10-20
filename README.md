@@ -192,6 +192,7 @@ Tutorials, talks, and videos on this list are free. Paid courses are not accepte
 - [Apache Superset](https://github.com/apache/superset) - Data exploration and visualization platform.
 - [FlaskBB](https://github.com/flaskbb/flaskbb) - Classic forum software built with Flask.
 - [Indico](https://github.com/indico/indico) - Event management system developed at CERN.
+- [mt5-gateway](https://github.com/elitekaycy/mt5-gateway) - REST API for MetaTrader 5 that runs the real terminal headless in Docker, so trading bots on Linux can reach any MT5 broker.
 - [PythonBuddy](https://github.com/ethanchewy/PythonBuddy) - Online Python editor with live syntax checking.
 - [Redash](https://github.com/getredash/redash) - Query and visualize data from many sources.
 - [SecureDrop](https://github.com/freedomofpress/securedrop) - Whistleblower submission system for newsrooms.
