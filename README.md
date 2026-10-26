@@ -131,6 +131,7 @@ Tutorials, talks, and videos on this list are free. Paid courses are not accepte
 - [Dramatiq](https://github.com/Bogdanp/dramatiq) - Fast alternative to Celery, with [Flask-Dramatiq](https://flask-dramatiq.readthedocs.io/) available.
 - [Flask-RQ](https://github.com/pallets-eco/flask-rq) - Redis Queue (RQ) integration for Flask and Quart.
 - [Huey](https://github.com/coleifer/huey) - Small Redis-backed task queue.
+- [celery-manager](https://github.com/Pythondeveloper6/celery-manager) - Dashboard and REST API for Celery tasks, with pause and cancel of single periodic-task runs.
 
 ### Utils
 
