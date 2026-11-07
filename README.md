@@ -198,6 +198,7 @@ Tutorials, talks, and videos on this list are free. Paid courses are not accepte
 - [SimpleLogin](https://github.com/simple-login/app) - Email alias service that protects personal inboxes.
 - [SkyLines](https://github.com/skylines-project/skylines) - Live tracking and flight database for gliding.
 - [Timesketch](https://github.com/google/timesketch) - Collaborative forensic timeline analysis.
+- [AI Assistant Service](https://github.com/kosoyyagent/ai-assistant-service) - Self-hosted private AI chat web service with per-user history, an admin panel, and pluggable LLM backends (any OpenAI-compatible API or Yandex AI Studio).
 
 ## Hosting
 
