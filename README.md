@@ -75,6 +75,7 @@ Tutorials, talks, and videos on this list are free. Paid courses are not accepte
 - [Flask-Security](https://github.com/pallets-eco/flask-security) - Account management, authentication, and authorization. Continues Flask-Security-Too.
 - [Flask-Session](https://github.com/pallets-eco/flask-session) - Server-side sessions for Flask.
 - [Flask-User](https://github.com/lingthio/Flask-User) - Customizable user registration, login, and account management.
+- [OL-Auth](https://github.com/kubdrabik/olauth) - Zero-config, one-line authentication engine for Flask with persistent sessions, route protection, email verification, and password reset.
 
 ### Cache
 
