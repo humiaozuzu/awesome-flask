@@ -75,6 +75,7 @@ Tutorials, talks, and videos on this list are free. Paid courses are not accepte
 - [Flask-Security](https://github.com/pallets-eco/flask-security) - Account management, authentication, and authorization. Continues Flask-Security-Too.
 - [Flask-Session](https://github.com/pallets-eco/flask-session) - Server-side sessions for Flask.
 - [Flask-User](https://github.com/lingthio/Flask-User) - Customizable user registration, login, and account management.
+- [Mockatoo](https://mockatoo.globalunderdog.com) - Hosted mock OAuth provider for testing Google, GitHub and six other sign-ins in Flask apps without registering provider apps. See the [Authlib example](https://github.com/mockatoo/examples/tree/main/authlib-flask).
 
 ### Cache
 
