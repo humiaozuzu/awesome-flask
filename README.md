@@ -93,6 +93,7 @@ Tutorials, talks, and videos on this list are free. Paid courses are not accepte
 
 - [Elastic APM](https://github.com/elastic/apm-agent-python) - Application performance monitoring for Flask.
 - [Flask-DebugToolbar](https://github.com/pallets-eco/flask-debugtoolbar) - In-browser debug toolbar, ported from Django.
+- [flask-lens](https://github.com/duhanguler/flask-lens) - Real-time observability console, SQL/N+1 profiler, EXPLAIN analyzer, cProfile SVG flamegraph, request replayer, and pytest query-budget guardrails for Flask.
 - [Flask-MonitoringDashboard](https://github.com/flask-dashboard/Flask-MonitoringDashboard) - Automatic performance monitoring for Flask services.
 - [Flask-Testing](https://github.com/jarus/flask-testing) - Unittest helpers for Flask applications.
 - [Mixer](https://github.com/klen/mixer) - Object factory for SQLAlchemy and Django models.
