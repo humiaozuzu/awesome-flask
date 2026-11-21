@@ -50,6 +50,7 @@ Tutorials, talks, and videos on this list are free. Paid courses are not accepte
 ### Admin
 
 - [Flask-Admin](https://github.com/pallets-eco/flask-admin) - Extensible admin interface for managing application data.
+- [flask-deck](https://github.com/duhanguler/flask-deck) - Enterprise admin panel and operations workbench for Flask and SQLAlchemy 2.0 with zero Node build, strict nonce CSP, RBAC, TOTP 2FA, OIDC SSO, keyset pagination, and audit logs.
 
 ### APIs
 
